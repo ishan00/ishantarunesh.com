@@ -67,6 +67,11 @@ h3 {
 	color: #0375B4;
 
 }
+h4 {
+	font-size: 1.8em;
+	color: #07889B;
+	display: inline-block;
+}
 
 h5{
 	font-size: 1.5em;
