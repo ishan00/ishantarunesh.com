@@ -1,14 +1,14 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,600&display=swap');
 /*
 Design by Free CSS Templates
 http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
-@font-face{
-	font-family: 'Product Sans';
-	src: url('ProductSansRegular.ttf') format('truetype');
-}
+/*@font-face{*/
+	/*font-family: 'Product Sans';*/
+	/*src: url('ProductSansRegular.ttf') format('truetype');*/
+/*}*/
 
 /*.container-fluid {
     position: absolute;
@@ -20,17 +20,125 @@ Released for free under a Creative Commons Attribution 2.5 License
 */
 
 
+body {
+  background-color: #fff;
+  padding:0px;
+  font: 18.0px/1.5 Crimson Pro, serif; 
+  color:#000;
+  font-weight:500;
+  margin:0
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color:#043361;
+  margin:0 0 20px;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1, h3, h4, h5, h6 {
+    color:rgb(62, 183, 240);
+  }
+
+  h2 {
+    color:rgb(62, 183, 240);
+  }
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
 h1, h2, h3 {
-	margin: 0;
-	padding: 5px 0px 5px 0px;
-	font-weight: normal;
-	/*color: #1f4a91;*/
+  line-height:1.1;
 }
 
 h1 {
-	font-size: 4em;
-	/*font-family: Product Sans */
+  font-size:28px;
 }
+
+.icons {
+  color:#39c; 
+  text-decoration:none;
+}
+
+.icons:hover {
+  color:#069;
+}
+
+a {
+  color:#239B56; 
+  text-decoration:none;
+}
+
+a:hover {
+  color:#1D8348;
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color:rgb(62, 183, 240);
+  }
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}
+
+.wrapper {
+  width:960px;
+  margin:0 auto;
+  padding-top:3.0em;
+}
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+}
+
+pre {
+  max-width:500px;
+  padding:8px 15px;
+  background: #f8f8f8;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+dt {
+  color:#444;
+  font-weight:500;
+}
+
+th {
+  color:#444;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
 
  #special1 {
     position: absolute;
@@ -58,24 +166,7 @@ h1 {
     /*overflow-y: scroll;*/
     /*width: 25%;*/
   }
-h2 {
-	font-size: 2.8em;
-}
 
-h3 {
-	font-size: 2em;
-	color: #0375B4;
-
-}
-h4 {
-	font-size: 1.8em;
-	color: #07889B;
-	display: inline-block;
-}
-
-h5{
-	font-size: 1.5em;
-}
 
 p, ul, ol {
 	margin-top: 0;
@@ -162,22 +253,6 @@ a:hover {
 	text-decoration: none;
 }
 
-h3 {
-	font-size: 2em;
-	color: #0375B4;
-}
-
-body {
-	margin: 30px 0px 0px 0px;
-	padding: 0;
-	background: #FFFFFF;
-	font-family: Product Sans;
-	font-size: 13px;
-	/*font-color: #262228;*/
-	color: #262228;
-	/*overflow: hidden;*/
-  	/*height:100%;*/
-}
 
 .contact .contact-title {
   position: relative;
