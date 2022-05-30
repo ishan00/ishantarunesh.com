@@ -176,7 +176,12 @@ p, ul, ol {
 ul, ol {
 }
 
-
+.date {
+  color: #4847F6;
+  background-color: #E8EAED;
+  padding: 6px;
+  border-radius: 20px;
+}
 
 /* Header */
 
