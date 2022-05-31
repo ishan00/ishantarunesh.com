@@ -1,3 +1,5 @@
+import os
+
 html_main = """
 <!DOCTYPE html>
 <html lang="en-US">
@@ -94,17 +96,16 @@ def read_post(file):
 
 	return post
 
-list_of_posts = [
-	'hesitate-writing-goals',
-	'insidious-addictions',
-	'humiliations-that-stick',
-]
+list_of_posts = os.listdir('posts')
+list_of_posts = sorted(list_of_posts, reverse = True)
+
+print (list_of_posts)
 
 index = ""
 posts = ""
 
 for i, post in enumerate(list_of_posts):
-	parsed = read_post('posts/' + post + '.html')
+	parsed = read_post('posts/' + post)
 	index += '<li><a href="#' + str(i) + '"' + ">" + parsed['title'] + '</a><span style="float:right">' + parsed['date'] + '</span></li>\n'
 	posts += html_post.replace("TITLE", parsed['title']).replace("DATE", parsed['date']).replace("BODY", parsed['body']).replace("ID", str(i))
 
