@@ -1,81 +1,114 @@
-html = """
+html_main = """
 <!DOCTYPE html>
 <html lang="en-US">
-	<head>
-		<title>Thoughts and Worries</title>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-		<link rel="stylesheet" href="bootstrap.min.css">
+<head>
+	<title>Thoughts and Worries</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+	<link rel="stylesheet" href="bootstrap.min.css">
 	<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 
-		<style>
+	<style>
 
-			.hr-1 {
-				height: 10px;
-				background: url(hr-1.jpg) no-repeat center;
-				border: none;
-			}
-			.hr-2 {
-				height: 15px;
-				background: url(hr-2.jpg) no-repeat center;
-				border: none;
-			}
+		.hr-1 {
+			height: 10px;
+			background: url(hr-1.jpg) no-repeat center;
+			border: none;
+		}
+		.hr-2 {
+			height: 15px;
+			background: url(hr-2.jpg) no-repeat center;
+			border: none;
+		}
 
-		</style>
+	</style>
 
-	</head>
-	<body style="background-color: #FEF2CC;">
+</head>
+<body style="background-color: #FEF2CC;">
 
-		<div id="home" class="container-fluid">
-			<div class="row"> 
-				<div class="col-md-2">  
-				</div>
-				<div class="col-md-8">
-					<div style="margin-top:30px">
-						<h1 style="text-align: center;">Thoughts and Worries</h1>
-						<hr class="hr-1">
-						<br>
-						<br>
-
-						INDEX
-
-						<br>
-						<hr>
-
-						CONTENT
-
-					</div>
-				</div>
-				<div class="col-md-2">  
-				</div>
-			</div>
+	<div id="home" class="container-fluid">
+		<div style="margin-top:30px">
+			<h1 style="text-align: center;">Thoughts and Worries</h1>
+			<hr class="hr-1">
+			<br>
 		</div>
 
-		</div>
-	</body>
+		INDEX
+
+		CONTENT
+
+	</div>
+
+</div>
+</body>
 </html>
 """
 
-make_index = False
+html_index = """
+<div class="row">
+	<div class="col-md-3">
+	</div>
+	<div class="col-md-6">
+		<h4 style="text-align: center;">Contents</h3>
+			<ul>
+				LIST
+			</ul>
+		<br>
 
-posts = [
+	</div>
+</div>
+
+"""
+
+html_blog = """
+<div class="row"> 
+	<div class="col-md-2">  
+	</div>
+	<div class="col-md-8">
+		POSTS
+	</div>
+	<div class="col-md-2">  
+	</div>
+</div>
+"""
+
+html_post = """
+<hr>
+<h4 id=ID>TITLE</h4>
+<span class="date">DATE</span><br><br>
+
+BODY
+"""
+
+def read_post(file):
+
+	post = {}
+
+	with open(file) as f:
+		lines = f.readlines()
+		post["title"] = lines[0][6:].strip()
+		post["date"] = lines[1][5:].strip()
+		post["body"] = '\n'.join(lines[3:])
+
+	return post
+
+list_of_posts = [
 	'hesitate-writing-goals',
+	'insidious-addictions',
 	'humiliations-that-stick',
-	'insidious-addictions'
 ]
 
 index = ""
-content = ""
+posts = ""
 
-for post in posts:
-	file = open('posts/' + post + '.html')
-	lines = file.read()
-	content += lines
-	content += '\n<hr>\n\n'
+for i, post in enumerate(list_of_posts):
+	parsed = read_post('posts/' + post + '.html')
+	index += '<li><a href="#' + str(i) + '"' + ">" + parsed['title'] + '</a><span style="float:right">' + parsed['date'] + '</span></li>\n'
+	posts += html_post.replace("TITLE", parsed['title']).replace("DATE", parsed['date']).replace("BODY", parsed['body']).replace("ID", str(i))
 
-html = html.replace('INDEX', index).replace('CONTENT', content)
+html_main = html_main.replace('INDEX', html_index.replace('LIST', index)).replace('CONTENT', html_blog.replace('POSTS',posts))
 
 with open('blog.html', 'w') as f:
-	f.write(html)
+	f.write(html_main)
