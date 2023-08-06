@@ -1,0 +1,17 @@
+---
+title: Notes
+layout: page
+permalink: notes
+---
+<br>
+Below are some of the notes I've saved while reading the books/essays.
+<br><br>
+<ul>
+  {% for post in site.posts %}
+  {% if post.tags contains 'notes' %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+   {% endif %}
+  {% endfor %}
+</ul>
