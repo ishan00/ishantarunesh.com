@@ -66,6 +66,16 @@ h1 {
   color:#069;
 }
 
+ul.nav {
+  list-style-type: none;
+  margin-left:auto;
+margin-right:auto;
+  /*margin: 0;*/
+  /*padding: 0;*/
+  overflow: hidden;
+  text-align:center;
+}
+
 a {
   color:#239B56; 
   text-decoration:none;
