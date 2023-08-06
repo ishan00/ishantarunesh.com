@@ -1,0 +1,48 @@
+<form id="comment-form" method="post" action="{{ site.staticman.endpoint }}{{ site.repository }}/{{ site.staticman.branch }}">
+  <fieldset>
+    <label for="comment-form-message">Comment</label>
+    <textarea type="text" rows="3" id="comment-form-message" name="fields[message]"></textarea>
+  </fieldset>
+  <fieldset>
+    <label for="comment-form-name">Name</label>
+    <input type="text" id="comment-form-name" name="fields[name]"/>
+  </fieldset>
+  <fieldset>
+    <label for="comment-form-email">Email address</label>
+    <input type="email" id="comment-form-email" name="fields[email]"/>
+  </fieldset>
+  <fieldset>
+    <label for="comment-form-url">Website</label>
+    <input type="url" id="comment-form-url" name="fields[url]"/>
+  </fieldset>
+  <fieldset class="hidden" style="display: none;">
+    <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+    <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+    <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+  </fieldset>
+  <fieldset>
+    <button type="submit" id="comment-form-submit">Submit Comment</button>
+  </fieldset>
+</form>
+
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <div class="form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<script type="text/javascript">
+  $(form).addClass('disabled');
+$('#comment-form-submit').html('<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Loading...');
+</script>
