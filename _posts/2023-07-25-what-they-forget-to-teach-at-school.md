@@ -2,6 +2,6 @@
 title: What They Forget To Teach At School
 layout: post
 date: 2023-07-25
-tags: personal notes ai
+tags: notes
 ---
 <ul><li><p class="body"><span>“In small ways and large, it teaches us that those who most faithfully follow its dictates will prosper – and, correspondingly, that those who insist on doubting, rebelling, cursing and defying it will founder. From a hugely impressionable age, we have it impressed on us that school is the ultimate arbiter of who will succeed and who must go astray.”</span></p></li><li><p class="body"><span>“They have a set number of topics they want to talk us through, and must – to a greater or lesser extent – distract us from wandering too far away from their own ideas. They teach us to redeploy concepts rather than originate them. They teach us to deliver on, rather than change, expectations.”</span></p></li><li><p class="body"><span>“Along the way, they teach us to respect people in authority rather than imagine that – in a rather inspiring sense – in a great many fields, no one actually knows exactly what’s going on. They want us to put up our hands and wait to be picked. They want us to keep asking other people for permission. They teach us everything other than the two skills that in many ways decisively determine the quality of adult life: knowing how to choose the right job for ourselves and knowing how to form satisfactory relationships.”</span></p></li></ul>
