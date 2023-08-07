@@ -77,12 +77,12 @@ margin-right:auto;
 }
 
 a {
-  color:#239B56; 
+  color:#2471A3; 
   text-decoration:none;
 }
 
 a:hover {
-  color:#1D8348;
+  color:#000;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -259,20 +259,6 @@ img.me{
 
 #lastname{
 	color: #262228;
-}
-
-
-a {
-  /*text-decoration: underline;*/
-  /*color: #1f4a91;*/
-  /*color: #0375B4;*/
-  color:#007849;
-  /*color: #07889B;*/
-}
-
-a:hover {
-	color: #1f4a91;
-	text-decoration: none;
 }
 
 
