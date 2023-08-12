@@ -1,5 +1,5 @@
 ---
-title: Time, Technique and Trade-off
+title: Time, technique and trade-off
 layout: post
 date: 2022-06-26
 tags: personal

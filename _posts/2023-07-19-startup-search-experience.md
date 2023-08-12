@@ -1,5 +1,5 @@
 ---
-title: Startup Search Experience
+title: Startup search experience
 layout: post
 date: 2023-07-19
 tags: personal

@@ -1,5 +1,5 @@
 ---
-title: Startup Search Experience [Useful Links]
+title: Startup search experience [useful links]
 layout: post
 date: 2023-07-23
 tags: personal

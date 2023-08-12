@@ -1,5 +1,5 @@
 ---
-title: On Insidious Addictions
+title: On insidious addictions
 layout: post
 date: 2022-05-26
 tags: personal

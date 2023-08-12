@@ -1,5 +1,5 @@
 ---
-title: The Value of Time
+title: The value of time
 layout: post
 date: 2022-11-15
 tags: personal

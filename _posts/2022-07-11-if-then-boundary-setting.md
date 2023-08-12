@@ -1,5 +1,5 @@
 ---
-title: IF-THEN Boundary Setting
+title: IF-THEN boundary setting
 layout: post
 date: 2022-07-11
 tags: personal

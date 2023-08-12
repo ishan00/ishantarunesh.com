@@ -1,5 +1,5 @@
 ---
-title: Favourite Quotes
+title: Favourite quotes
 layout: post
 date: 2023-07-23
 tags: personal

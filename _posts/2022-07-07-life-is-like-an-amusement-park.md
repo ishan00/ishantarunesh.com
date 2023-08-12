@@ -1,5 +1,5 @@
 ---
-title: Life is like an Amusement Park
+title: Life is like an amusement park
 layout: post
 date: 2022-07-07
 tags: personal

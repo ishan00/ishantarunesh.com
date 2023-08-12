@@ -1,5 +1,5 @@
 ---
-title: Excerpts from Reddit
+title: Excerpts from reddit
 layout: post
 date: 2023-07-18
 tags: personal
