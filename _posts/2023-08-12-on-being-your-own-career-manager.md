@@ -1,7 +1,7 @@
 ---
 title: On being your own career manager
 layout: post
-date: 2023-08-13
+date: 2023-08-12
 tags: personal
 permalink: on-being-your-own-career-manager
 ---
