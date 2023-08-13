@@ -7,11 +7,17 @@ permalink: thoughts-and-worries
 I write about growing up, self-improvement, and general thoughts about life and career. Indexed below are all of my essays. The delightful part of maintaining a personal blog is the sudden thrill of writing down an original thought in the notes app, hoping it would someday appear on the blog, and I’ll share it with friends. Although I would like only to post original finished contributions, writing imperfectly is important to me to learn to give up on perfectionism, so I also upload partially completed drafts.
 <br><br>
 <ul>
-  {% for post in site.posts %}
-  {% if post.tags contains 'personal' %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a><span style="float:right">{{ post.date | date: "%b %Y" }}</span>
-    </li>
-   {% endif %}
-  {% endfor %}
+{% for post in site.posts %}
+{% if post.tags contains 'personal' %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
 </ul>
+    {{ currentdate }}
+<ul>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
