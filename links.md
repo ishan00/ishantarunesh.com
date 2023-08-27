@@ -6,6 +6,7 @@ permalink: links
 
 Saving articles and social media posts that I've read and liked here.
 
+* [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 * [How to be successful by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [Playing to win vs playing not to lose](https://www.basketballispsychology.com/post/playing-to-win-vs-playing-not-to-lose)
 * [The Organization Kid (theatlantic)](https://www.theatlantic.com/magazine/archive/2001/04/the-organization-kid/302164/)
