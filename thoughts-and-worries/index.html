@@ -1,0 +1,102 @@
+---
+title: Thoughts and Worries
+layout: page
+<!-- permalink: thoughts-and-worries -->
+pagination:
+  enabled: true
+---
+<br>
+I write about growing up, self-improvement, and general thoughts about life and career. Indexed below are all of my essays. The delightful part of maintaining a personal blog is the sudden thrill of writing down an original thought in the notes app, hoping it would someday appear on the blog, and I’ll share it with friends.
+<br>
+<br>
+
+
+Visit <a href="/archive">Archive</a> to see all posts listed.
+<hr><br>
+
+<!-- This loops through the paginated posts -->
+{% assign excerptLength = 100 %}
+{% for post in paginator.posts %}
+    <center><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></center>
+    <!-- <p class="author"> -->
+      <!-- <h5>{{ post.date | date_to_string: "ordinal", "US" }}</h5> -->
+      <h5 style="display: inline-block;">{{ post.date | date_to_string: "ordinal", "US" }} </h5><h5 style="display: inline-block; float: right;">{{ post.tags }}</h5><br><br>
+    <!-- </p> -->
+    <div class="content">
+      <!-- {{ post.content }} -->
+      {{ post.content | strip_html | truncatewords: excerptLength }}
+      {% assign wordCount = post.content | strip_html | number_of_words %}
+      {% if wordCount > excerptLength %}
+      <a href="{{ post.url }}">(continue reading →)</a>
+      {% endif %}
+    </div>
+    <hr><br>
+{% endfor %}
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+
+  {% assign start = paginator.page | minus: 2 %}
+  {% assign end = paginator.page | plus: 2 %}
+  <!-- {% assign baseur = thoughts-and-worries %} -->
+
+  {% if start < 1 %}
+    {% assign start = 1 %}
+    {% assign end = start | plus: 4 %}
+  {% elsif end > paginator.total_pages %}
+    {% assign start = paginator.total_pages | minus: 4 %}
+    {% assign end = paginator.total_pages %}
+  {% endif %}
+
+  {% if start < 1 %}
+    {% assign start = 1 %}
+  {% endif %}
+
+  {% if end > paginator.total_pages %}
+    {% assign end = paginator.total_pages %}
+  {% endif %}
+
+  <div class="pagination-wrapper">
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a class="pagination-step" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+          Newer
+        </a>
+      {% else %}
+        <span class="pagination-step">
+          Newer
+        </span>
+      {% endif %}
+
+      {% if start > 1 %}
+        <a class="pagination-first" href="{{ page.url }}/">1</a>
+        <span class="pagination-more">&middot;&middot;&middot;</span>
+      {% endif %}
+
+      {% for i in (start..end) %}
+        {% if i == paginator.page %}
+          <span class="active">{{ i }}</span>
+        {% elsif i == 1 %}
+          <a href="/thoughts-and-worries/">{{ i }}</a>
+        {% else %}
+          <a href="/thoughts-and-worries/page{{ i }}">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if end < paginator.total_pages %}
+        <span class="pagination-more">&middot;&middot;&middot;</span>
+        <a class="pagination-last" href="/thoughts-and-worries/page{{ paginator.total_pages }}">{{ paginator.total_pages }}</a>
+      {% endif %}
+
+      {% if paginator.next_page %}
+        <a class="pagination-step" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+          Older
+        </a>
+      {% else %}
+        <span class="pagination-step">
+          Older
+        </span>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}

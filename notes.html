@@ -1,11 +1,27 @@
 ---
-title: Book Notes
+title: Archive
 layout: page
-permalink: notes
+permalink: archive
 ---
-<br>
-<h1>Book Notes</h1>
 
+<h1> Tag: Personal </h1>
+
+<ul>
+{% for post in site.posts %}
+	{% if post.tags contains 'personal' %}
+		{% assign currentdate = post.date | date: "%B %Y" %}
+		{% if currentdate != date %}
+		</ul>
+			{{ currentdate }}
+		<ul>
+			{% assign date = currentdate %} 
+		{% endif %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<h1> Tag: Book Notes </h1>
 Below are some of the notes I've saved while reading the books/essays.
 <br>
 <br>

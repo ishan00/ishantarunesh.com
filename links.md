@@ -4,7 +4,7 @@ layout: page
 permalink: links
 ---
 
-Saving articles that I've read and liked here.
+Saving articles and social media posts that I've read and liked here.
 
 * [How to be successful by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [Playing to win vs playing not to lose](https://www.basketballispsychology.com/post/playing-to-win-vs-playing-not-to-lose)
