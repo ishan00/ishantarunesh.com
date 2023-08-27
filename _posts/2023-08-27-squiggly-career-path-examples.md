@@ -1,7 +1,7 @@
 ---
 title: Squiggly Career Path Examples
 layout: post
-date: 2023-08-27 00:00
+date: 2023-08-27 12:30 +0530
 tags: personal
 permalink: squiggly-career-path-examples
 ---

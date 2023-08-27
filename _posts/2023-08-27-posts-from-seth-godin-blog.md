@@ -1,7 +1,7 @@
 ---
 title: Posts from Seth Godin's Blog
 layout: post
-date: 2023-08-27 00:30
+date: 2023-08-27 13:30 +0530
 tags: personal
 permalink: posts-from-seth-godin-blog
 ---
