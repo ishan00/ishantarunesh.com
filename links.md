@@ -4,8 +4,10 @@ layout: page
 permalink: links
 ---
 
-Saving articles and social media posts that I've read and liked here.
+Saving posts from blogs and social media that I've read and liked here.
 
+* [Brandon Sanderson's Advice for Doing Hard Things](https://calnewport.com/brandon-sandersons-advice-for-doing-hard-things/)
+* [The Sorrows of Work (Alain de Botton)](https://www.theschooloflife.com/article/sorrows-of-work/)
 * [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
 * [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 * [How to be successful (Sam Altman)](https://blog.samaltman.com/how-to-be-successful)
@@ -16,12 +18,12 @@ Saving articles and social media posts that I've read and liked here.
 * [History of Transformers](https://archive.vn/xAdam)
 * [Attempting to build a unicorn and falling short by a billion dollars (Deepti Chopra)](https://www.deeptichopra.com/startup-failure)
 * [Reflecting on My Failure to Build a Billion-Dollar Company (Sahil Lavingia)](https://sahillavingia.com/reflecting)
-* [The Next Next Job by Andrew Chen](https://andrewchen.com/the-next-next-job/)
+* [The Next Next Job (Andrew Chen)](https://andrewchen.com/the-next-next-job/)
 * [Curious Guy: Malcolm Gladwell by Bill Simmons](http://www.espn.com/espn/page2/story?page=simmons/060302)
-* [Challenging the Difficult by Eliezer Yudkowsky](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92)
-* [Have no excuses by Nate Soares](https://mindingourway.com/have-no-excuses/)
-* [Dive in by Nate Soares](https://mindingourway.com/dive-in-2/)
-* [Desperation by Nate Soares](https://mindingourway.com/desperation/)
+* [Challenging the Difficult (Eliezer Yudkowsky)](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92)
+* [Have no excuses (Nate Soares)](https://mindingourway.com/have-no-excuses/)
+* [Dive in (Nate Soares)](https://mindingourway.com/dive-in-2/)
+* [Desperation by (Nate Soares)](https://mindingourway.com/desperation/)
 * [Moving towards the goal (Nate Soares)](https://mindingourway.com/moving-towards-the-goal/)
 * [The correct response to uncertainty is not half speed (lesswrong)](https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed)
 * [How to do great work (Paul Graham)](http://www.paulgraham.com/greatwork.html)
