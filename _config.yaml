@@ -1,5 +1,7 @@
 paginate: 5
 paginate_path: "/thoughts-and-worries/page:num/"
 
+timezone: Asia/Calcutta
+
 plugins:
   - jekyll-paginate
