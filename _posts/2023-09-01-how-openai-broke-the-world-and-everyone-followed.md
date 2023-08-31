@@ -5,6 +5,9 @@ date: 2023-09-01 02:00 +0530
 tags: technical
 permalink: how-openai-broke-the-world-and-everyone-followed
 ---
+Wrote this post for [BusinessBar](https://businessbar.net/). The original appears [here](https://businessbar.net/industrypitchers/how-openai-broke-the-world/). 
+
+----
 
 Dubbed the \"Generative AI Revolution,\" this groundbreaking innovation
 is rewriting the rules of creativity and problem-solving across diverse

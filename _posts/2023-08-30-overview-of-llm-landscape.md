@@ -6,6 +6,10 @@ tags: technical
 permalink: overview-of-llm-landscape
 ---
 
+Wrote this post for Babblebots. The original appears [here](https://medium.com/@babblebots.ai/overview-of-llm-landscape-usage-latency-pricing-and-more-8775ad900590). 
+
+----
+
 ## Introduction
 
 With an array of large language models (LLMs) available today, selecting
