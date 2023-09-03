@@ -15,8 +15,9 @@ layout: default
 			<h5 style="display: inline-block;">{{ page.date | date_to_string: "ordinal", "US" }} </h5><h5 style="display: inline-block; float: right;">{{ page.tags }}</h5><br><br>
 
 			{{ content }}
-			<div style="margin-top:80px"></div>
 			<!--
+			<div style="margin-top:80px"></div>
+			
 			<h3> Comments </h3>
 
 			{% assign comments = site.data.comments[page.slug] %}
@@ -30,7 +31,15 @@ layout: default
 			  {% include comments.html index=forloop.index avatar=avatar email=email name=name url=url date=date message=message %}
 			{% endfor %}
 			{% include comments_form.html %}
+			
+			</div>
 			-->
+			<hr>
+			<div style="margin-top:40px">
+			<center>
+				{% include subscribe.html %}
+			</center>
+			
 			</div>
 		</div>
 		<div class="col-md-3">  
