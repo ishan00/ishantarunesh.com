@@ -6,6 +6,7 @@ permalink: links
 
 Saving posts from blogs and social media that I've read and liked here.
 
+* [Career Decisions (Elad Gill)](https://blog.eladgil.com/p/career-decisions)
 * [Brandon Sanderson's Advice for Doing Hard Things](https://calnewport.com/brandon-sandersons-advice-for-doing-hard-things/)
 * [The Sorrows of Work (Alain de Botton)](https://www.theschooloflife.com/article/sorrows-of-work/)
 * [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
