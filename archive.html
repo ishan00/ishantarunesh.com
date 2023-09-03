@@ -3,35 +3,16 @@ title: Archive
 layout: page
 permalink: archive
 ---
-
+<!--
 <h3>Tags - <a href="#personal">Personal</a>, <a href="#technical">Technical</a>, <a href="#notes">Book Notes</a></h3>
-
+-->
 <hr>
 
-<h3 id="personal">Personal</h3>
+<h3 id="personal">Posts</h3>
 
 <ul>
 {% for post in site.posts %}
-	{% if post.tags contains 'personal' %}
-		{% assign currentdate = post.date | date: "%B %Y" %}
-		{% if currentdate != date %}
-		</ul>
-			{{ currentdate }}
-		<ul>
-			{% assign date = currentdate %} 
-		{% endif %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
-
-<hr>
-
-<h3 id="technical">Technical</h3>
-
-<ul>
-{% for post in site.posts %}
-	{% if post.tags contains 'technical' %}
+	{% if post.tags contains 'personal' or post.tags contains 'technical' %}
 		{% assign currentdate = post.date | date: "%B %Y" %}
 		{% if currentdate != date %}
 		</ul>
