@@ -11,11 +11,13 @@ My dad has been in the same job for more than 25 years now. So had all the relat
 
 However as I read more about people at the top of their field, the pattern of having a linear path fades away. Stories of people who have changed their careers going from one job to a completely unrelated job and excelling there too are inspirational. This post serves as a list of the people I am aware of, who have had an unusual career paths to reach where they are. This list is grossly incomplete, and I would keep adding to it whenever I encounter a new story.
 
-* *[Susan Cain](https://en.wikipedia.org/wiki/Susan_Cain)*, Author of the non-fiction book Quiet: The Power of Introverts in a World That Can't Stop Talking, was an attorney for seven years before becoming a writer.
+* *[Susan Cain](https://en.wikipedia.org/wiki/Susan_Cain)*, author of the non-fiction book Quiet: The Power of Introverts in a World That Can't Stop Talking, was an attorney for seven years before becoming a writer.
 
-* *[Thomas Wolf](https://thomwolf.io/)*, Cofounder of Huggingface, completed a PhD in Statistical/Quantum physics working on superconducting materials, followed by a degree in law working as a Patent Attorney before self-educating himself on ML/AI and starting Huggingface
+* *[Thomas Wolf](https://thomwolf.io/)*, cofounder of Huggingface, completed a PhD in Statistical/Quantum physics working on superconducting materials, followed by a degree in law working as a Patent attorney before self-educating himself on ML/AI and starting Huggingface
 
-* *[Emad Mostaque](https://en.wikipedia.org/wiki/Emad_Mostaque)*, Founder and CEO of Stability AI, worked 13 years at different Hedge Funds in the UK before building one of the leading companies in Gen AI. 
+* *[Emad Mostaque](https://en.wikipedia.org/wiki/Emad_Mostaque)*, founder and CEO of Stability AI, worked 13 years at different Hedge Funds in the UK before building one of the leading companies in Gen AI. 
+
+* *[Mel Robbins](https://www.melrobbins.com/)*, author of The 5 Second Rule, The High 5 Habit and a podcast host, worked as a criminal defense attorney and a legal analyst at CNN, before becoming world-famous motivational speaker and podcast host.
 
 <hr> 
 Tim Urban has a great article on finding a career where he talks about how most careers can appear like a 40 year tunnels.
