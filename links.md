@@ -4,17 +4,16 @@ layout: page
 permalink: links
 ---
 
-Saving posts on hard work and career from the internet that I've read and liked. Occasionally you'll find a fiction piece
+Saving posts from blogs and social media that I've read and liked here.
 
+### On career and working hard
 * [Career Decisions (Elad Gill)](https://blog.eladgil.com/p/career-decisions)
 * [Brandon Sanderson's Advice for Doing Hard Things](https://calnewport.com/brandon-sandersons-advice-for-doing-hard-things/)
 * [The Sorrows of Work (Alain de Botton)](https://www.theschooloflife.com/article/sorrows-of-work/)
-* [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
 * [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 * [How to be successful (Sam Altman)](https://blog.samaltman.com/how-to-be-successful)
 * [Playing to win vs playing not to lose](https://www.basketballispsychology.com/post/playing-to-win-vs-playing-not-to-lose)
 * [The Organization Kid (theatlantic)](https://www.theatlantic.com/magazine/archive/2001/04/the-organization-kid/302164/)
-* [How we reduced the cost of building Twitter at Twitter-scale by 100X (redplanetlabs)](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [What to do with your life](https://www.julian.com/blog/life-planning)
 * [Attempting to build a unicorn and falling short by a billion dollars (Deepti Chopra)](https://www.deeptichopra.com/startup-failure)
 * [Reflecting on My Failure to Build a Billion-Dollar Company (Sahil Lavingia)](https://sahillavingia.com/reflecting)
@@ -35,3 +34,10 @@ Saving posts on hard work and career from the internet that I've read and liked.
 * [There's no speed limit (Derek Sivers)](https://sive.rs/kimo)
 * [Overcompensate to compensate (Derek Sivers)](https://sive.rs/compensate)
 * [The Quarter Life Crisis (Ben Casnocha)](https://casnocha.com/2009/05/the-quarter-life-crisis.html)
+
+### Fiction / Life
+* [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
+
+### Technical
+* [How we reduced the cost of building Twitter at Twitter-scale by 100X (redplanetlabs)](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+* [History of Transformers](https://archive.vn/xAdam)
