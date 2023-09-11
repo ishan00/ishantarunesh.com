@@ -4,7 +4,7 @@ layout: page
 permalink: links
 ---
 
-Saving posts from blogs and social media that I've read and liked here.
+Saving posts on hard work and career from the internet that I've read and liked. Occasionally you'll find a fiction piece
 
 * [Career Decisions (Elad Gill)](https://blog.eladgil.com/p/career-decisions)
 * [Brandon Sanderson's Advice for Doing Hard Things](https://calnewport.com/brandon-sandersons-advice-for-doing-hard-things/)
@@ -16,7 +16,6 @@ Saving posts from blogs and social media that I've read and liked here.
 * [The Organization Kid (theatlantic)](https://www.theatlantic.com/magazine/archive/2001/04/the-organization-kid/302164/)
 * [How we reduced the cost of building Twitter at Twitter-scale by 100X (redplanetlabs)](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [What to do with your life](https://www.julian.com/blog/life-planning)
-* [History of Transformers](https://archive.vn/xAdam)
 * [Attempting to build a unicorn and falling short by a billion dollars (Deepti Chopra)](https://www.deeptichopra.com/startup-failure)
 * [Reflecting on My Failure to Build a Billion-Dollar Company (Sahil Lavingia)](https://sahillavingia.com/reflecting)
 * [The Next Next Job (Andrew Chen)](https://andrewchen.com/the-next-next-job/)
