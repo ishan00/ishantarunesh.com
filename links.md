@@ -37,6 +37,7 @@ Saving posts from blogs and social media that I've read and liked here.
 
 ### Fiction / Life
 * [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
+* [Guide to Building Muscles](https://www.julian.com/guide/muscle/intro)
 
 ### Technical
 * [How we reduced the cost of building Twitter at Twitter-scale by 100X (redplanetlabs)](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
