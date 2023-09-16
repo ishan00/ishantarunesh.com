@@ -1,7 +1,7 @@
 ---
 title: Too Soon Old, Too Late Smart
 layout: post
-date: 2023-07-16
+date: 2022-12-31
 tags: notes
 permalink: too-soon-old-too-late-smart
 ---

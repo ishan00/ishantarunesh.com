@@ -1,7 +1,7 @@
 ---
 title: The Highly Sensitive Person
 layout: post
-date: 2023-07-16
+date: 2022-12-31
 tags: notes
 permalink: the-highly-sensitive-person
 ---

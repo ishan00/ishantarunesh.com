@@ -1,7 +1,7 @@
 ---
 title: How To Be A Person In The World
 layout: post
-date: 2023-07-25
+date: 2022-12-31
 tags: notes
 permalink: how-to-be-a-person-in-the-world
 ---

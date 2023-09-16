@@ -1,7 +1,7 @@
 ---
 title: How To Be An Imperfectionist
 layout: post
-date: 2023-07-16
+date: 2022-12-31
 tags: notes
 permalink: how-to-be-an-imperfectionist
 ---

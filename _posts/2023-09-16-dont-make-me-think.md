@@ -6,6 +6,8 @@ tags: notes
 permalink: dont-make-me-think
 ---
 
+The complete title of the book is *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability*
+
 ### Chapter 1
 
 The user shouldn’t have to think when they come to a page. Your task is to remove all question marks that comes in the head when you see a page

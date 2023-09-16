@@ -1,7 +1,7 @@
 ---
 title: From Simi Valley To Silicon Valley
 layout: post
-date: 2023-07-25
+date: 2022-12-31
 tags: notes
 permalink: from-simi-valley-to-silicon-valley
 ---

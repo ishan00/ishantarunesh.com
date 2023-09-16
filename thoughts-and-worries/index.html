@@ -17,7 +17,12 @@ Visit <a href="/archive">Archive</a> to see all posts listed.
 <!-- This loops through the paginated posts -->
 {% assign excerptLength = 100 %}
 {% for post in paginator.posts %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    {% if post.tags contains 'notes' %}
+      <h1><a href="{{ post.url }}">[Book Notes] {{ post.title }}</a></h1>
+    {% else %}
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    {% endif %}
+    <!-- <h1><a href="{{ post.url }}">{{ post.title }}</a></h1> -->
     <!-- <p class="author"> -->
       <!-- <h5>{{ post.date | date_to_string: "ordinal", "US" }}</h5> -->
       <h5 style="display: inline-block;">{{ post.date | date_to_string: "ordinal", "US" }} ({{ post.tags }})</h5><br>

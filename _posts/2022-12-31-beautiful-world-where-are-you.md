@@ -1,7 +1,7 @@
 ---
 title: Beautiful World, Where Are You?
 layout: post
-date: 2023-07-16
+date: 2022-12-31
 tags: notes
 permalink: beautiful-world-where-are-you
 ---

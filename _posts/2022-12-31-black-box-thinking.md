@@ -1,7 +1,7 @@
 ---
 title: Black Box Thinking
 layout: post
-date: 2023-07-25
+date: 2022-12-31
 tags: notes
 permalink: black-box-thinking
 ---

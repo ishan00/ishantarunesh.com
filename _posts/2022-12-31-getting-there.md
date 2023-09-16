@@ -1,7 +1,7 @@
 ---
 title: Getting There
 layout: post
-date: 2023-07-09
+date: 2022-12-31
 tags: notes
 permalink: getting-there
 ---

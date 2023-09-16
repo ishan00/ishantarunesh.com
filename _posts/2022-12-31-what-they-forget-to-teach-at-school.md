@@ -1,7 +1,7 @@
 ---
 title: What They Forget To Teach At School
 layout: post
-date: 2023-07-25
+date: 2022-12-31
 tags: notes
 permalink: what-they-forget-to-teach-at-school
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Startup Of You
 layout: post
-date: 2023-07-16
+date: 2022-12-31
 tags: notes
 permalink: the-startup-of-you
 ---
