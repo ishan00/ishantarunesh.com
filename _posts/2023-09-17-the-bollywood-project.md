@@ -77,7 +77,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Piya (16)
+### Piya (10)
 <div style="line-height: 2;">
 <a class="a-class-green" href="https://youtu.be/u-FaTNxrWhw?si=I2K2yFeiQW9e5nzk&t=95">Piya O re piya</a>
 <a class="a-class-yellow" href="https://youtu.be/iv7lcUkFVSc?si=syYTd2z_Egs2rwTb&t=24">O re piya</a>
@@ -89,6 +89,8 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 <a class="a-class-red" href="https://youtu.be/8YI-JKIwFYM?si=x4yzcWqo8u1UpMQ7&t=24">Bairi piya</a>
 <a class="a-class-green" href="https://youtu.be/ElZfdU54Cp8?si=ms6y1mke1vcJDitd&t=56">Apna bana le piya</a>
 <a class="a-class-yellow" href="https://youtu.be/kw4tT7SCmaY?si=6iiVadLSHNAaAYiE&t=176">Mera sab kuch hai piya ab se tere naam</a>
+
+### Maula (6)
 <a class="a-class-blue" href="aankhein teri">Maula mere maula mere maula mere maula mere (aankhein teri)</a>
 <a class="a-class-red" href="https://youtu.be/JA09HEGTzCU?si=JIGE4dIzO38YDOde&t=42">Maula maula maula mere maula</a>
 <a class="a-class-green" href="https://youtu.be/IMlcwOK5CLI?si=kPvXunHV91pPiBvi&t=53">Maula maula re</a>
