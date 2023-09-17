@@ -19,6 +19,50 @@ Released for free under a Creative Commons Attribution 2.5 License
 }
 */
 
+.a-class-red {
+  background-color:#F5B7B1; 
+  border-radius: 10px;
+  /*padding-left: 4px;*/
+  /*padding-right: 4px;*/
+  padding: 6px; 
+  color:black;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.a-class-yellow {
+  background-color:#F9E79F; 
+  border-radius: 10px;
+  /*padding-left: 4px;*/
+  /*padding-right: 4px;*/
+  padding: 6px; 
+  color:black;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.a-class-blue {
+  background-color:#AED6F1; 
+  border-radius: 10px;
+  /*padding-left: 4px;*/
+  /*padding-right: 4px;*/
+  padding: 6px; 
+  color:black;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.a-class-green {
+  background-color:#ABEBC6; 
+  border-radius: 10px;
+  /*padding-left: 4px;*/
+  /*padding-right: 4px;*/
+  padding: 6px; 
+  color:black;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
 .newsletter {
 padding: 80px 0;
 background: #f2f2f2;

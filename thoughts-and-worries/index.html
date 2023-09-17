@@ -29,7 +29,11 @@ Visit <a href="/archive">Archive</a> to see all posts listed.
     <!-- </p> -->
     <div class="content">
       <!-- {{ post.content }} -->
-      {{ post.content | strip_html | truncatewords: excerptLength }}
+      {% if post.excerptLength %}
+        {{ post.content | strip_html | truncatewords: post.excerptLength }}
+      {% else %}
+        {{ post.content | strip_html | truncatewords: excerptLength }}
+      {% endif %}
       {% assign wordCount = post.content | strip_html | number_of_words %}
       {% if wordCount > excerptLength %}
       <a href="{{ post.url }}">(continue reading →)</a>
