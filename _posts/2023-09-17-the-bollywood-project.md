@@ -92,14 +92,15 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Maula (6)
+### Maula (7)
 <div style="line-height: 2;">
-<a class="a-class-blue" href="aankhein teri">Maula mere maula mere maula mere maula mere (aankhein teri)</a>
-<a class="a-class-red" href="https://youtu.be/JA09HEGTzCU?si=JIGE4dIzO38YDOde&t=42">Maula maula maula mere maula</a>
-<a class="a-class-green" href="https://youtu.be/IMlcwOK5CLI?si=kPvXunHV91pPiBvi&t=53">Maula maula re</a>
-<a class="a-class-yellow" href="https://youtu.be/90hNT7UYlZA?si=T-a1T6G8bkjlPSkA&t=67">Maula mere lele meri jaan</a>
-<a class="a-class-blue" href="https://youtu.be/jHNNMj5bNQw?si=qAngoIChM8f1eGVA&t=174">Mast maula mast kalandar tu hawa ka ek bawandar</a>
-<a class="a-class-red" href="https://youtu.be/_w83EIcjjlg?si=TldleptYBlQoGjwz&t=210">Ali maula</a>
+<a class="a-class-blue" href="aankhein teri">Maula mere maula mere maula mere maula mere (Aankhein Teri)</a>
+<a class="a-class-red" href="https://youtu.be/JA09HEGTzCU?si=JIGE4dIzO38YDOde&t=42">Maula maula maula mere maula (Arziyan)</a>
+<a class="a-class-green" href="https://youtu.be/eIjFX9fVgv0?si=RDI6LbD2vFHd8Z9s&t=48">Mere maula maula mere maula man matwala kyun hua hua</a>
+<a class="a-class-yellow" href="https://youtu.be/IMlcwOK5CLI?si=kPvXunHV91pPiBvi&t=53">Maula maula re</a>
+<a class="a-class-blue" href="https://youtu.be/90hNT7UYlZA?si=T-a1T6G8bkjlPSkA&t=67">Maula mere lele meri jaan</a>
+<a class="a-class-red" href="https://youtu.be/jHNNMj5bNQw?si=qAngoIChM8f1eGVA&t=174">Mast maula mast kalandar tu hawa ka ek bawandar</a>
+<a class="a-class-green" href="https://youtu.be/_w83EIcjjlg?si=TldleptYBlQoGjwz&t=210">Ali maula</a>
 </div>
 <hr>
 
