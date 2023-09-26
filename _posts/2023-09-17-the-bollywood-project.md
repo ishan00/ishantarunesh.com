@@ -53,6 +53,40 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
+### Aankhon (13)
+
+<div style="line-height: 2;">
+	<a class="a-class-yellow" href="https://youtu.be/7KKVb0_IdD4?si=DbyvXT_qr2Vlm2p_&t=15">Aankhon mein teri ajab si ajab si adaayein hain</a>
+	<a class="a-class-blue" href="https://youtu.be/jh66Pjtqr4k?si=bV3HxGOgkxhzHCit&t=208">Khwabon ko jagah na mili aankhon mein wahan pehle se hi sailab tha</a>
+	<a class="a-class-red" href="https://youtu.be/7k5gM4ClRRo?si=5SSYqnserPafnDgU&t=34">Aankhon ki gustakhiyan maaf ho</a>
+	<a class="a-class-green" href="https://youtu.be/yjYE41bYnUM?si=9KEXbjHotVw3FQ8d&t=42">In aankhon ki masti ke</a>
+	<a class="a-class-yellow" href="https://youtu.be/JVlXn22VzaI?si=QGNAThO7Wv5X2T9L&t=28">Aankhein teri kitni haseen</a>
+	<a class="a-class-blue" href="https://youtu.be/eM8Mjuq4MwQ?si=IgR_wk5oh76wlwN3&t=45">Aankhein khuli ho ya ho band deedaar unka hota hai</a>
+	<a class="a-class-red" href="https://youtu.be/I5t894l5b1w?si=vBhsN3tGtcLvxnTH&t=47">Gulabi Aankhein</a>
+	<a class="a-class-green" href="https://youtu.be/kw4tT7SCmaY?si=8Ak-Ito161UQIxv9&t=160">Jaane kaise bandhe tune ankhiyon ke door</a>
+	<a class="a-class-yellow" href="https://youtu.be/2vKMY75kvjI?si=Lzp3mNFx4iphnQ3V&t=22">Tum aankhon se batana hum samajh jayenge</a>
+	<a class="a-class-blue" href="https://youtu.be/hJBHSmyqv0Y?si=z2QYjeFlNZE3UBY2&t=219">Aankhon ne aaj dekha khwaabon ka aasmaan hai</a>
+	<a class="a-class-red" href="https://youtu.be/jh66Pjtqr4k?si=bV3HxGOgkxhzHCit&t=208">Khwaabon ko jagah na mili aankhon mein wahan pehle se hi sailab tha</a>
+	<a class="a-class-green" href="https://youtu.be/Qg-jcTYM5DQ?si=2ZqukZj6E6X_dG2X&t=27">Kya kahun aankhon ne meri sab keh diya</a>
+	<a class="a-class-yellow" href="https://youtu.be/Gg6NMU4ivXM?si=u9nUrJbxEL6tX7FS&t=197">Koi nasha hai teri aankhon ke pyalon mein</a>
+	<a class="a-class-blue" href="https://youtu.be/rY_0SOlmrdY?si=KqbljutyItEvruvJ&t=47">Ankhiyon se goli maare</a>
+</div>
+<hr>
+
+### Aasmaan (8)
+<div style="line-height: 2;">
+	<a class="a-class-blue" href="https://youtu.be/tGTmop4JZWc?si=y0rXXyqF066yCZYv&t=313">Jhuk gaya aasmaan mil gaye do jahan</a>
+	<a class="a-class-red" href="https://youtu.be/eIjFX9fVgv0?si=TnRT3dHY5JZTIC25&t=17">Kis taraf hai aasmaan kis taraf zameen khabar nahi</a>
+	<a class="a-class-green" href="https://youtu.be/zFdi834FiZ4?si=SJunD4_lZLTbk0y0&t=168">Aasmaan mila zameen ko meri aadhe aadhe pure hain hum</a>
+	<a class="a-class-yellow" href="https://youtu.be/j3BiIJKBlYE?si=-CWzqFi23gOpVqRi&t=68">Jo bheji thi dua wo jaake aasmaan</a>
+	<a class="a-class-blue" href="https://youtu.be/COgxQbjzbEk?si=Vye7wvNObWOxQVlU&t=42">Aasmaan hai neela kyun paani geela geela</a>
+	<a class="a-class-red" href="https://youtu.be/EsENO8IjmoY?si=8ox70IURqjfg-Phm&t=11">Khoya khoya chaand khula aasmaan</a>
+	<a class="a-class-green" href="https://youtu.be/hJBHSmyqv0Y?si=z2QYjeFlNZE3UBY2&t=219">Aankhon ne aaj dekha khwaabon ka aasmaan hai</a>
+	<br>
+	And Tushita's fav - <a class="a-class-yellow" href="https://youtu.be/hWrSTieqWTA?si=GeyQwX8lyPgfZTF9&t=23">Aasmaan ko chukar dekho taron ki karo sawari</a> 
+</div>
+<hr>
+
 ### Khuda (32)
 <div style="line-height: 2;">
 	<a class="a-class-red" href="https://youtu.be/cmMiyZaSELo?si=iRQmY3cLQbCMSBOk&t=59">Khuda jaane ke</a>
