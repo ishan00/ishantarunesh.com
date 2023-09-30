@@ -50,6 +50,8 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-red" href="https://youtu.be/q_WvU9J1nXw?si=ddd98ALFzfBz4A38&t=50">Bas itna sa khwab hai</a>
 	<a class="a-class-green" href="https://youtu.be/Gg6NMU4ivXM?si=OeFr2wGNDeqKfgj1&t=39">Kyun aaj kal neend kam khwaab jyada hai</a>
 	<a class="a-class-yellow" href="https://youtu.be/xj5ru2vdhfI?si=f8i1SOFIc5F3DYyq&t=9">khwaab ho tum ya koi haqeeqat</a>
+	<a class="a-class-blue" href="https://youtu.be/vBTcsTd2kF0?si=YB850lbAsazocgLu&t=127">Hum aapko khwaabon mein la la ke satayenge</a>
+	
 </div>
 <hr>
 
