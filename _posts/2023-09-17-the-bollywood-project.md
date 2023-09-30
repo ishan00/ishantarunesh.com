@@ -57,7 +57,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 
 <div style="line-height: 2;">
 	<a class="a-class-yellow" href="https://youtu.be/7KKVb0_IdD4?si=DbyvXT_qr2Vlm2p_&t=15">Aankhon mein teri ajab si ajab si adaayein hain</a>
-	<a class="a-class-blue" href="https://youtu.be/jh66Pjtqr4k?si=bV3HxGOgkxhzHCit&t=208">Khwabon ko jagah na mili aankhon mein wahan pehle se hi sailab tha</a>
+	<a class="a-class-blue" href="https://youtu.be/P8PWN1OmZOA?si=S-RfaO6X1qLaibzH&t=120">Jaane teri aankhein thi ya baatein thi wajah</a>
 	<a class="a-class-red" href="https://youtu.be/7k5gM4ClRRo?si=5SSYqnserPafnDgU&t=34">Aankhon ki gustakhiyan maaf ho</a>
 	<a class="a-class-green" href="https://youtu.be/yjYE41bYnUM?si=9KEXbjHotVw3FQ8d&t=42">In aankhon ki masti ke</a>
 	<a class="a-class-yellow" href="https://youtu.be/JVlXn22VzaI?si=QGNAThO7Wv5X2T9L&t=28">Aankhein teri kitni haseen</a>
