@@ -69,7 +69,8 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-red" href="https://youtu.be/jh66Pjtqr4k?si=bV3HxGOgkxhzHCit&t=208">Khwaabon ko jagah na mili aankhon mein wahan pehle se hi sailab tha</a>
 	<a class="a-class-green" href="https://youtu.be/Qg-jcTYM5DQ?si=2ZqukZj6E6X_dG2X&t=27">Kya kahun aankhon ne meri sab keh diya</a>
 	<a class="a-class-yellow" href="https://youtu.be/Gg6NMU4ivXM?si=u9nUrJbxEL6tX7FS&t=197">Koi nasha hai teri aankhon ke pyalon mein</a>
-	<a class="a-class-blue" href="https://youtu.be/rY_0SOlmrdY?si=KqbljutyItEvruvJ&t=47">Ankhiyon se goli maare</a>
+	<a class="a-class-blue" href="https://youtu.be/vBTcsTd2kF0?si=_a_7-lcUDJ5_P08O&t=29">Hum aapki aankhon mein is dil ko basa dein to</a>
+	<a class="a-class-red" href="https://youtu.be/rY_0SOlmrdY?si=KqbljutyItEvruvJ&t=47">Ankhiyon se goli maare</a>
 </div>
 <hr>
 
