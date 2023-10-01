@@ -35,8 +35,11 @@ Saving posts from blogs and social media that I've read and liked here.
 * [Overcompensate to compensate (Derek Sivers)](https://sive.rs/compensate)
 * [The Quarter Life Crisis (Ben Casnocha)](https://casnocha.com/2009/05/the-quarter-life-crisis.html)
 
-### Fiction / Life
+### Fiction
 * [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
+* [The Last Question (Isaac Asimov)](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
+
+### Fitness
 * [Guide to Building Muscles](https://www.julian.com/guide/muscle/intro)
 
 ### Technical
