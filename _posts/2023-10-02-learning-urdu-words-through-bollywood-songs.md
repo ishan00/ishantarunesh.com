@@ -35,7 +35,7 @@ permalink: learning-urdu-words-through-bollywood-songs
 
 `Kyun sitam hai tera tere chahne walon pe (Galat Fehmi by Azim Azhar)`
 
-`Dagabaaz ho tum sitam karne waale`<br>
+`Dagabaaz ho tum sitam dhane waale`<br>
 `Fareb-e-mohabbat mein uljhane waale (Kaali kaali zulfon ke by Nusrat Fateh Ali Khan)`
 
 `Ae sitamgar tu zara aur sitam kar de aa`<br>
