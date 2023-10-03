@@ -25,6 +25,7 @@ Saving posts from blogs and social media that I've read and liked here.
 * [Desperation by (Nate Soares)](https://mindingourway.com/desperation/)
 * [Moving towards the goal (Nate Soares)](https://mindingourway.com/moving-towards-the-goal/)
 * [The correct response to uncertainty is not half speed (lesswrong)](https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed)
+* [The worst outcome is a mediocre success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
 * [How to do great work (Paul Graham)](http://www.paulgraham.com/greatwork.html)
 * [How to work hard (Paul Graham)](http://www.paulgraham.com/hwh.html)
 * [Competent Elites (Eliezer Yudkowsky)](https://www.lesswrong.com/posts/CKpByWmsZ8WmpHtYa/competent-elites)
