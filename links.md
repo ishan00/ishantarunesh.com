@@ -47,7 +47,6 @@ Saving posts from blogs and social media that I've read and liked here.
 ### Fiction / Life
 * [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
 * [The Last Question (Isaac Asimov)](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
-* [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo) [Video]
 
 ### Fitness
 * [Guide to Building Muscles](https://www.julian.com/guide/muscle/intro)
@@ -55,3 +54,6 @@ Saving posts from blogs and social media that I've read and liked here.
 ### Technical
 * [How we reduced the cost of building Twitter at Twitter-scale by 100X (redplanetlabs)](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [History of Transformers](https://archive.vn/xAdam)
+
+### Videos
+* [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo)
