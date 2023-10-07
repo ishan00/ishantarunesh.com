@@ -19,6 +19,8 @@ However as I read more about people at the top of their field, the pattern of ha
 
 * *[Mel Robbins](https://www.melrobbins.com/)*, author of The 5 Second Rule, The High 5 Habit and a podcast host, worked as a criminal defense attorney and a legal analyst at CNN, before becoming world-famous motivational speaker and podcast host.
 
+* *[Elizabeth Stone](https://www.linkedin.com/in/elizabeth-stone-608a754/)*, currently the CTO of Netflix, studied BS and PhD in Economics and later held roles of VP at a finance firm and Chief Operating Officer.
+
 <hr> 
 Tim Urban has a great article on finding a career where he talks about how most careers can appear like a 40 year tunnels.
 
