@@ -35,6 +35,7 @@ Saving posts from blogs and social media that I've read and liked here.
 * [There's no speed limit (Derek Sivers)](https://sive.rs/kimo)
 * [Overcompensate to compensate (Derek Sivers)](https://sive.rs/compensate)
 * [Playing to win vs playing not to lose](https://www.basketballispsychology.com/post/playing-to-win-vs-playing-not-to-lose)
+* [Play to win, don't play to not lose](https://www.ivyxu.com/blog/play-to-win-dont-play-to-not-lose)
 
 ### Personal Reflections
 * [Attempting to build a unicorn and falling short by a billion dollars (Deepti Chopra)](https://www.deeptichopra.com/startup-failure)
