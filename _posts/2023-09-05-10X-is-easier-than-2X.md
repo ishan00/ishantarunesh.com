@@ -48,3 +48,25 @@ Although Unique Ability may come “naturally” to you, that is misleading. Com
 It’s pure commitment and courage.
 It’s never-ending.
 It’s freedom and how you build your most unique value, which the right people will immediately recognize and appreciate beyond what you can presently imagine.
+
+There is enormous external pressure to keep the 80 percent in your life, because the 80 percent represents security but not freedom. Even still, the greatest pressure you’ll face is internal.
+
+Indeed, as stated previously, a primary reason people don’t go for the 10x upgrades they want is because in the end, they’re too afraid of making those around them who simply wouldn’t get it uncomfortable. They end up buying into the loud agenda of culture and those around them who say they shouldn’t want more than they need. They settle for 2x over 10x and, internally, they can’t overcome the frustration and suppression this creates. Even more, they fail to realize who they truly could have become, the 10x version of themselves that transformed again and again, the David.
+
+To quote Stephen Covey, “The main thing is to keep the main thing the main thing.”
+
+Committing to what you want most is the only way to be free.
+
+A crucial aspect of “wanting what you want” is that you absolutely do not need to justify your desires to anyone.
+
+You can’t be great if you’re content being good.
+
+In order to become the best, you must embrace the art of quitting. Those who become the best don’t hold on to any 80 percent activity or identity for too long.
+
+The rewards are heavily skewed, so much so that it’s typical for #1 to get ten times the benefit of #10, and a hundred times the benefit of #100.
+
+Atomic Habits isn’t 10x better than other similar self-help books, but it is 10-20 percent better and different than the best self-help books. It’s a clear qualitative improvement. Consequently, it gets 10x or 100x the results of even the outliers.
+
+You quit everything that can’t go 10x from here, even if that means eliminating the best of what got you here.
+
+The longer you hold on to the 80 percent out of fear, the slower your 10x transformation will occur. The faster you let go of the 80 percent out of commitment and courage, the faster your 10x transformation will occur.
