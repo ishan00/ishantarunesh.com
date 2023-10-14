@@ -35,7 +35,8 @@ permalink: archive
 		{% assign date = currentdate %} 
 	{% endif %}
 	{% if post.tags contains 'notes' %}
-	<li><a href="{{ post.url }}">[Book Notes] {{ post.title }}</a></li>
+		{% continue %}
+	<!-- <li><a href="{{ post.url }}">[Book Notes] {{ post.title }}</a></li> -->
 	{% else %}
 	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endif %}
