@@ -46,3 +46,15 @@ permalink: learning-urdu-words-through-bollywood-songs
 **Kaafirana/Qaafirana ( काफिराना )** - Unbelievable, unreal (Kaafir means non-believer)
 
 `Qaafirana sa hai ishq hai ya kya hai (Qaafirana from Kedarnath)`
+
+<hr>
+
+**Falak (फ़लक)** — आकाश, स्वर्ग
+
+`Falak tak chal saath mere (Falak tak)`
+
+<hr>
+
+**Khudi (खुदी)** - There are two closely-related meanings for Khudi. One is **ego** (घमंड; गर्व; अभिमान;) and the other is **self** (खुद का भाव; अहंभाव)
+
+`Khudi ko khud se milane chalaa hai oh deewane`
