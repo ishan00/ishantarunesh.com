@@ -72,3 +72,7 @@ Your goal is to get out of the box.*<br>
 — George Bernard Shaw
 
 *"If you want to fix your life just stop treating it like an index fund. Every decision you make you should be all in on. Don’t spread your bets, the kingdom of heaven isn’t achieved through diversification. You should be systemically destroying optionality, every door you don't take you should slam shut, every bet you make should kill you if you lose it, think about anthropic leverage, you don't want to be alive to see a world that isn't the one you bet on."*<br>
+
+*Be the most idealistic person and people will forget you<br>
+Be the most funny person and people will remember you*<br>
+— Akash
