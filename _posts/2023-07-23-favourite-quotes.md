@@ -65,7 +65,10 @@ Your goal is not to do better, to try desperately, or even to try extraordinaril
 Your goal is to get out of the box.*<br>
 — Eliezer Yudkowsky
 
-*It is essential for a man to strive with all his heart, and to understand that it is difficult even to reach the average if he does not have the intention of surpassing others in whatever he does.—Budo ShoshinshuIn important matters, a 'strong' effort usually results in only mediocre results.  Whenever we are attempting anything truly worthwhile our effort must be as if our life is at stake, just as if we were under a physical attack!  It is this extraordinary effort—an effort that drives us beyond what we thought we were capable of—that ensures victory in battle and success in life's endeavors.*<br>
+*It is essential for a man to strive with all his heart, and to understand that it is difficult even to reach the average if he does not have the intention of surpassing others in whatever he does.*<br>
+— Budo Shoshinshu
+
+*In important matters, a 'strong' effort usually results in only mediocre results.  Whenever we are attempting anything truly worthwhile our effort must be as if our life is at stake, just as if we were under a physical attack!  It is this extraordinary effort—an effort that drives us beyond what we thought we were capable of—that ensures victory in battle and success in life's endeavors.*<br>
 — Flashing Steel: Mastering Eishin-Ryu Swordsmanship
 
 *I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake. Life is no 'brief candle' for me. It is a sort of splendid torch which I have got hold of for the moment, and I want to make it burn as brightly as possible before handing it on to future generations."*<br>
