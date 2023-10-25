@@ -72,7 +72,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-green" href="https://youtu.be/Gg6NMU4ivXM?si=OeFr2wGNDeqKfgj1&t=39">Kyun aaj kal neend kam khwaab jyada hai</a>
 	<a class="a-class-yellow" href="https://youtu.be/xj5ru2vdhfI?si=f8i1SOFIc5F3DYyq&t=9">khwaab ho tum ya koi haqeeqat</a>
 	<a class="a-class-blue" href="https://youtu.be/vBTcsTd2kF0?si=YB850lbAsazocgLu&t=127">Hum aapko khwaabon mein la la ke satayenge</a>
-	<a href="https://youtu.be/0Np37l4ykRE?si=BJL19MhYqQ2CgWoI&t=30">Ki Khawaaishein pe khaabon ki barishein azaabon ki kahaan kahin gayi dhoop mere hisse ke sawabon ki</a>
+	<a class="a-class-red" href="https://youtu.be/0Np37l4ykRE?si=BJL19MhYqQ2CgWoI&t=30">Ki Khawaaishein pe khaabon ki barishein azaabon ki kahaan kahin gayi dhoop mere hisse ke sawabon ki</a>
 </div>
 <hr>
 
@@ -177,7 +177,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-yellow" href="https://youtu.be/ZAkEqvePzGg?si=qC2E8DGNVeVYl2Ue&t=144">Raste galiyaan de</a>
 	<a class="a-class-blue" href="https://youtu.be/oMesPehN_Do?si=vbor1BJK5bs7jFS5&t=12">Gali mein maare phere</a>
 	<a class="a-class-red" href="https://youtu.be/cU3IO6Am65o?si=w2ErkzVTI_pKIiih&t=19">Sadi gali</a>
-	<a href="https://youtu.be/apyjqhAf4JQ?si=QC7kXpMPXMxU4-zS&t=28">Hum kis gali jaa rahe hain</a>
+	<a class="a-class-green" href="https://youtu.be/apyjqhAf4JQ?si=QC7kXpMPXMxU4-zS&t=28">Hum kis gali jaa rahe hain</a>
 </div>
 <hr>
 
