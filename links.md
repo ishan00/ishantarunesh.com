@@ -56,7 +56,8 @@ Saving posts from blogs and social media that I've read and liked here.
 ### Technical
 * [How we reduced the cost of building Twitter at Twitter-scale by 100X (redplanetlabs)](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [History of Transformers](https://archive.vn/xAdam)
-* ML Blogs - [Chip Huyen](https://huyenchip.com/blog/), [Eugene Yan](https://eugeneyan.com/), [Lilian Weng](https://lilianweng.github.io/)
+* ML Blogs: [Chip Huyen](https://huyenchip.com/blog/), [Eugene Yan](https://eugeneyan.com/), [Lilian Weng](https://lilianweng.github.io/)
 
 ### Videos
 * [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo)
+* Entrepreneurship: [EO](https://www.youtube.com/@entreprenuership_opportunities)
