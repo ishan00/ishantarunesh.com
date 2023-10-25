@@ -34,6 +34,7 @@ Saving posts from blogs and social media that I've read and liked here.
 * [The Strenuous Life (Theodore Roosevelt)](https://history.hanover.edu/courses/excerpts/336tr.html)
 * [There's no speed limit (Derek Sivers)](https://sive.rs/kimo)
 * [Overcompensate to compensate (Derek Sivers)](https://sive.rs/compensate)
+* [Err on the side of action (Derek Sivers)](https://sive.rs/erra)
 * [Playing to win vs playing not to lose](https://www.basketballispsychology.com/post/playing-to-win-vs-playing-not-to-lose)
 * [Play to win, don't play to not lose](https://www.ivyxu.com/blog/play-to-win-dont-play-to-not-lose)
 
