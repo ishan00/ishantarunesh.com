@@ -9,6 +9,27 @@ excerptLength: 39
 
 Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
 
+
+### Tere Bin (+similar) (15)
+<div style="line-height: 2;">
+	<a class="a-class-blue" href="https://youtu.be/yIrU21hoHys?si=BcdEp_8KDqKslG52&t=29">Tere bin main yun kaise jiya</a>
+	<a class="a-class-red" href="https://youtu.be/ODp3B_pQD48?si=BegVLbNaRQoLbLw9&t=118">Tere bin nahi laage jiya</a>
+	<a class="a-class-green" href="https://youtu.be/JPZxMhZ4KDw?si=EEW8MBINBVZ7sdap&t=35">Bin tere</a>
+	<a class="a-class-yellow" href="https://youtu.be/_trU-Wt9ucI?si=LAUffnA6B_ppDuBl&t=22">Tere bin sanu soneya (Rabbi Shergil)</a>
+	<a class="a-class-blue" href="https://youtu.be/aeNq_hB9TXI?si=4DC0Mme9Aft0LVva&t=82">Tere Bin nahi ladga dil mera dholna</a>
+	<a class="a-class-red" href="https://youtu.be/hYJCJ_cTg_4?si=K-EPD-rtY2p_BLxB&t=23">Tere bin (Bhagam Bhag)</a>
+	<a class="a-class-green" href="https://youtu.be/dSD8XZVBO1M?si=Up7D6FfVCDezGeWW&t=36">Tere bin main dekhun na subah</a>
+	<a class="a-class-yellow" href="https://youtu.be/9wI3UXRYW-s?si=8lo4wjG4OQboDGNG&t=58">O dil tere bin kahin lagta nahi</a>
+	<a class="a-class-blue" href="https://youtu.be/z_EHzFmAivg?si=zEn6XEXjwKkiKcz6&t=30">Sanu ek pal chain na aawe sajna tere bina</a>
+	<a class="a-class-red" href="https://youtu.be/C_5CrB3GpDk?si=7QGnBWCDqfVf1lys&t=15">Tere bina marz aadha adhoora hai</a>
+	<a class="a-class-green" href="https://youtu.be/mK-XfCnttkE?si=75MM6B3k1WVfIG4J&t=112">Tere bina meri subah nahi jalti tere bina meri shaam nahi dhalti</a>
+	<a class="a-class-yellow" href="https://youtu.be/RMd2hXlVEQg?si=7uWln_ET91L7eUbp&t=26">Tere bina besuwadi besuwadi ratiyan</a>
+	<a class="a-class-blue" href="https://youtu.be/uqF-Rt8tcpg?si=dGoMPRX1mXdY3-B0&t=28">Mere bina main rehne laga hun</a>
+	<a class="a-class-red" href="https://youtu.be/sL_a7FSV7Ns?si=_qRdCC0_D3qTCOpo&t=50">Tere bina main (Haseena Parkar)</a>
+	<a class="a-class-green" href="https://youtu.be/Jv2Z9KJgYjU?si=gmoD5c-JKjTi4uB1&t=142">Adhoora hun main ab tere bina adhoorie meri zindagani reh jayegi</a>
+</div>
+<hr>
+
 ### Rang (20)
 <div style="line-height: 2;">
 	<a class="a-class-red" href="https://youtu.be/5idNBcKDtvA?si=q1UjlN2kEMpztgB2&t=79">Apne hi rang mein mujhko rang de</a>
