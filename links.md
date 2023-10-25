@@ -60,4 +60,4 @@ Saving posts from blogs and social media that I've read and liked here.
 
 ### Videos
 * [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo)
-* Entrepreneurship: [EO](https://www.youtube.com/@entreprenuership_opportunities)
+* YT Channels: [EO (Entrepreneurship)](https://www.youtube.com/@entreprenuership_opportunities)
