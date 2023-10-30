@@ -3,7 +3,7 @@ title: Contradictory Idioms
 layout: post
 date: 2023-10-30 10:00 +0530
 tags: personal
-permalink: Contradictory Idioms
+permalink: contradictory-idioms
 ---
 
 Idioms are crisp and concise passed down wisdom. They're easy to follow – if you read one and do what it says, you'll be fine. But here's the tricky part: when you read a bunch of them, they start to send mixed messages, and you end up not knowing which one to listen to. It's like going back to the beginning. 
