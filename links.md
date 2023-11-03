@@ -24,6 +24,7 @@ Saving posts from blogs and social media that I've read and liked here.
 * [Dive in (Nate Soares)](https://mindingourway.com/dive-in-2/)
 * [Desperation by (Nate Soares)](https://mindingourway.com/desperation/)
 * [Moving towards the goal (Nate Soares)](https://mindingourway.com/moving-towards-the-goal/)
+* [Don't steer with guilt (Nate Soares)](https://mindingourway.com/dont-steer-with-guilt/)
 * [The correct response to uncertainty is not half speed (lesswrong)](https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed)
 * [Competent Elites (Eliezer Yudkowsky)](https://www.lesswrong.com/posts/CKpByWmsZ8WmpHtYa/competent-elites)
 * [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held)
