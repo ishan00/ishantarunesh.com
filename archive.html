@@ -6,6 +6,8 @@ permalink: archive
 <!--
 <h3>Tags - <a href="#personal">Personal</a>, <a href="#technical">Technical</a>, <a href="#notes">Book Notes</a></h3>
 -->
+
+
 <hr>
 
 <!-- <h3 id="personal">Posts</h3> -->
@@ -38,7 +40,13 @@ permalink: archive
 		{% continue %}
 	<!-- <li><a href="{{ post.url }}">[Book Notes] {{ post.title }}</a></li> -->
 	{% else %}
-	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	<li><a href="{{ post.url }}">{{ post.title }}</a> 
+		{% if post.tags contains 'personal' %}
+		{% else %}
+			<span style="background-color: #EAEDED; color: #2ECC71; border-radius:20px; padding-left: 6px; padding-right: 6px;"> 	{{ post.tags }}
+			</span>
+		{% endif %}
+	</li>
 	{% endif %}
 {% endfor %}
 </ul>

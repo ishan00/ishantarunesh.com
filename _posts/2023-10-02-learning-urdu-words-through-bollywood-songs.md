@@ -2,7 +2,7 @@
 title: Learning Urdu words through Bollywood songs
 layout: post
 date: 2023-10-02
-tags: personal
+tags: songs
 permalink: learning-urdu-words-through-bollywood-songs
 ---
 
