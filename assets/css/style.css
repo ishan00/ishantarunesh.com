@@ -19,6 +19,28 @@ Released for free under a Creative Commons Attribution 2.5 License
 }
 */
 
+.span-class-archive {
+  background-color: #EAEDED;
+  color: #2ECC71;
+  border-radius: 20px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.span-class-blue {
+  background-color: #AED6F1; 
+  border-radius: 20px; 
+  padding-left: 6px; 
+  padding-right: 6px;
+}
+
+.span-class-yellow {
+  background-color: #F9E79F; 
+  border-radius: 20px; 
+  padding-left: 6px; 
+  padding-right: 6px;
+}
+
 .a-class-red {
   background-color:#F5B7B1; 
   border-radius: 10px;
