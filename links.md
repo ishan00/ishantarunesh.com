@@ -4,9 +4,11 @@ layout: page
 permalink: links
 ---
 
-Saving posts from blogs and social media that I've read and liked here.
+I'm saving posts from blogs and social media that I've read and liked here.
 
 ### On career and success
+* [Career Advice: A Letter To My Younger Self](https://www.reddit.com/r/Cornell/comments/fxz5jx/career_advice_a_letter_to_my_younger_self/)
+* [Some Advice for a 22-Year-Old Just Getting Started](https://www.youngmoney.co/p/advice-22yearold-just-getting-started)
 * [Career Decisions (Elad Gill)](https://blog.eladgil.com/p/career-decisions)
 * [The Sorrows of Work (Alain de Botton)](https://www.theschooloflife.com/article/sorrows-of-work/)
 * [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
