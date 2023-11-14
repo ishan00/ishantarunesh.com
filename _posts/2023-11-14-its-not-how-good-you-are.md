@@ -2,7 +2,7 @@
 title: It's not how good you are, it's how good you want to be
 layout: post
 date: 2023-11-14
-tags: notes
+tags: book
 permalink: its-not-how-good-you-are
 ---
 

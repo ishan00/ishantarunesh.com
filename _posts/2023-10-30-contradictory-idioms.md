@@ -2,7 +2,7 @@
 title: Contradictory Idioms
 layout: post
 date: 2023-10-30 10:00 +0530
-tags: personal
+tags: writing
 permalink: contradictory-idioms
 ---
 

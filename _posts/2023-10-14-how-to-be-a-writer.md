@@ -2,7 +2,7 @@
 title: How to be a writer by Ruskin Bond
 layout: post
 date: 2023-10-14 12:00 +0530
-tags: notes
+tags: book
 permalink: how-to-be-a-writer
 ---
 

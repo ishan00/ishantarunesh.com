@@ -2,7 +2,7 @@
 title: A short story
 layout: post
 date: 2023-10-03
-tags: personal
+tags: writing
 permalink: a-short-story
 ---
 

@@ -2,7 +2,7 @@
 title: Don't make me think
 layout: post
 date: 2023-09-16 12:00 +0530
-tags: notes
+tags: book
 permalink: dont-make-me-think
 ---
 

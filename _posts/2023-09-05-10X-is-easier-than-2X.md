@@ -2,7 +2,7 @@
 title: 10X is easier than 2X
 layout: post
 date: 2023-09-05 20:00 +0530
-tags: notes
+tags: book
 permalink: 10X-is-easier-than-2X
 ---
 

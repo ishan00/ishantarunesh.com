@@ -25,6 +25,7 @@ Released for free under a Creative Commons Attribution 2.5 License
   border-radius: 20px;
   padding-left: 6px;
   padding-right: 6px;
+  font-size: 16px;
 }
 
 .span-class-blue {
@@ -200,7 +201,18 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h3.post-list {
+  /*margin-top: 1px;*/
+  margin: 0;
+}
+
+h5.post-list {
+  /*margin-top: 1px;*/
+  margin: 0;
+  color: grey;
+}
+
+h1, h2 {
   line-height:1.1;
 }
 
