@@ -12,34 +12,30 @@ I write about growing up, self-improvement, and general thoughts about life and 
 
 
 Visit <a href="/archive">Archive</a> to see all posts listed.
-<hr><br>
+<hr>
 
 <!-- This loops through the paginated posts -->
-{% assign excerptLength = 100 %}
+{% assign excerptLength = 20 %}
 {% for post in paginator.posts %}
-    {% if post.tags contains 'notes' %}
-      <h1><a href="{{ post.url }}">[Book Notes] {{ post.title }}</a></h1>
-    {% else %}
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {% endif %}
+    <h3 class="post-list"><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <!-- <h1><a href="{{ post.url }}">{{ post.title }}</a></h1> -->
     <!-- <p class="author"> -->
       <!-- <h5>{{ post.date | date_to_string: "ordinal", "US" }}</h5> -->
-      <h5 style="display: inline-block;">{{ post.date | date_to_string: "ordinal", "US" }} ({{ post.tags }})</h5><br>
     <!-- </p> -->
     <div class="content">
       <!-- {{ post.content }} -->
-      {% if post.excerptLength %}
-        {{ post.content | strip_html | truncatewords: post.excerptLength }}
-      {% else %}
+      <p style="color: grey; margin: 0">
         {{ post.content | strip_html | truncatewords: excerptLength }}
-      {% endif %}
-      {% assign wordCount = post.content | strip_html | number_of_words %}
-      {% if wordCount > excerptLength %}
-      <a href="{{ post.url }}">(continue reading →)</a>
-      {% endif %}
+        <br>
+        {{ post.date | date: "%-d %b %Y"}} 
+      <span class="span-class-archive">   {{ post.tags }}</span>
+      </p>
+      <!-- {% assign wordCount = post.content | strip_html | number_of_words %} -->
+      <!-- {% if wordCount > excerptLength %} -->
+      <!-- <a href="{{ post.url }}">(continue reading →)</a> -->
+      <!-- {% endif %} -->
     </div>
-    <hr><br>
+    <hr>
 {% endfor %}
 
 <!-- Pagination links -->
