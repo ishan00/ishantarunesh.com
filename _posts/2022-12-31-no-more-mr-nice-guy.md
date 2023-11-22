@@ -2,7 +2,7 @@
 title: No More Mr. Nice Guy
 layout: post
 date: 2022-12-31
-tags: books
+tags: book
 permalink: no-more-mr-nice-guy
 ---
 The author starts by describing a syndrome he calls the Nice Guy syndrome. It’s a collection of behaviour and thought process that a lot of guys possess. <br>
