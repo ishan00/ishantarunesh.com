@@ -29,7 +29,7 @@ permalink: archive
 
 <ul>
 {% for post in site.posts %}
-	{% if post.tags contains 'notes' %}
+	{% if post.tags contains 'book' %}
 		{% continue %}
 	{% else %}
 	{% assign currentdate = post.date | date: "%B %Y" %}

@@ -1,5 +1,5 @@
 ---
-title: How to be a writer by Ruskin Bond
+title: How to Be a Writer by Ruskin Bond
 layout: post
 date: 2023-10-14 12:00 +0530
 tags: book
