@@ -4,8 +4,12 @@ layout: page
 permalink: books
 ---
 
+* [**<u>How to Live Safely in a Science Fictional Universe</u>**](/how-to-live-safely-in-a-science-fictional-world) <span style="float:right">Charles Yu</span>
+* [**<u>Things That Matter</u>**](/things-that-matter) <span style="float:right">Joshua Becker</span>
 * [**<u>It's Not How Good You Are, It's How Good You Want To Be</u>**](/its-not-how-good-you-are) <span style="float:right">Paul Arden</span>
 * [**<u>Don't Make Me Think</u>**](/dont-make-me-think) <span style="float:right">Steve Krug</span>
+* [**<u>Be Your Future Self Now</u>**](/be-your-future-self-now) <span style="float:right">Benjamin Hardy and Dan Sullivan</span>
+* [**<u>The Gap And The Gain</u>**](/the-gap-and-the-gain) <span style="float:right">Benjamin Hardy and Dan Sullivan</span>
 * [**<u>10X Is Easier Than 2X</u>**](/10X-is-easier-than-2X) <span style="float:right">Benjamin Hardy and Dan Sullivan</span>
 * **The 10X Rule** <span style="float:right">Grant Cardone</span>
 * **The Almanack of Naval Ravikant** <span style="float:right">Eric Jorgenson</span>
@@ -26,7 +30,7 @@ permalink: books
 * **How To Think More About Sex** <span style="float:right">Alain de Botton</span>
 * [**<u>The Working Life</u>**](/the-working-life) <span style="float:right">Joanne B. Ciulla</span>
 * [**<u>What Happened To You</u>**](/what-happened-to-you) <span style="float:right">Bruce D. Perry and Oprah Winfrey</span>
-* **The Magic of Thinking Big** <span style="float:right">David J. Schwartz</span>
+* [**<u>The Magic of Thinking Big</u>**](/the-magic-of-thinking-big) <span style="float:right">David J. Schwartz</span>
 * **The Power of Vulnerability** <span style="float:right">Brene Brown</span>
 * [**<u>The Startup Of You</u>**](/the-startup-of-you) <span style="float:right">Reid Hoffman</span>
 * [**<u>All About Love</u>**](/all-about-love) <span style="float:right">Bell Hooks</span>
@@ -45,7 +49,7 @@ permalink: books
 * **Conversations with Friends** <span style="float:right">Sally Rooney</span>
 * **Normal People** <span style="float:right">Sally Rooney</span>
 * [**<u>Beautiful World, Where Are You</u>**](/beautiful-world-where-are-you) <span style="float:right">Sally Rooney</span>
-* **Total Recall** <span style="float:right">Arnold Schwarzenegger</span>
+* [**<u>Total Recall</u>**](/total-recall) <span style="float:right">Arnold Schwarzenegger</span>
 * **The Indian Clerk** <span style="float:right">David Leavitt</span>
 * **Outliers** <span style="float:right">Malcolm Gladwell</span>
 * **David and Goliath** <span style="float:right">Malcolm Gladwell</span>
@@ -75,19 +79,19 @@ permalink: books
 * **Shopgirl** <span style="float:right">Steve Martin</span>
 * **The Fault in Our Stars** <span style="float:right">John Green</span>
 * **Exhalation** <span style="float:right">Ted Chiang</span>
-* **Can't Hurt Me** <span style="float:right">David Goggins</span>
+* [**<u>Can't Hurt Me</u>**](/cant-hurt-me) <span style="float:right">David Goggins</span>
 * **Comfort Book** <span style="float:right">Matt Haig</span>
 * [**<u>The Midnight Library</u>**](/the-midnight-library) <span style="float:right">Matt Haig</span>
 * **Will You be There?** <span style="float:right">Guillaume Musso</span>
 * **Oh The Places You'll Go** <span style="float:right">Dr. Seuss</span>
 * **The War of Art** <span style="float:right">Steven Pressfield</span>
 * [**<u>No More Mr. Nice Guy</u>**](/no-more-mr-nice-guy) <span style="float:right">Robert Glover</span>
-* **The Dip** <span style="float:right">Seth Godin</span>
+* [**<u>The Dip</u>**](/the-dip) <span style="float:right">Seth Godin</span>
 * [**<u>Getting There</u>**](/getting-there) <span style="float:right">Gillian Zoe Segal</span>
 * [**<u>Mindset</u>**](/mindset) <span style="float:right">Carol Dweck</span>
 * **Grit** <span style="float:right">Angela Duckworth</span>
 * **Learned Optimism** <span style="float:right">Martin Seligman</span>
-* **The Inner Game of Tennis** <span style="float:right">Timothy Gallwey</span>
+* [**<u>The Inner Game of Tennis</u>**](/the-inner-game-of-tennis) <span style="float:right">Timothy Gallwey</span>
 * **The Remains of the Day** <span style="float:right">Kazuo Ishiguro</span>
 * **Stay Hungry Stay Foolish** <span style="float:right">Rashmi Bansal</span>
 * **The Curious Incident of the Dog in the Night-Time** <span style="float:right">Mark Haddon</span>
