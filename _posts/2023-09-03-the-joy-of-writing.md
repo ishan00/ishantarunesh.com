@@ -2,7 +2,7 @@
 title: The Joy of Writing
 layout: post
 date: 2023-09-03 09:00 +0530
-tags: personal
+tags: writing
 permalink: the-joy-of-writing
 ---
 
