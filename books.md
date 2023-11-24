@@ -22,8 +22,8 @@ permalink: books
 <li><b>Think on These Things</b>; <i>Jiddu Krishnamurt</i></li>
 <li><a href="/status-anxiety"><u><b>Status Anxiety</b></u></a>; <i>Alain de Botton</i></li>
 <li><a href="/on-confidence"><u><b>On Confidence</b></u></a>; <i>Alain de Botton</i></li>
-<li><a href="/what-they-forget-to-teach-at-school"><u><b>What They Forget To Teach At School</b></u></a>; <i>Alain de Botton</i></li>
 <li><b>How To Think More About Sex</b>; <i>Alain de Botton</i></li>
+<li><a href="/what-they-forget-to-teach-at-school"><u><b>What They Forget To Teach At School</b></u></a>; <i>Alain de Botton</i></li>
 <li><a href="/the-school-of-life"><u><b>The School Of Life</b></u></a>; <i>Alain de Botton</i></li>
 <li><a href="/the-working-life"><u><b>The Working Life</b></u></a>; <i>Joanne B. Ciulla</i></li>
 <li><a href="/what-happened-to-you"><u><b>What Happened To You</b></u></a>; <i>Bruce D. Perry and Oprah Winfrey</i></li>
@@ -37,13 +37,13 @@ permalink: books
 <li><b>Ways To Live</b>; <i>Derek Sivers</i></li>
 <li><b>Hell Yeah or No</b>; <i>Derek Sivers</i></li>
 <li><b>Anything You Want</b>; <i>Derek Sivers</i></li>
-<li><b>Deep Work</b>; <i>Cal Newport</i></li>
 <li><b>The Compound Effect</b>; <i>Darren Hardy</i></li>
 <li><b>Man’s Search for Meaning</b>; <i>Viktor Frankl</i></li>
 <li><b>The One Thing</b>; <i>Gary W. Keller</i></li>
 <li><b>Who Moved My Cheese</b>; <i>Spencer Johnson</i></li>
 <li><b>Emotional Intelligence</b>; <i>Daniel Goleman</i></li>
 <li><b>The Subtle Art of Not Giving A Fuck</b>; <i>Mark Manson</i></li>
+<li><b>Deep Work</b>; <i>Cal Newport</i></li>
 <li><a href="/so-good-they-cant-ignore-you"><u><b>So Good They Can't Ignore You</b></u></a>; <i>Cal Newport</i></li>
 <li><b>The Defining Decade</b>; <i>Meg Jay</i></li>
 <li><b>168 Hours</b>; <i>Laura Vanderkam</i></li>
@@ -56,12 +56,10 @@ permalink: books
 <li><b>The War of Art</b>; <i>Steven Pressfield</i></li>
 <li><a href="/no-more-mr-nice-guy"><u><b>No More Mr. Nice Guy</b></u></a>; <i>Robert Glover</i></li>
 <li><a href="/the-dip"><u><b>The Dip</b></u></a>; <i>Seth Godin</i></li>
-<li><a href="/getting-there"><u><b>Getting There</b></u></a>; <i>Gillian Zoe Segal</i></li>
 <li><a href="/mindset"><u><b>Mindset</b></u></a>; <i>Carol Dweck</i></li>
 <li><b>Grit</b>; <i>Angela Duckworth</i></li>
 <li><b>Learned Optimism</b>; <i>Martin Seligman</i></li>
 <li><a href="/the-inner-game-of-tennis"><u><b>The Inner Game of Tennis</b></u></a>; <i>Timothy Gallwey</i></li>
-<li><b>Stay Hungry Stay Foolish</b>; <i>Rashmi Bansal</i></li>
 <li><b>Healing the Shame that Binds You</b>; <i>John Bradshaw</i></li>
 <li><b>Running on Empty</b>; <i>Jonice Webb</i></li>
 <li><b>Running on Empty No More</b>; <i>Jonice Webb</i></li>
@@ -81,6 +79,8 @@ permalink: books
 <li><b>A Brief History of Time</b>; <i>Stephen Hawking</i></li>
 <li><a href="/no-filter-the-story-of-instagram"><u><b>No Filter: The Story of Instagram</b></u></a>; <i>Sarah Frier</i></li>
 <li><b>In the Company of Women</b>; <i>Grace Bonney</i></li>
+<li><b>Stay Hungry Stay Foolish</b>; <i>Rashmi Bansal</i></li>
+<li><a href="/getting-there"><u><b>Getting There</b></u></a>; <i>Gillian Zoe Segal</i></li>
 <li><b>Lean In</b>; <i>Sheryl Sandberg</i></li>
 <li><a href="/from-simi-valley-to-silicon-valley"><u><b>From Simi Valley To Silicon Valley</b></u></a>; <i>Stephen Gillett</i></li>
 <li><b>The Indian Clerk</b>; <i>David Leavitt</i></li>
