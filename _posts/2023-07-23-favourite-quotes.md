@@ -20,9 +20,14 @@ permalink: favourite-quotes
 *My own business always bores me to death; I prefer other people's*<br>
 — Oscar Wilde
 
-*OK, now let’s have some fun. Let’s talk about sex. Let’s talk about women. Freud said he didn’t know what women wanted. I know what women want. They want a whole lot of people to talk to. What do they want to talk about? They want to talk about everything.What do men want? They want a lot of pals, and they wish people wouldn’t get so mad at them. Why are so many people getting divorced today? It’s because most of us don’t have extended families anymore. It used to be that when a man and a woman got married, the bride got a lot more people to talk to about everything. The groom got a lot more pals to tell dumb jokes to.A few Americans, but very few, still have extended families. The Navahos. The Kennedys. But most of us, if we get married nowadays, are just one more person for the other person. The groom gets one more pal, but it’s a woman. The woman gets one more person to talk to about everything, but it’s a man. When a couple has an argument, they may think it’s about money or power or sex, or how to raise the kids, or whatever. What they’re really saying to each other, though, without realizing it, is this: “You are not enough people!” <br>
-I met a man in Nigeria one time, an Ibo who has six hundred relatives he knew quite well. His wife had just had a baby, the best possible news in any extended family.They were going to take it to meet all its relatives, Ibos of all ages and sizes and shapes. It would even meet other babies, cousins not much older than it was. Everybody who was big enough and steady enough was going to get to hold it, cuddle it, gurgle to it, and say how pretty it was, or handsome. Wouldn't you have loved to be that baby?*<br>
-— Kurt Vonnegut
+*Always go too far, because that's where you'll find the truth.*<br>
+— Albert Camus
+
+*No matter what their delusions are, parents do not really know their children*<br>
+— Unknown
+
+*What horrifies me most is the idea of being useless; well-educated, brilliantly promising, and fading out into an indifferent middle age*<br>
+— Sylvia Plath
 
 *What is it the slightly older people want from the slightly younger people? They want credit for having survived so long, and often imaginatively, under difficult conditions. Slightly younger people are intolerably stingy about giving them credit for that.*<br>
 — Kurt Vonnegut, If This Isn't Nice What Is
@@ -32,9 +37,6 @@ I met a man in Nigeria one time, an Ibo who has six hundred relatives he knew qu
 
 *That is partly why the stories are so compelling: they are individual, inimitable, highly specific to a given person at a given point in time. The sparks are, in a very real sense, mysterious, sometimes even to the people ignited by them*<br>
 — Matthew Syed, Bounce
-
-*If you're going to try, go all the way. Otherwise, don't even start. This could mean losing girlfriends, wives, relatives and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision. It could mean mockery--isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you'll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is*<br>
-— Charles Bukowski
 
 *The desire to be loved is the last illusion. Give it up and you will be free.*<br>
 ― Margaret Atwood
@@ -51,6 +53,48 @@ I met a man in Nigeria one time, an Ibo who has six hundred relatives he knew qu
 *I wasn’t lonely. I experienced no self-pity. I was just caught up in a life in which I could ﬁnd no meaning.*<br>
 ― Charles Bukowski
 
+*It is essential for a man to strive with all his heart, and to understand that it is difficult even to reach the average if he does not have the intention of surpassing others in whatever he does.*<br>
+— Budo Shoshinshu
+
+*In important matters, a 'strong' effort usually results in only mediocre results.  Whenever we are attempting anything truly worthwhile our effort must be as if our life is at stake, just as if we were under a physical attack!  It is this extraordinary effort—an effort that drives us beyond what we thought we were capable of—that ensures victory in battle and success in life's endeavors.*<br>
+— Flashing Steel: Mastering Eishin-Ryu Swordsmanship
+
+*Learn to value yourself, which means: fight for your happiness.*<br>
+— Ayn Rand
+
+*There is no normal, Evelyn. A 'normal person' is what is left after society has squeezed out all unconventional opinions and aspirations out of a human being.*<br>
+— Sylvia Plath
+
+*What I want and set as my goal is damned difficult, and yet I don't believe I'm aiming too high*<br>
+— Van Gogh
+
+*I feel a power in me that I must develop, a fire that I may not put out but must fan, although I don't know to what outcome it will lead me.*<br>
+— Van Gogh
+
+*I keep on making what I can't do yet in order to learn to be able to do it*<br>
+— Van Gogh
+
+*What I advise you to do is, not to be unhappy before the crisis comes*<br>
+— Seneca
+
+*Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.*<br>
+— Franz Kafka
+
+*There's some games you don't get to play unless you're all in. And the thing that's so interesting about being alive- is that you're all in. No matter what you do, you're all in. This is going to kill you. So, I think, you might as well play the most magnificent game you can, while you're waiting. Because, do you have anything better to do?*<br>
+— Dr. Jordan Peterson
+
+*I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake. Life is no 'brief candle' for me. It is a sort of splendid torch which I have got hold of for the moment, and I want to make it burn as brightly as possible before handing it on to future generations.*<br>
+— George Bernard Shaw
+
+*If you want to fix your life just stop treating it like an index fund. Every decision you make you should be all in on. Don’t spread your bets, the kingdom of heaven isn’t achieved through diversification. You should be systemically destroying optionality, every door you don't take you should slam shut, every bet you make should kill you if you lose it, think about anthropic leverage, you don't want to be alive to see a world that isn't the one you bet on.*<br>
+— Unknown
+
+*Do not let your fire go out, spark by irreplaceable spark in the hopeless swamps of the not-quite, the not-yet, and the not-at-all. Do not let the hero in your soul perish in lonely frustration for the life you deserved and have never been able to reach. The world you desire can be won. It exists.. it is real.. it is possible.. it's yours.*<br>
+— Ayn Rand, Atlas Shrugged
+
+*If you're going to try, go all the way. Otherwise, don't even start. This could mean losing girlfriends, wives, relatives and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision. It could mean mockery--isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you'll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is*<br>
+— Charles Bukowski
+
 *I found out that life, for all its amazing possibilities, very often does not make sense. And at least as often, is not fair. Today, it's absolutely not the fair world you're being dealt with.There are many ways to deal with an unfair world. One may tune out and run away. One may get angry. One may fight. Or one could do what I ultimately did - accept the world for what it is, work hard to exploit the opportunities it presents, and try to do so in as just a manner as possible.*<br>
 — Dr. Michael J Burry.
 
@@ -65,28 +109,9 @@ Your goal is not to do better, to try desperately, or even to try extraordinaril
 Your goal is to get out of the box.*<br>
 — Eliezer Yudkowsky
 
-*It is essential for a man to strive with all his heart, and to understand that it is difficult even to reach the average if he does not have the intention of surpassing others in whatever he does.*<br>
-— Budo Shoshinshu
-
-*In important matters, a 'strong' effort usually results in only mediocre results.  Whenever we are attempting anything truly worthwhile our effort must be as if our life is at stake, just as if we were under a physical attack!  It is this extraordinary effort—an effort that drives us beyond what we thought we were capable of—that ensures victory in battle and success in life's endeavors.*<br>
-— Flashing Steel: Mastering Eishin-Ryu Swordsmanship
-
-*I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake. Life is no 'brief candle' for me. It is a sort of splendid torch which I have got hold of for the moment, and I want to make it burn as brightly as possible before handing it on to future generations.*<br>
-— George Bernard Shaw
-
-*If you want to fix your life just stop treating it like an index fund. Every decision you make you should be all in on. Don’t spread your bets, the kingdom of heaven isn’t achieved through diversification. You should be systemically destroying optionality, every door you don't take you should slam shut, every bet you make should kill you if you lose it, think about anthropic leverage, you don't want to be alive to see a world that isn't the one you bet on.*<br>
-
-*Do not let your fire go out, spark by irreplaceable spark in the hopeless swamps of the not-quite, the not-yet, and the not-at-all. Do not let the hero in your soul perish in lonely frustration for the life you deserved and have never been able to reach. The world you desire can be won. It exists.. it is real.. it is possible.. it's yours.*<br>
-— Ayn Rand, Atlas Shrugged
-
-*Learn to value yourself, which means: fight for your happiness.*<br>
-— Ayn Rand
-
-*There's some games you don't get to play unless you're all in. And the thing that's so interesting about being alive- is that you're all in. No matter what you do, you're all in. This is going to kill you. So, I think, you might as well play the most magnificent game you can, while you're waiting. Because, do you have anything better to do?*<br>
-— Dr. Jordan Peterson
-
-*There is no normal, Evelyn. A 'normal person' is what is left after society has squeezed out all unconventional opinions and aspirations out of a human being.*<br>
-— Sylvia Plath
+*OK, now let’s have some fun. Let’s talk about sex. Let’s talk about women. Freud said he didn’t know what women wanted. I know what women want. They want a whole lot of people to talk to. What do they want to talk about? They want to talk about everything.What do men want? They want a lot of pals, and they wish people wouldn’t get so mad at them. Why are so many people getting divorced today? It’s because most of us don’t have extended families anymore. It used to be that when a man and a woman got married, the bride got a lot more people to talk to about everything. The groom got a lot more pals to tell dumb jokes to.A few Americans, but very few, still have extended families. The Navahos. The Kennedys. But most of us, if we get married nowadays, are just one more person for the other person. The groom gets one more pal, but it’s a woman. The woman gets one more person to talk to about everything, but it’s a man. When a couple has an argument, they may think it’s about money or power or sex, or how to raise the kids, or whatever. What they’re really saying to each other, though, without realizing it, is this: “You are not enough people!” <br>
+I met a man in Nigeria one time, an Ibo who has six hundred relatives he knew quite well. His wife had just had a baby, the best possible news in any extended family.They were going to take it to meet all its relatives, Ibos of all ages and sizes and shapes. It would even meet other babies, cousins not much older than it was. Everybody who was big enough and steady enough was going to get to hold it, cuddle it, gurgle to it, and say how pretty it was, or handsome. Wouldn't you have loved to be that baby?*<br>
+— Kurt Vonnegut
 
 <hr> 
 #### Pearls of Wisdom from Akash
