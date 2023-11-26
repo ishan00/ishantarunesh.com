@@ -6,6 +6,8 @@ tags: book
 permalink: the-inner-game-of-tennis
 ---
 
+#### Chapter 1
+
 In every challenge there are two games - the outer game and the inner game. Mastering the inner game is prerequisite to peak performance. 
 
 When it comes to coaching - verbal coaching is highly ineffective. The authors highlights how when a person learning to swing a bat is overloaded with suggestions such as swing your bat higher, move your feet etc, they come under so much pressure to not make mistakes and follow through the advice that their motion seems very rigid. It’s better for the coach to play the shot themselves and ask the player to observe and then replicate. Too much instruction is worse than none. The secret to winning a game is not trying too hard. It should come through a state of relaxed concentration. 

@@ -6,7 +6,7 @@ tags: book
 permalink: things-that-matter
 ---
 
-**Chapter 3**
+#### Chapter 3
 
 So many people would rather be disappointed and unfulfilled doing things that are safe than go through the anxiety of chasing valuable dreams and goals. Sadly, they prefer a safe, meaningless status quo over taking a risk that might lead to failure—or might lead to success.
 

@@ -10,7 +10,7 @@ excerptLength: 39
 Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
 
 
-### Tere Bin (+similar) (15)
+#### Tere Bin (+similar) (15)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/yIrU21hoHys?si=BcdEp_8KDqKslG52&t=29">Tere bin main yun kaise jiya</a>
 	<a class="a-class-red" href="https://youtu.be/ODp3B_pQD48?si=BegVLbNaRQoLbLw9&t=118">Tere bin nahi laage jiya</a>
@@ -30,7 +30,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Rang (20)
+#### Rang (20)
 <div style="line-height: 2;">
 	<a class="a-class-red" href="https://youtu.be/5idNBcKDtvA?si=q1UjlN2kEMpztgB2&t=79">Apne hi rang mein mujhko rang de</a>
 	<a class="a-class-green" href="https://youtu.be/AEIVhBS6baE?si=FVgu6t0gojFiRpcm&t=65">Rang de tu mohe gerua</a>
@@ -55,7 +55,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Khwaab (14)
+#### Khwaab (14)
 <div style="line-height: 2;">
 	<a class="a-class-green" href="https://youtu.be/kCQ6zaHDXj4?si=Bv73JtlA35j_taIT&t=2">Khwaab dekhe jhoothe moothe</a>
 	<a class="a-class-yellow" href="https://youtu.be/dTu5dTEzVM4?si=mqC9SH-68JqeUa10&t=17">Khwamakha bewajah khwaab bunta raha</a>
@@ -76,7 +76,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Aankhon (13)
+#### Aankhon (13)
 
 <div style="line-height: 2;">
 	<a class="a-class-yellow" href="https://youtu.be/7KKVb0_IdD4?si=DbyvXT_qr2Vlm2p_&t=15">Aankhon mein teri ajab si ajab si adaayein hain</a>
@@ -97,7 +97,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Aasmaan (8)
+#### Aasmaan (8)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/tGTmop4JZWc?si=y0rXXyqF066yCZYv&t=313">Jhuk gaya aasmaan mil gaye do jahan</a>
 	<a class="a-class-red" href="https://youtu.be/eIjFX9fVgv0?si=TnRT3dHY5JZTIC25&t=17">Kis taraf hai aasmaan kis taraf zameen khabar nahi</a>
@@ -111,7 +111,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Khuda (32)
+#### Khuda (32)
 <div style="line-height: 2;">
 	<a class="a-class-red" href="https://youtu.be/cmMiyZaSELo?si=iRQmY3cLQbCMSBOk&t=59">Khuda jaane ke</a>
 	<a class="a-class-green" href="https://youtu.be/Qdz5n1Xe5Qo?si=SA9yflmQKJlowAhu&t=35">Cheen lunga ya khuda se maang launga</a>
@@ -148,7 +148,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Chand (15)
+#### Chand (15)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/VueN49P7JyU?si=Yeo8IGQtwMjsL3Iq&t=11">Ye chand sa raushan chehra, zulfon ka rang sunehra</a>
 	<a class="a-class-red" href="https://youtu.be/SOYFHUTZ-kw?si=wqGlour9eagg_Lyc&t=18">Gali mein aaj chand nikla</a>
@@ -168,7 +168,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Galiyaan (7)
+#### Galiyaan (7)
 <div style="line-height: 2;">
 	<a class="a-class-yellow" href="https://youtu.be/FxAG_11PzCk?si=0mw1ByrWSRbNhpk6&t=76">Teri galiyaan, galiyaan teri galiyaan</a>
 	<a class="a-class-blue" href="https://youtu.be/NFsEqOBG51M?si=MkCGlZNpdJYsQHHs&t=42">Aaj se teri saari galiyaan meri hogayi</a>
@@ -181,7 +181,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Piya (10)
+#### Piya (10)
 <div style="line-height: 2;">
 	<a class="a-class-green" href="https://youtu.be/u-FaTNxrWhw?si=I2K2yFeiQW9e5nzk&t=95">Piya O re piya</a>
 	<a class="a-class-yellow" href="https://youtu.be/iv7lcUkFVSc?si=syYTd2z_Egs2rwTb&t=24">O re piya</a>
@@ -196,7 +196,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Maula (7)
+#### Maula (7)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="aankhein teri">Maula mere maula mere maula mere maula mere (Aankhein Teri)</a>
 	<a class="a-class-red" href="https://youtu.be/JA09HEGTzCU?si=JIGE4dIzO38YDOde&t=42">Maula maula maula mere maula (Arziyan)</a>
@@ -208,7 +208,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-### Naina (19)
+#### Naina (19)
 <div style="line-height: 2;">
 	<a class="a-class-green" href="https://youtu.be/Ivmkmf-U-x4?si=Fh4tPK4t9T7a6OOL&t=26">Jab se tere naina</a>
 	<a class="a-class-yellow" href="https://youtu.be/0trVNbS8ftg?si=_CtyNCkduwNIH8Ub&t=54">Tose naina jab se mile</a>

@@ -8,7 +8,7 @@ permalink: dont-make-me-think
 
 The complete title of the book is *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability*
 
-### Chapter 1
+#### Chapter 1
 
 The user shouldn’t have to think when they come to a page. Your task is to remove all question marks that comes in the head when you see a page
 
@@ -21,7 +21,7 @@ And as a rule, people don’t like to puzzle over how to do things. They enjoy p
 
 Your goal should be for each page or screen to be self-evident, so that just by looking at it the average user 2 will know what it is and how to use it. In other words, they’ll “get it” without having to think about it.
 
-### Chapter 2
+#### Chapter 2
 
 **FACT OF LIFE #1: We don’t read pages. We scan them.**
 we tend to focus on words and phrases that seem to match (a) the task at hand or (b) our current or ongoing personal interests. And of course, (c) the trigger words that are hardwired into our nervous systems, like “Free,” “Sale,” and “Sex,” and our own name.
@@ -45,7 +45,7 @@ Why does this happen?
 - It’s not important to us. For most of us, it doesn’t matter to us whether we understand how things work, as long as we can use them. It’s not for lack of intelligence, but for lack of caring. It’s just not important to us.
 - If we find something that works, we stick to it. Once we find something that works—no matter how badly—we tend not to look for a better way. We’ll use a better way if we stumble across one, but we seldom look for one.
 
-### Chapter 3. Billboard Design 101
+#### Chapter 3. Billboard Design 101
 
 **DESIGNING FOR SCANNING, NOT READING**
 - Take advantage of conventions
@@ -70,14 +70,14 @@ My recommendation: Innovate when you know you have a better idea, but take advan
 - Things that are related logically are related visually. For instance, you can show that things are similar by grouping them together under a heading, displaying them in the same visual style, or putting them all in a clearly defined area.
 - Things are “nested” visually to show what’s part of what. For instance, a site section name (“Computer Books”) would appear above the titles of the individual books, reflecting the fact that the books are part of the section. And each book title in turn would span all the elements that make up the description of that book.
 
-### Chapter 4
+#### Chapter 4
 In general, I think it’s safe to say that users don’t mind a lot of clicks as long as each click is painless and they have continued confidence that they’re on the right track
 
 Which one was me? I had to think about it, and even when I made my choice I wasn’t very confident it was the right one. In fact, what I had to look forward to when the target page finally loaded was even more thinking to figure out whether I was in the right place.
 
 Don’t make the user make a tough choice, they are not sure of. 
 
-### Chapter 5
+#### Chapter 5
 
 Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
 

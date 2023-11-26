@@ -16,7 +16,7 @@ permalink: learning-urdu-words-through-bollywood-songs
 * [Falak Tak](#falak)
 * [Khudi](#khudi)
 
-### <a name="tajdaar"></a>Tajdar-e-Haram by Atif Aslam
+#### <a name="tajdaar"></a>Tajdar-e-Haram by Atif Aslam
 
 **ताज** - मुकुट<br>
 **दार** - वह जो धारण करता है (मुकुट)<br>
@@ -106,7 +106,7 @@ permalink: learning-urdu-words-through-bollywood-songs
 **दस्त** - हाथ<br>
 **साक़ी** - वह जो लोगों को मद्य का पात्र भर कर देता और हुक्का पिलाता हो
 
-### <a name="kali"></a>Kali Kali Zulfon Ke Phande by Nusrat Fateh Ali Khan
+#### <a name="kali"></a>Kali Kali Zulfon Ke Phande by Nusrat Fateh Ali Khan
 
 <p style="text-align: center;">
 	<i>
@@ -134,7 +134,7 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 
 <hr>
 
-### <a name="galat"></a>Galat Fehmi by Azim Azhar
+#### <a name="galat"></a>Galat Fehmi by Azim Azhar
 
 <p style="text-align: center;">
 	<i>
@@ -150,7 +150,7 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 
 <hr>
 
-### <a name="nazm"></a>Nazm Nazm from Bareily ki Barfi
+#### <a name="nazm"></a>Nazm Nazm from Bareily ki Barfi
 
 <p style="text-align: center;">
 	<i>
@@ -166,7 +166,7 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 
 <hr>
 
-### <a name="besabriyan"></a>Besabriyan from MS Dhoni
+#### <a name="besabriyan"></a>Besabriyan from MS Dhoni
 
 <p style="text-align: center;">
 	<i>
@@ -181,7 +181,7 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 
 <hr>
 
-### <a name="qaafirana"></a>Qaafirana from Kedarnath
+#### <a name="qaafirana"></a>Qaafirana from Kedarnath
 
 <p style="text-align: center;">
 	<i>
@@ -194,7 +194,7 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 
 <hr>
 
-### <a name="falak"></a>Falak Tak
+#### <a name="falak"></a>Falak Tak
 
 <p style="text-align: center;">
 	<i>
@@ -207,7 +207,7 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 
 <hr>
 
-### <a name="khudi"></a>Khudi by The Local Train
+#### <a name="khudi"></a>Khudi by The Local Train
 
 <p style="text-align: center;">
 	<i>
