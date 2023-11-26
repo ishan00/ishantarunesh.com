@@ -2,7 +2,7 @@
 title: Favourite quotes
 layout: post
 date: 2023-07-23
-tags: personal
+tags: life
 permalink: favourite-quotes
 ---
 *I always wanted to be somebody, but now I realize I should have been more specific.*<br>

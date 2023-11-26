@@ -2,7 +2,7 @@
 title: The case against news
 layout: post
 date: 2023-10-08
-tags: personal
+tags: misc
 permalink: the-case-against-news
 ---
 

@@ -2,7 +2,7 @@
 title: "Re(2): Books and their movie adaptations"
 layout: post
 date: 2023-11-26 14:00 +0530
-tags: personal
+tags: letter
 permalink: books-and-their-movie-adaptations-2
 ---
 

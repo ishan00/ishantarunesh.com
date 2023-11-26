@@ -2,7 +2,7 @@
 title: On living (not so) normal lives
 layout: post
 date: 2023-07-31
-tags: personal
+tags: life
 permalink: on-living-not-so-normal-lives
 ---
 How to lead your life is a question that overwhelms everyone. With infinite possibilities of things you can do and you can be, life becomes rather overwhelming in how we move ahead and conduct our lives. There are great pulls to live your life in a certain way strongly influenced by your upbringing, your family and friends, surroundings and largely the society itself. What kind of jobs to do depends largely on the values you learnt from family, what kind of leisure to take part in depends on what your friends are doing. What to do on a friday night takes a lot from what others are posting on instagram stories. These are the so-called-normal lives in your localized point of reference. The issue comes up when you find yourself not living the life you see around, or one that is popular or recommended by and large by the crowd. The thought process goes like this -- you compare your life to the lives that are being lived around (friend group or people on social media) and get a feeling that your life is not-so-normal (or in somecases extreme). It would be smaller things like everyone else is partying on friday and you are not, or everyone else is travelling on workations and you are not or larger ones like everyone else is working and you are pursuing higher education, or everyone else is getting married and you still haven’t thought about it. This thought when repetitive slowly turns into a hate for your own life and makes it difficult for you to continue living that life.

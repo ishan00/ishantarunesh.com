@@ -5,22 +5,40 @@ permalink: blog
 ---
 <img src="images/blog.png" style="max-width:100%;">
 <br>
-I write about growing up, self-improvement, and general thoughts about life and career. Indexed below are all of my essays. The delightful part of maintaining a personal blog is the sudden thrill of writing down an original thought in the notes app, hoping it would someday appear on the blog, and I’ll share it with friends.
+Hey! I write essays on self-improvement, careers, startup and tech. Occassionally I also delve into fiction or collecting songs. There's no order in these posts (although the essays on life are my favourite) so I suggest reading any title that interests you! 
 <br>
 <br>
 Visit <a href="/archive">Archive</a> to see listed in chronological order.
 <hr>
 
-<b><u>Personal</u></b>
+<b><u>On Careers</u></b>
 <ul>
 {% for post in site.posts %}
-	{% if post.tags contains 'personal' %}	
+	{% if post.tags contains 'career' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a> </li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>Technical</u></b>
+<b><u>On Life</u></b>
+<ul>
+{% for post in site.posts %}
+	{% if post.tags contains 'life' %}	
+	<li><a href="{{ post.url }}">{{ post.title }}</a> </li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<b><u>On Self-Improvement</u></b>
+<ul>
+{% for post in site.posts %}
+	{% if post.tags contains 'self-improvement' %}	
+	<li><a href="{{ post.url }}">{{ post.title }}</a> </li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<b><u>Technical Articles</u></b>
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'technical' %}	
@@ -32,27 +50,33 @@ Visit <a href="/archive">Archive</a> to see listed in chronological order.
 
 <b><u>Startups</u></b>
 <ul>
-{% for post in site.posts %}
-	{% if post.tags contains 'startup' %}	
-	<li><a href="{{ post.url }}">{{ post.title }}</a> </li>
-	{% endif %}
-{% endfor %}
+<li><a href="/startup-search-experience">Startup search experience</a><i> (reflection)</i></li>
 </ul>
 
 <b><u>Writing</u></b>
 <ul>
+<li><a href="/the-joy-of-writing">The Joy of Writing</a><i> (reflection)</i></li>
+<li><a href="/a-short-story">A short story</a></li>
+</ul>
+
+<b><u>Songs</u></b>
+<ul>
+<li><a href="/the-bollywood-project">The Bollywood Project</a><i> (collecting songs with a particular word)</i></li>
+<li><a href="/learning-urdu-words-through-bollywood-songs">Learning Urdu Words through Bollywood songs</a></li>
+</ul>
+
+<b><u>Conversations With Friends</u></b>: Inspired by Sally Rooney's characters, I find myself writing long-form emails to my friends, some of which I share here.
+<ul>
 {% for post in site.posts %}
-	{% if post.tags contains 'writing' %}	
+	{% if post.tags contains 'letter' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a> </li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>Songs</u></b>
-<ul>
+<b><u>Misc</u></b>
 {% for post in site.posts %}
-	{% if post.tags contains 'songs' %}	
-	<li><a href="{{ post.url }}">{{ post.title }}</a> </li>
+	{% if post.tags contains 'misc' %}	
+	 · <a href="{{ post.url }}">{{ post.title }}</a> 
 	{% endif %}
 {% endfor %}
-</ul>

@@ -2,7 +2,7 @@
 title: Investing money to get back time
 layout: post
 date: 2023-09-11 19:00 +0530
-tags: personal
+tags: self-improvement
 permalink: investing-money-to-get-back-time
 ---
 

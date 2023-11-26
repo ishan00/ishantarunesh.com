@@ -2,7 +2,7 @@
 title: Measuring your life
 layout: post
 date: 2023-09-24
-tags: personal
+tags: life
 permalink: measuring-your-life
 ---
 

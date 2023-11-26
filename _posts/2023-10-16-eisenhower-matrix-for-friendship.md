@@ -2,7 +2,7 @@
 title: Eisenhower matrix for friendship
 layout: post
 date: 2023-10-16 9:00 +0530
-tags: personal
+tags: life
 permalink: eisenhower-matrix-for-friendship
 ---
 
