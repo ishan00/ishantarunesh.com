@@ -37,9 +37,10 @@ permalink: links
 * <u>Sally Rooney</u>: [Even if you beat me](https://thedublinreview.com/article/even-if-you-beat-me/)
 * <u>Deepti Chopra</u>: [Attempting to build a unicorn and falling short by a billion dollars](https://www.deeptichopra.com/startup-failure)
 * <u>Sahil Lavingia</u>: [Reflecting on My Failure to Build a Billion-Dollar Company](https://sahillavingia.com/reflecting)
-* [falling into life (startingfromnix)](https://www.startingfromnix.com/p/falling-into-life)
+* <u>startingfromnix</u>: [falling into life](https://www.startingfromnix.com/p/falling-into-life)
+* <u>return on net assets</u>: [your best american girl](https://rona.substack.com/p/your-best-american-girl) · [sellout’s conundrum](https://rona.substack.com/p/sellouts-conundrum)
 
-#### 3. Fiction / Stories
+#### 3. Fiction
 * [Black Coffee](https://vishaldayama.substack.com/p/black-coffee)
 * [The Last Question (Isaac Asimov)](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
 
