@@ -5,3 +5,9 @@ timezone: Asia/Calcutta
 
 plugins:
   - jekyll-paginate
+
+
+collections: 
+  hidden:
+    output: true
+    permalink: /:collection/:title
