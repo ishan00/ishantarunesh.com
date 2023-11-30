@@ -12,7 +12,7 @@ permalink: links
 * <u>Derek Sivers</u>: [There's no speed limit](https://sive.rs/kimo) · [Overcompensate to compensate](https://sive.rs/compensate) · [Err on the side of action](https://sive.rs/erra)
 * <u>Eliezer Yudkowsky</u>: [Challenging the Difficult](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92) · [Competent Elites](https://www.lesswrong.com/posts/CKpByWmsZ8WmpHtYa/competent-elites)
 * <u>Abraham Thomas (Pivotal)</u>: [Strong Opinions, Weakly Held](https://pivotal.substack.com/p/strong-opinions-weakly-held) · [The worst outcome is a mediocre success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
-* <u>Neel Nanda</u>: [What's stopping you](https://www.neelnanda.io/blog/44-agency)
+* <u>Neel Nanda</u>: [What's stopping you](https://www.neelnanda.io/blog/44-agency) · [Become a person who actually does things](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things)
 * <u>Elad Gill</u>: [Career Decisions](https://blog.eladgil.com/p/career-decisions)
 * <u>Alain de Botton</u>: [The Sorrows of Work](https://www.theschooloflife.com/article/sorrows-of-work/)
 * <u>Tim Urban (waitbutwhy)</u>: [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
