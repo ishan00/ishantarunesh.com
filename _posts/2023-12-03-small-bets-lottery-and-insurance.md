@@ -18,20 +18,20 @@ If you would take the 3X with 50% then what about 1X guaranteed vs 2.1X with a p
 
 It depends on what the bet involves also, in matters of money some people (me) could be conservative and only invest money in FDs, others could be investing in mutual funds, stocks or real estate. In matters of career, someone could be trying out a riskier path and others a more safer route etc.
 
-What bets should be take then? Should we blindly take bets with the highest expected value? As Lakshmi pointed out, then you would never buy lottery tickets. On thinking more, the following three kind of bets appear good to take. 
+What bets should be taken then? Should we blindly take bets with the highest expected value? As Lakshmi pointed out, then you would never buy lottery tickets. On thinking more, the following three kinds of bets appear good to take. 
 
-Let’s say **range** of the bet is the maximum you can win or lose. 
+Let’s say the range of the bet is the maximum you can win or lose. 
 
 1. **Bets with higher expected value when the range is comparable**
 
-	e.g 1X (100%) vs 3X (50%). Take 3X (with 50%).
+	e.g., 1X (100%) vs. 3X (50%). Take 3X (with 50%).
 
-2. **Bets with lower expected value but where is range is one or two order or magnitude greater**
+2. **Bets with lower expected value but where is range is one or two orders or magnitude greater**
 
-	e.g 1X (100%) vs 100X (0.5%). Expected value of first bet is higher but in many cases it would still make sense to play the latter.
+	e.g., 1X (100%) vs. 100X (0.5%). The expected value of the first bet is higher, but in many cases, it would still make sense to play the latter.
 
-	Lottery is the obvious example of this case. The winning prize is so life changing, it makes sense to play it because a reward like that is not accessible through any other means. The other example is insurance. Think medical insurance for example, the cost of treament of a chronic disease or a critical surgery can’t be beared by most families. So makes sense to opt in for insurance with a much smaller premium (the expected value of treatment must be lesser the premium because insurance that’s how insurance companies are making money)
+	The lottery is an obvious example of this case. The winning prize is so life-changing that it makes sense to play it because a reward like that is not accessible through any other means. The other example is insurance. Think medical insurance, for example, the cost of treatment of a chronic disease or a critical surgery can’t be borne by most families. So makes sense to opt for insurance with a much smaller premium (the expected value of treatment must be lesser than the premium because the insurance that’s how insurance companies make money)
 
 3. **Bets with similar expected value but short time interval of success**
 
-	e.g 10X (10%) vs 100X (1%) has the same expected value but makes sense to play the first one because you’ll get the reward early. You might not have enough time or capital to keep playing very high reward high risk bets. 
+	e.g. 10X (10%) vs. 100X (1%) has the same expected value but makes sense to play the first one because you’ll get the reward early. You might not have enough time or capital to keep playing very high-reward, high-risk bets. 
