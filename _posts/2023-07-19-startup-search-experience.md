@@ -44,6 +44,8 @@ Startups make you better at practical coding skills (doing things quickly, makin
 
 However also startup’s aren’t the one stop solution for learning. If you were thinking of gaining hard skills, dedicated courses, self study (or sometimes grad degree) could be a better way. At startups your attention may be split into multiple different tasks so you wouldn’t be able to gain depth in any particular technology. The learning is more wide than it is deep.
 
+Found another well written article on this - [<u>How to choose a startup</u>](https://www.danhock.co/p/how-to-choose-a-startup)
+
 #### Important links covering job boards, curated lists, VC companies and accelerators etc.
 
 **Job Boards**
