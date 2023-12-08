@@ -3,6 +3,7 @@ title: Poorly Thoughtout Life
 layout: page
 permalink: blog
 ---
+
 <img src="images/blog.png" style="max-width:100%;">
 <br>
 Hey! I write essays on self-improvement, careers, startup and tech. Occassionally I also delve into fiction or collecting songs. There's no order in these posts (although the essays on life are my favourite) so I suggest reading any title that interests you! 
@@ -11,8 +12,13 @@ Hey! I write essays on self-improvement, careers, startup and tech. Occassionall
 Visit <a href="/archive"><u>Archive</u></a> to see listed in chronological order.
 <hr>
 
-{% assign current_month = site.time | date: "%m %y" %}
+<div style="float:right">
+	<button class="button-2" id="toggleButton">Sort by Date</button>
+</div>
 
+<div id="div1">
+
+{% assign current_month = site.time | date: "%m %y" %}
 <b><u>On Careers</u></b>
 <ul>
 {% for post in site.posts %}
@@ -135,3 +141,52 @@ Visit <a href="/archive"><u>Archive</u></a> to see listed in chronological order
 		{% endif %}
 	{% endif %}
 {% endfor %}
+</div>
+
+<div id="div2" class="hidden">
+<ul>
+{% for post in site.posts %}
+	{% if post.tags contains 'book' %}
+		{% continue %}
+	{% else %}
+	{% assign currentdate = post.date | date: "%B %Y" %}
+	{% if currentdate != date %}
+	</ul>
+		{{ currentdate }}
+	<ul>
+		{% assign date = currentdate %} 
+	{% endif %}
+	
+	<!-- <li><a href="{{ post.url }}">[Book Notes] {{ post.title }}</a></li> -->
+	
+	<li><a href="{{ post.url }}">{{ post.title }}</a> 
+		{% if post.tags contains 'personal' %}
+		{% else %}
+			<span class="span-class-archive"> 	{{ post.tags }}
+			</span>
+		{% endif %}
+	</li>
+	{% endif %}
+{% endfor %}
+</ul>
+</div>
+
+<script>
+document.getElementById('toggleButton').addEventListener('click', function() {
+	var div1 = document.getElementById('div1');
+	var div2 = document.getElementById('div2');
+
+	div1.classList.toggle('hidden');
+	div2.classList.toggle('hidden');
+
+	var elem = document.getElementById('toggleButton');
+	console.log(elem);
+
+	if(elem.textContent == "Sort by Category"){
+		elem.textContent = "Sort by Date";
+	}
+	else{
+		elem.textContent = "Sort by Category";
+	}
+});
+</script>
