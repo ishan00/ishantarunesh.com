@@ -1,7 +1,7 @@
 ---
 title: One or two steps away
 layout: post
-date: 2023-12-09
+date: 2023-12-09 10:00 +0530
 tags: life
 permalink: one-or-two-steps-away
 ---
