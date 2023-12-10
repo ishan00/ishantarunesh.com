@@ -9,7 +9,7 @@ permalink: blog
 Hey! I write essays on self-improvement, careers, startup and tech. Occassionally I also delve into fiction or collecting songs. There's no order in these posts (although the essays on life are my favourite) so I suggest reading any title that interests you! 
 <br>
 <br>
-Visit <a href="/archive"><u>Archive</u></a> to see listed in chronological order.
+<span style="color: maroon"><i>(new)</i></span> are posts I've written this month. Sort by date to see listed in chronological order.
 <hr>
 
 <div style="float:right">
@@ -18,56 +18,45 @@ Visit <a href="/archive"><u>Archive</u></a> to see listed in chronological order
 
 <div id="div1">
 
+<!-- <br> -->
 {% assign current_month = site.time | date: "%m %y" %}
-<b><u>On Careers</u></b>
+<b>Personal</b>
 <ul>
 {% for post in site.posts %}
-	{% if post.tags contains 'career' %}
+	{% if post.tags contains 'career' or post.tags contains 'life' or post.tags contains 'self-improvement' %}
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>On Life</u></b>
+<b>Analogies with Life</b>
 <ul>
 {% for post in site.posts %}
-	{% if post.tags contains 'life' %}	
+	{% if post.tags contains 'analogy' %}
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>On Self-Improvement</u></b>
-<ul>
-{% for post in site.posts %}
-	{% if post.tags contains 'self-improvement' %}	
-	<li><a href="{{ post.url }}">{{ post.title }}</a>
-		{% assign post_month = post.date | date: "%m %y" %}
-		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
-		{% endif %}
-	</li>
-	{% endif %}
-{% endfor %}
-</ul>
 
-<b><u>Technical Articles</u></b>
+<b>Technical Articles</b>
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'technical' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
@@ -75,63 +64,63 @@ Visit <a href="/archive"><u>Archive</u></a> to see listed in chronological order
 </ul>
 
 
-<b><u>Startups</u></b>
+<b>Startups</b>
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'startup' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>Writing</u></b>
+<b>Writing</b>
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'writing' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>Songs</u></b>
+<b>Songs</b>
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'songs' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>Conversations With Friends</u></b>: Inspired by Sally Rooney's characters, I find myself writing long-form emails to my friends, some of which I share here.
+<b>Conversations With Friends</b>: Inspired by Sally Rooney's characters, I find myself writing long-form emails to my friends, some of which I share here.
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'letter' %}	
 	<li><a href="{{ post.url }}">{{ post.title }}</a>
 		{% assign post_month = post.date | date: "%m %y" %}
 		{% if post_month == current_month %}
-			<span style="float: right; color: maroon"><i>(new)</i></span>
+			<span style="color: maroon"><i>(new)</i></span>
 		{% endif %}
 	</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
-<b><u>Misc</u></b>
+<b>Misc</b>
 {% for post in site.posts %}
 	{% if post.tags contains 'misc' %}	
 	 · <a href="{{ post.url }}">{{ post.title }}</a> 
