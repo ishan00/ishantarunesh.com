@@ -1,0 +1,31 @@
+---
+title: Letter to recent grads
+layout: post
+date: 2023-12-10 20:00 +0530
+tags: letter
+permalink: letter-to-recent-grads
+---
+
+Recently, I received a message from a college junior who had recently started working at a company. In a articulate manner, he shared his concerns about his job, expressing feelings of not making a significant impact and not gaining enough learning experiences. It brought back memories of myself two years ago when I had similar sentiments.
+
+Reflecting on my own experiences, I'm writing this letter to share what I wish someone told me two years ago, hoping that even one reader might find it relatable and comforting. I don’t want to offer any advice but only to make you feel heard (or understood). As someone who shares the worrier-type mindset, I understand the overwhelming feeling that can accompany career decisions.
+
+Rewind to August 2016, the second month of college,when a group of sophomores visited our wing to enlighten us with their experiences (it was evident that they possessed a ton of experience from how much they talked.) You should have figured out a career path by the time you reach your third year (funnily they were sophomores) Yet, as time passed, I heard this message repeatedly, each time with a slightly adjusted deadline. The last I heard, you needed to have figured out a career path by the time you graduate. And there I was, with a good job offer without any idea of a career path for myself.
+
+One thing our school and colleges utterly fail at is to expose us to what different jobs are going to look like in the future. There is a strong disconnect between what you study and then what the job requires. For example out of IIT, I see only a few dominant paths -- graduate school, software engineers, quant traders, product managers, management consultants (or strategy), investment or financial analyst. Almost everyone, irrespective of their major gets funneled into these paths. The path very likely decided by what seniors or batchmates with similar profile have done in the past. (people with high grades applying for grad school, people who organised fests opting for consult roles etc). I don’t know how much agency there is in these decisions, atleast there was none for me. (Someone can argue that people with higher grades have higher grades because they wanted to go to grad school but the opposite also being true for many, difficult to disentangle the cause and effect).
+
+I went ahead and joined Samsung Electronics, in South Korea. I had received a pre-placement offer and had no reason to decline. However, as the initial excitement of earning money waned in the first six months on the job, dissatisfaction crept in. I didn’t feel like I was contributing to anything or that the work I was doing had any impact. And it wasn’t only specific to me. Most of my friends were in the same boat, discussing how bad our jobs were. And it wasn’t just a dissatisfaction with job, it was a dissatisfaction with life that we were feeling. I think when we are unhappy, we look at the most immediate thing we can blame it on. And for me, that was a job. (although a part of it came from adulting itself). 
+
+In parallel, I also had another goal. To understand which of my friend’s choices turned out better. I hoped that If I had a decent data size, I would find out which path was the best. Some friends left big tech to join HFTs, some left HFTs to go to  tech companies. A lot of friends went for Masters or PhD directly and many more after a gap of one or two years. Some seniors dropped out of PhD as well. It was all very chaotic. There was no emerging pattern. 
+
+Time passed in Korea, as I observed this unfold without taking any action. Two years into my career, at the age of 23, I realized that I have not taken any significant decision of my life. Most major decisions were taken by either parents (school, coaching), or the marks you got or by default. Your rank decided the college you went to, the courses you took by what your friends were taking. You took the first job you got. As a perfectionist, I wasn’t able to decide what job to take next because I wasn’t clear what I wanted from a job (and from my career). Every job I would look at would fall short in someway. I was searching for the global optimum job to take, and I couldn’t find one. 
+
+I initially applied for MS, but didn’t put a good effort in the application. I got into 1 of the 8 colleges I applied to but at the end decided not to go and shift back to India instead. I quit my job, and started looking for startups to work at. This decision wasn't driven by a strong inclination or well-informed choice, as I found myself lacking both. 
+
+Fast forward almost another year. I now work as an AI engineer at Babblebots. Since then I have developed a better understanding of different careers. I’ll write about how the experience at Babblebots has been like. 
+
+There was some mismatch in what I expected the work/learning at startups to be vs what it is. Startup makes you better at practical coding skills (doing things quickly, making things work etc.), so I do feel I have become more productive engineer in terms of code pushed etc. but also I have not gained depth in any particular technology. 
+
+There was a major learning here in terms of confidence in yourself. I acquired the confidence that I can build things on my own and also learn things on the fly. This was severely lacking before because there weren’t enough tasks to make you feel productive/confident. Otherwise I learnt a lot about other aspects of startups - funding, hiring, sales, product etc. General knowledge about the ecosystem also increased. I feel important on a day to day basis too because everyone’s work is crucial. 
+
+The purpose of sharing my experiences is to emphasize that discovering what truly works for you will require trying out a few jobs. It’s impossible to theoretically answer the question of what you should do with your life. And that it will take a few years before you start developing likes and dislikes. Some people have done that self-knowledge journey earlier than others but that’s alright. Eventually you’ll catch up. The fact that you are worried about career won’t let you sit idle.
