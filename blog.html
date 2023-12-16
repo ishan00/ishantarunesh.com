@@ -13,10 +13,10 @@ Hey! I write essays on self-improvement, careers, startup and tech. Occassionall
 <hr>
 
 <div style="float:right">
-	<button class="button-2" id="toggleButton">Sort by Date</button>
+	<button class="button-2" id="toggleButton">Sort by Category</button>
 </div>
 
-<div id="div1">
+<div id="div1" class="hidden">
 
 <!-- <br> -->
 {% assign current_month = site.time | date: "%m %y" %}
@@ -132,7 +132,7 @@ Hey! I write essays on self-improvement, careers, startup and tech. Occassionall
 {% endfor %}
 </div>
 
-<div id="div2" class="hidden">
+<div id="div2">
 <ul>
 {% for post in site.posts %}
 	{% if post.tags contains 'book' %}
