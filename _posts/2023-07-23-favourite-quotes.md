@@ -8,14 +8,8 @@ permalink: favourite-quotes
 *I always wanted to be somebody, but now I realize I should have been more specific.*<br>
 — Lily Tomlin, American actress
 
-*Mondays are fine. It’s your life that sucks.*<br>
-— Ricky Gervais, British comedian  screenwriter
-
 *Everything has been figured out, except how to live.*<br>
 — Jean-Paul Sartre, French philosopher
-
-*If I love you, what business is it of yours?*<br>
-— Johann wolfgang von Goethe
 
 *My own business always bores me to death; I prefer other people's*<br>
 — Oscar Wilde
@@ -23,8 +17,23 @@ permalink: favourite-quotes
 *Always go too far, because that's where you'll find the truth.*<br>
 — Albert Camus
 
+*Learn to value yourself, which means: fight for your happiness.*<br>
+— Ayn Rand
+
 *No matter what their delusions are, parents do not really know their children*<br>
 — Unknown
+
+*I keep on making what I can't do yet in order to learn to be able to do it*<br>
+— Van Gogh
+
+*What I want and set as my goal is damned difficult, and yet I don't believe I'm aiming too high*<br>
+— Van Gogh
+
+*I feel a power in me that I must develop, a fire that I may not put out but must fan, although I don't know to what outcome it will lead me.*<br>
+— Van Gogh
+
+*What I advise you to do is, not to be unhappy before the crisis comes*<br>
+— Seneca
 
 *What horrifies me most is the idea of being useless; well-educated, brilliantly promising, and fading out into an indifferent middle age*<br>
 — Sylvia Plath
@@ -47,9 +56,6 @@ permalink: favourite-quotes
 *People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice.*<br>
 ― Charles Bukowski
 
-*If you get married they think you're finished and if you are without a woman they think you're incomplete.*<br>
-― Charles Bukowski
-
 *I wasn’t lonely. I experienced no self-pity. I was just caught up in a life in which I could ﬁnd no meaning.*<br>
 ― Charles Bukowski
 
@@ -59,23 +65,8 @@ permalink: favourite-quotes
 *In important matters, a 'strong' effort usually results in only mediocre results.  Whenever we are attempting anything truly worthwhile our effort must be as if our life is at stake, just as if we were under a physical attack!  It is this extraordinary effort—an effort that drives us beyond what we thought we were capable of—that ensures victory in battle and success in life's endeavors.*<br>
 — Flashing Steel: Mastering Eishin-Ryu Swordsmanship
 
-*Learn to value yourself, which means: fight for your happiness.*<br>
-— Ayn Rand
-
 *There is no normal, Evelyn. A 'normal person' is what is left after society has squeezed out all unconventional opinions and aspirations out of a human being.*<br>
 — Sylvia Plath
-
-*What I want and set as my goal is damned difficult, and yet I don't believe I'm aiming too high*<br>
-— Van Gogh
-
-*I feel a power in me that I must develop, a fire that I may not put out but must fan, although I don't know to what outcome it will lead me.*<br>
-— Van Gogh
-
-*I keep on making what I can't do yet in order to learn to be able to do it*<br>
-— Van Gogh
-
-*What I advise you to do is, not to be unhappy before the crisis comes*<br>
-— Seneca
 
 *Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.*<br>
 — Franz Kafka
@@ -112,8 +103,3 @@ Your goal is to get out of the box.*<br>
 *OK, now let’s have some fun. Let’s talk about sex. Let’s talk about women. Freud said he didn’t know what women wanted. I know what women want. They want a whole lot of people to talk to. What do they want to talk about? They want to talk about everything.What do men want? They want a lot of pals, and they wish people wouldn’t get so mad at them. Why are so many people getting divorced today? It’s because most of us don’t have extended families anymore. It used to be that when a man and a woman got married, the bride got a lot more people to talk to about everything. The groom got a lot more pals to tell dumb jokes to.A few Americans, but very few, still have extended families. The Navahos. The Kennedys. But most of us, if we get married nowadays, are just one more person for the other person. The groom gets one more pal, but it’s a woman. The woman gets one more person to talk to about everything, but it’s a man. When a couple has an argument, they may think it’s about money or power or sex, or how to raise the kids, or whatever. What they’re really saying to each other, though, without realizing it, is this: “You are not enough people!” <br>
 I met a man in Nigeria one time, an Ibo who has six hundred relatives he knew quite well. His wife had just had a baby, the best possible news in any extended family.They were going to take it to meet all its relatives, Ibos of all ages and sizes and shapes. It would even meet other babies, cousins not much older than it was. Everybody who was big enough and steady enough was going to get to hold it, cuddle it, gurgle to it, and say how pretty it was, or handsome. Wouldn't you have loved to be that baby?*<br>
 — Kurt Vonnegut
-
-<hr> 
-#### Pearls of Wisdom from Akash
-* *People forget you if you are the most idealistic person that is why I try to be funny*
-* *I am a good listener but I am a better speaker*
