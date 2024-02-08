@@ -14,7 +14,7 @@ A few months back, we found ourselves in the same boat -- wanting to start our o
 
 It's a misconception that every successful company is built on revolutionary ideas. In reality, many great companies tackle well-known problems but with a fresh approach, whether through different positioning, pricing, or geographical focus. Generating ideas is more like competitive programming in my opinion. Having a few mental models and then pattern matching it across industries/use cases. 
 
-We refered to this article by Antler - https://www.antler.co/academy/how-to-get-startup-ideas mostly focusing on strategy 1 and 3. There are some low-hanging strategies that are worth seriously thinking about. Listing them below
+We refered to this article by [<u>Antler</u>](https://www.antler.co/academy/how-to-get-startup-ideas) mostly focusing on strategy 1 and 3. There are some low-hanging strategies that are worth seriously thinking about. Listing them below
 
 1. Find an idea that works in US and think if you can do it in India. (i.e scout for ideas from different geographies)
 2. Think of problems you have faced personally and how you could solve it (most of my problems would be related to consumer applications, consumer goods, education, mental health etc. so B2B ideas get skipped in this)
