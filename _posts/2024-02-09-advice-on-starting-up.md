@@ -1,4 +1,3 @@
-
 ---
 title: Advice on starting up
 layout: post
