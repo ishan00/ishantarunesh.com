@@ -6,6 +6,8 @@ tags: fiction
 permalink: makes-me-happy
 ---
 
+<img src="images/makes-me-happy.png" style="width: 100%">
+
 “You know, Vaishnavi," he began, his eyes fixed on the road ahead, "When people talk about their partner making them happy, I believe there's something much deeper behind those words."
 
 Vaishnavi turned in her seat, facing Arjun with a curious expression. "Go on, I'm listening," she said, intrigued by his introspection.
