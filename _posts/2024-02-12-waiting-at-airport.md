@@ -7,7 +7,7 @@ permalink: waiting-at-airport
 ---
 
 <img src="images/airport.png" style="width: 50%; display: block; margin: 0 auto;">
-<p style="text-align: center;">source - <a href="https://replicate.com/stability-ai/stable-diffusion">stable diffusion</a></p>
+<p style="text-align: center;">(source - <a href="https://replicate.com/stability-ai/stable-diffusion">stable diffusion)</a></p>
 
 "Ugh, four hours of waiting? It's like the epitome of boredom," groaned Vaishnavi, dropping her luggage onto the bench. "I mean, it's only a 1 hour and 45 minute ride to Bangalore. Can you believe this 4-hour delay?"
 
