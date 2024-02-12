@@ -6,6 +6,9 @@ tags: fiction
 permalink: makes-me-happy
 ---
 
+<img src="images/makes-me-happy.png" style="width: 50%; display: block; margin: 0 auto;">
+<p style="text-align: center;">source - <a href="https://www.instagram.com/p/CnmInxUKh15/?utm_source=ig_web_copy_link">instagram</a></p>
+
 “You know, Vaishnavi," he began, his eyes fixed on the road ahead, "When people talk about their partner making them happy, I believe there's something much deeper behind those words."
 
 Vaishnavi turned in her seat, facing Arjun with a curious expression. "Go on, I'm listening," she said, intrigued by his introspection.
@@ -21,6 +24,3 @@ Vaishnavi raised an eyebrow, a hint of amusement in her eyes. "Oh, so now it's m
 “No, no, hear me out.  You’re terrible at jokes, but you still make me laugh everytime. I can’t help but chuckle at your clumsiness. I love your eagerness of trying out new cafes in Mumbai. You have this intuitive sense of when I've had a rough day at work, and you know just how to comfort me. And when you skip ordering your favorite mushrooms on date nights because you know I can't stand them, it makes me feel truly seen. And then there's your evil habit of eating Maggi with ketchup. But on a more serious note, your passion for your work is truly inspiring.” said Arjun. He turned to Vaishnavi, who was listening intently. He continued “And when you don’t pick up my call; a wave of sadness runs through my body. How many bad days have turned into worse because of it. And how can we forget about worry, oh, worry, and my god so much of it, for it is up there right next to happiness in the emotional pie of this relationship. There's jealously too, for that guy in your office won’t stop hitting on you in parties.” 
 
 He took a breath, "There's laughter, joy, surprise, assurance, affection, comfort, sacrifice, frustration, guilt, pride, and everything in between," he concluded. "It's complex whirlwind of emotions bundled up into one beautiful mess. That's what they mean when they say their partner makes them happy"
-
-<img src="images/makes-me-happy.png" style="width: 50%; display: block; margin: 0 auto;">
-<p style="text-align: center;">source - <a href="https://www.instagram.com/p/CnmInxUKh15/?utm_source=ig_web_copy_link">instagram</a></p>
