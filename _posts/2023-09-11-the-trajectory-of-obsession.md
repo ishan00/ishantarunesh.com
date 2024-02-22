@@ -27,6 +27,9 @@ Doing something that doesn't ignite passion or bring joy is a daunting task. I u
 > The only thing about myself that I consider to be severe enough to warrant psychoanalytic treatment is my compulsion to write ... That means that my idea of a pleasant time is to go up to my attic, sit at my electric typewriter (as I am doing right now), and bang away, watching the words take shape like magic before my eyes.
 
 <br>
+Found this list with a similar intent - [Prolific](https://anilv.com/prolific)
+
+<br>
 **References**
 * [Stardew Valley Eric Barone's profile](https://www.gq.com/story/stardew-valley-eric-barone-profile)
 * [The writing strategy of superstar scholar Adam Grant](https://prolifiko.com/how-to-be-a-prolific-academic-the-writing-strategy-of-superstar-scholar-adam-grant/)
