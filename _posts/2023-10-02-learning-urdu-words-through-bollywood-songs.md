@@ -15,6 +15,7 @@ permalink: learning-urdu-words-through-bollywood-songs
 * [Qaafirana](#qaafirana)
 * [Falak Tak](#falak)
 * [Khudi](#khudi)
+* [Phir Le Aaya Dil](#phir)
 
 #### <a name="tajdaar"></a>Tajdar-e-Haram by Atif Aslam
 
@@ -217,3 +218,20 @@ Meaning - Then he lives the rest of his life with his unfulfilled, dead desires.
 </p>
 
 **Khudi (खुदी)** - There are two closely-related meanings for Khudi. One is **ego** (घमंड; गर्व; अभिमान;) and the other is **self** (खुद का भाव; अहंभाव)
+
+#### <a name="phir"></a>Phir Le Aaya Dil
+
+<p style="text-align: center;">
+	<i>
+		दिल कह रहा उसे <span class="span-class-yellow">मुकम्मल</span> कर भी आओ <br>
+		वो जो अधूरी सी बात बाकी है<br><br>
+		दिल कह रहा उसे <span class="span-class-yellow">मयस्सर</span> कर भी आओ<br>
+		वो जो दबी सी आस बाकी है<br><br>
+		दिल कह रहा है उसे <span class="span-class-yellow">मुसलसल</span> कर भी आओ<br>
+		वो जो रुकी सी राह बाकी है<br>
+	</i>
+</p>
+
+**मुकम्मल** - समाप्त
+**मयस्सर** - lay hands upon, to get
+**मुसलसल** - continuous, but here meaning forever
