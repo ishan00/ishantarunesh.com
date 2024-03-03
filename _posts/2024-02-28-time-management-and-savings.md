@@ -2,7 +2,7 @@
 title: On Time Management and Savings
 layout: post
 date: 2024-02-28 9:00 +0530
-tags: self-improvement
+tags: personal
 permalink: time-management-and-savings
 ---
 
