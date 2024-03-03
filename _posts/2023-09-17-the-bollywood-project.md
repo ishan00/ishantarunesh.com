@@ -2,7 +2,7 @@
 title: The Bollywood Project
 layout: post
 date: 2023-09-17
-tags: songs
+tags: personal
 permalink: the-bollywood-project
 excerptLength: 39
 ---

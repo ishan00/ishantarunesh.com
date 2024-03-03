@@ -2,7 +2,7 @@
 title: What does fear signify?
 layout: post
 date: 2023-12-09 11:00 +0530
-tags: life
+tags: personal
 permalink: what-does-fear-signify
 ---
 

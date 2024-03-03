@@ -2,7 +2,7 @@
 title: Excerpts from reddit
 layout: post
 date: 2023-07-18
-tags: self-improvement
+tags: personal
 permalink: excerpts-from-reddit
 ---
 <h2>On life being difficult</h2>

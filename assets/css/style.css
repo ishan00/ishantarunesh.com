@@ -44,7 +44,7 @@ Released for free under a Creative Commons Attribution 2.5 License
   display: none;
 }
 
-.span-class-archive {
+.span-class-personal {
   background-color: #EAEDED;
   color: #2ECC71;
   border-radius: 20px;
@@ -53,18 +53,41 @@ Released for free under a Creative Commons Attribution 2.5 License
   font-size: 16px;
 }
 
-.span-class-blue {
-  background-color: #AED6F1; 
+.span-class-startup {
+  background-color: #EAEDED;
+  color: #E74C3C;
   border-radius: 20px; 
-  padding-left: 6px; 
+  border-radius: 20px;
+  padding-left: 6px;
   padding-right: 6px;
+  font-size: 16px;
 }
 
-.span-class-yellow {
-  background-color: #F9E79F; 
-  border-radius: 20px; 
-  padding-left: 6px; 
+.span-class-technical {
+  background-color: #EAEDED; 
+  color: #F39C12;
+  border-radius: 20px;
+  padding-left: 6px;
   padding-right: 6px;
+  font-size: 16px;
+}
+
+.span-class-book {
+  background-color: #EAEDED; 
+  color: #7D3C98;
+  border-radius: 20px;
+  padding-left: 6px;
+  padding-right: 6px;
+  font-size: 16px;
+}
+
+.span-class-fiction {
+  background-color: #EAEDED; 
+  color: #2E86C1;
+  border-radius: 20px;
+  padding-left: 6px;
+  padding-right: 6px;
+  font-size: 16px;
 }
 
 .a-class-red {

@@ -2,7 +2,7 @@
 title: Letter to recent grads
 layout: post
 date: 2023-12-11 20:00 +0530
-tags: letter
+tags: personal
 permalink: letter-to-recent-grads
 ---
 

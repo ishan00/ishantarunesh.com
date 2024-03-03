@@ -2,7 +2,7 @@
 title: Life and Rival Restaurants
 layout: post
 date: 2023-12-10 20:00 +0530
-tags: analogy
+tags: personal
 permalink: life-and-rival-restaurants
 ---
 

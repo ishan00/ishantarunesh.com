@@ -2,7 +2,7 @@
 title: Examining improvement at work
 layout: post
 date: 2023-10-15 10:00 +0530
-tags: career
+tags: personal
 permalink: examining-improvement-at-work
 ---
 

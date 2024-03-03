@@ -2,7 +2,7 @@
 title: On eliminating pseudo goals
 layout: post
 date: 2023-09-11 22:00 +0530
-tags: self-improvement
+tags: personal
 permalink: on-eliminating-pseudo-goals
 ---
 

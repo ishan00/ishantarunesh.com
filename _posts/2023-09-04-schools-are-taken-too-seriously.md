@@ -2,7 +2,7 @@
 title: Schools are taken too seriously
 layout: post
 date: 2023-09-04 01:00 +0530
-tags: misc
+tags: personal
 permalink: schools-are-taken-too-seriously
 ---
 

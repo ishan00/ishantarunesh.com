@@ -2,7 +2,7 @@
 title: Playing to win vs playing not to lose
 layout: post
 date: 2023-10-16 15:00 +0530
-tags: self-improvement
+tags: personal
 permalink: playing-to-win-vs-playing-not-to-lose
 ---
 

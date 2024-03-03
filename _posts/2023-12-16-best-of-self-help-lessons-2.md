@@ -2,7 +2,7 @@
 title: Best of self-help lessons (2)
 layout: post
 date: 2023-12-16 14:00 +0530
-tags: self-improvement
+tags: personal
 permalink: best-of-self-help-lessons-2
 ---
 

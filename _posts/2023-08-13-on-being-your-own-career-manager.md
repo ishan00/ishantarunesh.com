@@ -2,7 +2,7 @@
 title: On being your own career manager
 layout: post
 date: 2023-08-13
-tags: career
+tags: personal
 permalink: on-being-your-own-career-manager
 ---
 If you've ever learned a sport with the help of a coach, or pursued a hobby under the guidance of a teacher, you know how accelerated your progress can be. Sometimes, you need an external perspective – someone to observe you and point out where you might be falling short or suggest areas of improvement. This is hard to discern by oneself since we're often too engrossed in the activity. Consider show business, where artists have agents lining up auditions. These agents identify the best fit for your talent while you focus on honing your skills. If you have parents or older siblings in the same profession, you likely receive advice on navigating the job landscape and discerning the best fit. But many people lack this guidance and must navigate on their own.

@@ -2,7 +2,7 @@
 title: Issues with self-help content
 layout: post
 date: 2022-05-31
-tags: self-improvement
+tags: personal
 permalink: issues-with-self-help-content
 ---
 **Disconnect with the stories.**

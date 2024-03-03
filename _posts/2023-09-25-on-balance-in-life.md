@@ -2,7 +2,7 @@
 title: On balance in life
 layout: post
 date: 2023-09-25
-tags: life
+tags: personal
 permalink: on-balance-in-life
 ---
 

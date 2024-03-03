@@ -2,7 +2,7 @@
 title: The trajectory of obsession
 layout: post
 date: 2023-09-11 15:00 +0530
-tags: career
+tags: personal
 permalink: the-trajectory-of-obsession
 ---
 

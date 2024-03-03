@@ -2,7 +2,7 @@
 title: Small Bets, Lottery and Insurance
 layout: post
 date: 2023-12-03
-tags: life
+tags: personal
 permalink: small-bets-lottery-and-insurance
 ---
 

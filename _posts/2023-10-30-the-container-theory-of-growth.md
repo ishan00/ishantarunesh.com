@@ -2,7 +2,7 @@
 title: The container theory of growth
 layout: post
 date: 2023-10-30 10:00 +0530
-tags: self-improvement
+tags: personal
 permalink: the-container-theory-of-growth
 ---
 > People rise to the expectations that are held for them.

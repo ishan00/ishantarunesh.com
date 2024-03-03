@@ -2,7 +2,7 @@
 title: The Joy of Writing
 layout: post
 date: 2023-09-03 09:00 +0530
-tags: writing
+tags: personal
 permalink: the-joy-of-writing
 ---
 
@@ -16,4 +16,4 @@ Two years ago, I started writing, as something I "had to do" as part of therapy.
 
 On a deeper level, writing fills a void. It makes me feel heard. Even if no one reads (though I would appreciate my friends reading it), the very act of writing and putting it out on the internet makes me feel visible. “I exist, and my words matter”. It relieves me of the feelings of invisibility that haunted me during my younger years.
 
-It’s one of the very few things where I am indifferent to external validations — recognition, money or approval of my parents/friends. My first blog was on Wordpress, and I had integrated likes and comment section. Later, I found myself growing obsessive about which post is receiving the most likes (which was [Life is like an amusement park](/life-is-like-an-amusement-park), people like well-crafted analogies). By gamifying it, I had adulterated the very process of why I started writing — to be able to write my thoughts in a plain, honest way. That is why I don’t have a like/comment section now. 
+It’s one of the very few things where I am indifferent to external validations — recognition, money or approval of my parents/friends. My first blog was on Wordpress, and I had integrated likes and comment section. Later, I found myself growing obsessive about which post is receiving the most likes (which was [Life is like an amusement park](/life-and-amusement-park), people like well-crafted analogies). By gamifying it, I had adulterated the very process of why I started writing — to be able to write my thoughts in a plain, honest way. That is why I don’t have a like/comment section now. 

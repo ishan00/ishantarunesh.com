@@ -2,7 +2,7 @@
 title: Best of self-help lessons
 layout: post
 date: 2022-06-19
-tags: self-improvement
+tags: personal
 permalink: best-of-self-help-lessons
 ---
 I’ve read a bunch of self-help books recently. In another post, I highlighted some [<u>issues with self-help content</u>](/issues-with-self-help-content). Self-help books have a low signal-to-noise ratio -- books going over the same simple idea over and over, spreading over 200+ pages. This post should be read as a recommendation post. I’ve tried to summarize a few ideas that I really liked and want to integrate into my life (in progress). If you find the idea of use, I suggest reading the relevant chapters from the book.
