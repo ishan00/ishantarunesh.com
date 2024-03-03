@@ -9,8 +9,28 @@ excerptLength: 39
 
 Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
 
+#### Gulabi (6)
+<div style="line-height: 2;">
+	<a class="a-class-blue" href="https://youtu.be/hgi2MYAFgE8?si=pHilpjKF4QkHbuh3&t=27">Gulabi ankhein jo teri dekhi</a>
+	<a class="a-class-red" href="https://youtu.be/BTRPBiE_1lA?si=Xwa8s_RXPSrCWmxf&t=109">Ke beet jaye tujhme ye umar</a>
+	<a class="a-class-green" href="https://youtu.be/1ml5HrQrdQI?si=UPCkq1uF_IGAXeNf&t=103">Rang ye gulabi ambaraan se gira hai</a>
+	<a class="a-class-yellow" href="https://youtu.be/E4ZJxhyAaH8?si=gmsTWuwGLgaVUWJ3&t=15">Gulabi</a>
+	<a class="a-class-blue" href="https://youtu.be/60vIVA5AZ9M?si=NpkFW_hjgtoBpUWl&t=150">Tu jo dariya mein utare saara paani gulabi</a>
+	<a class="a-class-red" href="https://youtu.be/bSAlE_WgHxY?si=NGmbEZ-wPUmnHnXW&t=13">Rang saari gulabi chunariya ve</a>
+</div>
+<hr>
 
-#### Tere Bin (+similar) (15)
+#### Umar (5)
+<div style="line-height: 2;">
+	<a class="a-class-blue" href="https://youtu.be/ycS5PagXvhQ?si=OIuuFkDu23sa_eIT&t=208">Usse takte takte takte umar guzarun</a>
+	<a class="a-class-red" href="https://youtu.be/BTRPBiE_1lA?si=Xwa8s_RXPSrCWmxf&t=109">Ke beet jaye tujhme ye umar</a>
+	<a class="a-class-green" href="https://youtu.be/CYCoNpxWWzk?si=e6PNW97WmKC0N4_g&t=97">Mere umar ke naujawanon</a>
+	<a class="a-class-yellow" href="https://youtu.be/vdbP_3o73qI?si=1pbWHAJfAF61fA0-&t=155">Teri berukhi se hai badi, umar intezaar ki meri</a>
+	<a class="a-class-blue" href="https://youtu.be/jXwg9l9D51A?si=wsdDfZW8idIA5Kiv&t=293">Umarein lagi kehte hue, do lafz the ek baat thi</a>
+</div>
+<hr>
+
+#### Tere Bin (15)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/yIrU21hoHys?si=BcdEp_8KDqKslG52&t=29">Tere bin main yun kaise jiya</a>
 	<a class="a-class-red" href="https://youtu.be/ODp3B_pQD48?si=BegVLbNaRQoLbLw9&t=118">Tere bin nahi laage jiya</a>
@@ -111,7 +131,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-#### Khuda (32)
+#### Khuda (33)
 <div style="line-height: 2;">
 	<a class="a-class-red" href="https://youtu.be/cmMiyZaSELo?si=iRQmY3cLQbCMSBOk&t=59">Khuda jaane ke</a>
 	<a class="a-class-green" href="https://youtu.be/Qdz5n1Xe5Qo?si=SA9yflmQKJlowAhu&t=35">Cheen lunga ya khuda se maang launga</a>
@@ -145,6 +165,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-green" href="https://youtu.be/lN1m7zLBbSU?si=w4Yo-2EOKaARdriI&t=13">Mujhe yunhin karke khwabon se juda, jaane kahan chupke baitha hai khuda</a>
 	<a class="a-class-yellow" href="https://youtu.be/ycS5PagXvhQ?si=OmAdR-BdbP--Xt08&t=108">Mera yaar khuda hai</a>
 	<a class="a-class-blue" href="https://youtu.be/0Iu5kQi8lns?si=MhEvAtrHoViKCT58&t=51">Je main pittal te oh sona bakhuda</a>
+	<a class="a-class-red" href="https://youtu.be/Itntw6h2yEA?si=l_gk9aQ40RvfgTUe&t=72">Tujhme aur khuda mein koi fark na jane</a>
 </div>
 <hr>
 
