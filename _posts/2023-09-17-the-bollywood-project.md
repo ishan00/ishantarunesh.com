@@ -12,22 +12,20 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 #### Gulabi (6)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/hgi2MYAFgE8?si=pHilpjKF4QkHbuh3&t=27">Gulabi ankhein jo teri dekhi</a>
-	<a class="a-class-red" href="https://youtu.be/BTRPBiE_1lA?si=Xwa8s_RXPSrCWmxf&t=109">Ke beet jaye tujhme ye umar</a>
 	<a class="a-class-green" href="https://youtu.be/1ml5HrQrdQI?si=UPCkq1uF_IGAXeNf&t=103">Rang ye gulabi ambaraan se gira hai</a>
 	<a class="a-class-yellow" href="https://youtu.be/E4ZJxhyAaH8?si=gmsTWuwGLgaVUWJ3&t=15">Gulabi</a>
 	<a class="a-class-blue" href="https://youtu.be/60vIVA5AZ9M?si=NpkFW_hjgtoBpUWl&t=150">Tu jo dariya mein utare saara paani gulabi</a>
-	<a class="a-class-red" href="https://youtu.be/bSAlE_WgHxY?si=zSPdDeGELf9t7c_V&t=136">Bali hai meri umariya re</a>
+	<a class="a-class-red" href="https://youtu.be/bSAlE_WgHxY?si=zSPdDeGELf9t7c_V&t=20">Rang saari gulabi chunariya ve</a>
 </div>
 <hr>
 
-#### Umar (6)
+#### Umar (5)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/ycS5PagXvhQ?si=OIuuFkDu23sa_eIT&t=208">Usse takte takte takte umar guzarun</a>
 	<a class="a-class-red" href="https://youtu.be/BTRPBiE_1lA?si=Xwa8s_RXPSrCWmxf&t=109">Ke beet jaye tujhme ye umar</a>
 	<a class="a-class-green" href="https://youtu.be/CYCoNpxWWzk?si=e6PNW97WmKC0N4_g&t=97">Mere umar ke naujawanon</a>
 	<a class="a-class-yellow" href="https://youtu.be/vdbP_3o73qI?si=1pbWHAJfAF61fA0-&t=155">Teri berukhi se hai badi, umar intezaar ki meri</a>
 	<a class="a-class-blue" href="https://youtu.be/jXwg9l9D51A?si=wsdDfZW8idIA5Kiv&t=293">Umarein lagi kehte hue, do lafz the ek baat thi</a>
-	<a class="a-class-red" href="https://youtu.be/BTRPBiE_1lA?si=Xwa8s_RXPSrCWmxf&t=109">Ke beet jaye tujhme ye umar</a>
 </div>
 <hr>
 
