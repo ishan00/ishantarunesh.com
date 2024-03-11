@@ -9,7 +9,7 @@ excerptLength: 39
 
 Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
 
-#### Gulabi (6)
+#### Gulabi (5)
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/hgi2MYAFgE8?si=pHilpjKF4QkHbuh3&t=27">Gulabi ankhein jo teri dekhi</a>
 	<a class="a-class-green" href="https://youtu.be/1ml5HrQrdQI?si=UPCkq1uF_IGAXeNf&t=103">Rang ye gulabi ambaraan se gira hai</a>
