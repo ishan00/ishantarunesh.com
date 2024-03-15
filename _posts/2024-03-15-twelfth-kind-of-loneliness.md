@@ -45,7 +45,7 @@ Arjun grinned. "Yeah, well, I think there's a 12th kind of loneliness," he said.
 
 “You know it better than anyone how a few decisions is all it takes for life to become contrasting to someone else. You had tens of friends living identical lives at your first job, and now they have all gone different routes. A few more years in and you would find that the only person living your life will be you and that is a lonely feeling indeed.” Vaishnavi sighed.
 
-"Vaishnavi, I fear that with you too. Now that we're living apart, I worry that we'll drift apart. I don't want to miss out on the little things that happen in your day," Arjun confessed.
+"Vaishnavi, I fear that with you too. Now that we're living away from each other, I worry that we'll drift apart. I don't want to miss out on the little things that happen in your day," Arjun confessed.
 
 "No, we won't, yaar," Vaishnavi reassured him. "And besides, nothing really happens in my life, as you know, Arjun. I'm very boring. Now go to sleep, you dumbo," she teased affectionately, lightening the mood.
 
