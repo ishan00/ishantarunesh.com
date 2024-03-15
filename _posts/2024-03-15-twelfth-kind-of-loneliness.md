@@ -2,7 +2,7 @@
 title: Twelfth Kind of Loneliness
 layout: post
 date: 2024-03-15 14:00 +0530
-tags: personal
+tags: fiction
 permalink: twelfth-kind-of-loneliness
 ---
 
