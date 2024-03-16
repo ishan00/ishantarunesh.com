@@ -9,7 +9,7 @@ permalink: twelfth-kind-of-loneliness
 <img src="images/sitting.png" style="width: 100%; display: block; margin: 0 auto;">
 <p style="text-align: center;">(source - <a href="https://www.instagram.com/p/BxSMhloBT6L/?utm_source=ig_web_copy_link">instagram</a>)</p>
 
-The phone rings. It is Vaishnavi calling back. “Hey Vaish, were you asleep?”, asked Arjun apologetically knowing he might have disturbed Vaishnavi’s sleep. Vaishnavi’s voice, groggy with sleep, came through the received, “Hey, hi,” she mumbled. “I had just fallen asleep, but it’s okay”
+The phone rings. It is Vaishnavi calling back. “Hey Vaish, were you asleep?”, asked Arjun apologetically knowing he might have woken her up. Vaishnavi’s voice, groggy with sleep, came through the received, “Hey, hi,” she mumbled. “It’s okay”
 
 “I came back from meeting my friend about an hour ago and I’ve been feeling unsettled since then” replied Arjun with a sombre tone.
 
@@ -27,7 +27,7 @@ The phone rings. It is Vaishnavi calling back. “Hey Vaish, were you asleep?”
 
 "But it's only been a year," Vaishnavi pointed out. "That's not a long time to feel so disconnected."
 
-“I have a version of this friend in my head formed over the years of our friendship and suddenly today I felt that the version is outdated” said Arjun. “He no longers things about life the same way as before and I am having a tough time collating their present self with the self in my mind” he continued. 
+“I have a version of this friend in my head formed over the years of our friendship and suddenly today I felt that the version is outdated” said Arjun. “He no longers thinks about life the same way as before and I am having a tough time collating their present self with the self in my mind” he continued. 
 
 “That’s true Arjun, plus twenties is an age like that too”, consoled Vaishnavi, “People change and that change is also very non-linear. Few events can drastically alter someone’s views. And I suppose until you talk about those subtle incidents or events, you wouldn’t be able to converge to his way of looking at the World. So much happens to a person on the inside you won’t know in one day.” she expanded.
 
