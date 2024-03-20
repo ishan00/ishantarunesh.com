@@ -81,6 +81,11 @@ Released for free under a Creative Commons Attribution 2.5 License
   color: #2E86C1;
 }
 
+.span-class-recommendation {
+  background-color: #EAEDED; 
+  color: #566573;
+}
+
 .a-class-red {
   background-color:#F5B7B1; 
   border-radius: 10px;

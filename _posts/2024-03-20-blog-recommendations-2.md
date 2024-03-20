@@ -2,7 +2,7 @@
 title: Blog Recommendations (2)
 layout: post
 date: 2024-03-20 11:55 +0530
-tags: 
+tags: recommendation
 permalink: blog-recommendations-2
 ---
 1.
