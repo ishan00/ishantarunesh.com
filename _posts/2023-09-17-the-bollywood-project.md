@@ -18,24 +18,24 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 <hr>
 
 
-#### Gulabi (5)
+#### Gulabi (6)
 <div style="line-height: 2;">
-	<a class="a-class-blue" href="https://youtu.be/hgi2MYAFgE8?si=pHilpjKF4QkHbuh3&t=27">Gulabi ankhein jo teri dekhi</a>
-	<a class="a-class-green" href="https://youtu.be/1ml5HrQrdQI?si=UPCkq1uF_IGAXeNf&t=103">Rang ye gulabi ambaraan se gira hai</a>
 	<a class="a-class-yellow" href="https://youtu.be/E4ZJxhyAaH8?si=gmsTWuwGLgaVUWJ3&t=15">Gulabi</a>
 	<a class="a-class-red" href="https://youtu.be/bSAlE_WgHxY?si=zSPdDeGELf9t7c_V&t=20">Rang saari gulabi chunariya ve</a>
 	<a class="a-class-blue" href="https://youtu.be/60vIVA5AZ9M?si=NpkFW_hjgtoBpUWl&t=150">Tu jo dariya mein utare saara paani gulabi</a>
-	<a class="a-class-green" href="https://youtu.be/_Q3kxtFyhBU?si=Tfgjb3NkADxxkZUZ&t=24">Sambhalo zara apna aanchal gulabi</a>
+	<a class="a-class-green" href="https://youtu.be/1ml5HrQrdQI?si=UPCkq1uF_IGAXeNf&t=103">Rang ye gulabi ambaraan se gira hai</a>
+	<a class="a-class-yellow" href="https://youtu.be/hgi2MYAFgE8?si=pHilpjKF4QkHbuh3&t=27">Gulabi ankhein jo teri dekhi</a>
+	<a class="a-class-red" href="https://youtu.be/_Q3kxtFyhBU?si=Tfgjb3NkADxxkZUZ&t=24">Sambhalo zara apna aanchal gulabi</a>
 </div>
 <hr>
 
 #### Umar (5)
 <div style="line-height: 2;">
-	<a class="a-class-blue" href="https://youtu.be/ycS5PagXvhQ?si=OIuuFkDu23sa_eIT&t=208">Usse takte takte takte umar guzarun</a>
 	<a class="a-class-red" href="https://youtu.be/BTRPBiE_1lA?si=Xwa8s_RXPSrCWmxf&t=109">Ke beet jaye tujhme ye umar</a>
 	<a class="a-class-green" href="https://youtu.be/CYCoNpxWWzk?si=e6PNW97WmKC0N4_g&t=97">Mere umar ke naujawanon</a>
 	<a class="a-class-yellow" href="https://youtu.be/vdbP_3o73qI?si=1pbWHAJfAF61fA0-&t=155">Teri berukhi se hai badi, umar intezaar ki meri</a>
 	<a class="a-class-blue" href="https://youtu.be/jXwg9l9D51A?si=wsdDfZW8idIA5Kiv&t=293">Umarein lagi kehte hue, do lafz the ek baat thi</a>
+	<a class="a-class-red" href="https://youtu.be/ycS5PagXvhQ?si=OIuuFkDu23sa_eIT&t=208">Usse takte takte takte umar guzarun</a>
 </div>
 <hr>
 
@@ -84,12 +84,12 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 </div>
 <hr>
 
-#### Khwaab (14)
+#### Khwaab (18)
 <div style="line-height: 2;">
 	<a class="a-class-green" href="https://youtu.be/kCQ6zaHDXj4?si=Bv73JtlA35j_taIT&t=2">Khwaab dekhe jhoothe moothe</a>
 	<a class="a-class-yellow" href="https://youtu.be/dTu5dTEzVM4?si=mqC9SH-68JqeUa10&t=17">Khwamakha bewajah khwaab bunta raha</a>
 	<a class="a-class-blue" href="https://youtu.be/R0XjwtP_iTY?si=zV0YssEuiCeu2WXX&t=13">Ude khule aasmaan mein khwaabon ke parindey</a>
-	<a class="a-class-red" href="https://youtu.be/EHelINfImh8?si=B44i3PQnET2NpkMc&t=12">Khwaabon ke jahan mere se niklasa</a>
+	<a class="a-class-red" href="https://youtu.be/EHelINfImh8?si=B44i3PQnET2NpkMc&t=12">Khwaabon ke jahan mere se nikla sa</a>
 	<a class="a-class-green" href="https://youtu.be/wHD6z0vuWiM?si=8vWJ5Cjao50KB7Mq&t=25">Ammi ne meri jo suit silaya hai khwaab dikhaya hai tu hi to nahi</a>
 	<a class="a-class-yellow" href="https://youtu.be/Zxgvob1Ew0c?si=DWhXpYZjA4CdhdmQ&t=125">Mere khwaabon mein jo aaye</a>
 	<a class="a-class-blue" href="https://youtu.be/7dO_MS9tZ5E?si=8sXIL7P6Ff75LhrX&t=54">Dekha ek khwaab to ye silsile hue</a>
@@ -97,15 +97,17 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-green" href="https://youtu.be/hJBHSmyqv0Y?si=z2QYjeFlNZE3UBY2&t=219">Aankhon ne aaj dekha khwaabon ka aasmaan hai</a>
 	<a class="a-class-yellow" href="https://youtu.be/jh66Pjtqr4k?si=bV3HxGOgkxhzHCit&t=208">Khwaabon ko jagah na mili aankhon mein wahan pehle se hi sailab tha</a>
 	<a class="a-class-blue" href="https://youtu.be/uCMYzolEbO0?si=xxPeUlRGNlO_6-T9&t=8">Tum to darasal khwaab ki baat ho</a>
-	<a class="a-class-red" href="https://youtu.be/q_WvU9J1nXw?si=ddd98ALFzfBz4A38&t=50">Bas itna sa khwab hai</a>
+	<a class="a-class-red" href="https://youtu.be/q_WvU9J1nXw?si=ddd98ALFzfBz4A38&t=50">Bas itna sa khwaab hai</a>
 	<a class="a-class-green" href="https://youtu.be/Gg6NMU4ivXM?si=OeFr2wGNDeqKfgj1&t=39">Kyun aaj kal neend kam khwaab jyada hai</a>
 	<a class="a-class-yellow" href="https://youtu.be/xj5ru2vdhfI?si=f8i1SOFIc5F3DYyq&t=9">khwaab ho tum ya koi haqeeqat</a>
 	<a class="a-class-blue" href="https://youtu.be/vBTcsTd2kF0?si=YB850lbAsazocgLu&t=127">Hum aapko khwaabon mein la la ke satayenge</a>
-	<a class="a-class-red" href="https://youtu.be/0Np37l4ykRE?si=BJL19MhYqQ2CgWoI&t=30">Ki Khawaaishein pe khaabon ki barishein azaabon ki kahaan kahin gayi dhoop mere hisse ke sawabon ki</a>
+	<a class="a-class-red" href="https://youtu.be/0Np37l4ykRE?si=BJL19MhYqQ2CgWoI&t=30">Ki Khawaaishein pe khaabon ki barishein azaabon ki</a>
+	<a class="a-class-green" href="https://youtu.be/QxddU3sjVRY?si=5U9v9vItDIo5t31w&t=27">To bas khwaabon mein hi mujhse mil liya karo</a>
+	<a class="a-class-yellow" href="https://youtu.be/A6HSbFUeFFE?si=_prYwA16MRbdPxHx&t=133">Khwaab hai dunya dil hai thikana</a>
 </div>
 <hr>
 
-#### Aankhon (13)
+#### Aankhon (15)
 
 <div style="line-height: 2;">
 	<a class="a-class-yellow" href="https://youtu.be/7KKVb0_IdD4?si=DbyvXT_qr2Vlm2p_&t=15">Aankhon mein teri ajab si ajab si adaayein hain</a>
