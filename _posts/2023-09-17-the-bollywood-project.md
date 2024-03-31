@@ -9,6 +9,15 @@ excerptLength: 39
 
 Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
 
+#### Gal
+<div style="line-height: 2;">
+	<a class="a-class-green" href="https://youtu.be/ZHsKQ_R0ZqI?si=di1GaCXNXKhTdifN">Gal mitthi mitthi bol</a>
+	<a class="a-class-yellow" href="https://youtu.be/SAcpESN_Fk4?si=hvjJ-ZlWkvj6V5Pd&t=49">Dil diya gallan</a>
+	<a class="a-class-red" href="https://youtu.be/a2rQQ7Mefcs?si=Bp3tJwwBG3ZZvCFt&t=44">Gallan kardi</a>
+	<a class="a-class-blue" href="https://youtu.be/YzfbpPQLmtE?si=Vz9eghfLQKwby1Mx&t=90">Gal sun jaaneya jaaneya</a>
+</div>
+<hr>
+
 #### Falak
 <div style="line-height: 2;">
 	<a class="a-class-blue" href="https://youtu.be/vr8RaNuWjWc?si=lPhE01_1E3iKDSwx&t=52">Falak tak chal saath mere</a>
