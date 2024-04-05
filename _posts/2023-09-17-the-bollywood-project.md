@@ -9,6 +9,15 @@ excerptLength: 39
 
 Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
 
+#### Heer / Ranjha
+<div style="line-height: 2;">
+	<a class="a-class-red" href="https://youtu.be/hDsNiJjxRH4?si=YhfieFUAEuuGWJa1&t=57">Tu meri heer main tera ranjha</a>
+	<a class="a-class-blue" href="https://youtu.be/H1YR5rsScC8?si=B4z1w0-akBxwl4QU&t=119">Ranjha heer wali batein kar na main paun</a>
+	<a class="a-class-green" href="https://youtu.be/V7LwfY5U5WI?si=8W_rZMoAq18I3WY-&t=24">Chup maahi chup hai ranjha</a>
+	<a class="a-class-yellow" href="https://youtu.be/h4MzHobM4Bw?si=OZoaIKi2dlj-UGNb&t=95">Na to wo tha kahin ka ranjha na wo lagi heer jaisi</a>
+</div>
+<hr>
+
 #### Gal
 <div style="line-height: 2;">
 	<a class="a-class-green" href="https://youtu.be/ZHsKQ_R0ZqI?si=di1GaCXNXKhTdifN">Gal mitthi mitthi bol</a>
