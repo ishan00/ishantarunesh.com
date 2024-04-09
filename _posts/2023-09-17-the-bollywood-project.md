@@ -7,7 +7,16 @@ permalink: the-bollywood-project
 excerptLength: 39
 ---
 
-Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that incorporate these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
+Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda, rang, piya, naina etc. I've been gathering songs that contain these words, and my collection has grown considerably. I thought it's time to share the list. Click on the song to hear it on youtube
+
+#### Sauda
+<div style="line-height: 2;">
+	<a class="a-class-yellow" href="https://youtu.be/LYEqeUr-158?si=vpQ5DQ0mDfiPvhiM&t=79">Hai sauda khara khara</a>
+	<a class="a-class-red" href="https://youtu.be/w9Qo6p4XsXE?si=s2jOFiaN2XLJ0wBG&t=215">Dil karta hai teri batein sunu saude main adhoore chunu</a>
+	<a class="a-class-blue" href="https://youtu.be/IYpJVYU4KE0?si=ohCCu2hl7wn2usX7&t=33">Saudebazi</a>
+	<a class="a-class-green" href="https://youtu.be/jXwg9l9D51A?si=YjFd7NyQTGznw9Og&t=171">Aa neend ka sauda karein</a>
+</div>
+<hr>
 
 #### Heer / Ranjha
 <div style="line-height: 2;">
@@ -195,6 +204,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-yellow" href="https://youtu.be/ycS5PagXvhQ?si=OmAdR-BdbP--Xt08&t=108">Mera yaar khuda hai</a>
 	<a class="a-class-blue" href="https://youtu.be/0Iu5kQi8lns?si=MhEvAtrHoViKCT58&t=51">Je main pittal te oh sona bakhuda</a>
 	<a class="a-class-red" href="https://youtu.be/Itntw6h2yEA?si=l_gk9aQ40RvfgTUe&t=72">Tujhme aur khuda mein koi fark na jane</a>
+	<a class="a-class-green" href="https://youtu.be/IjBAgWKW12Y?si=xtyQHehrbwYcihBS&t=219">Tera hafiz hai khuda</a>
 </div>
 <hr>
 
@@ -279,6 +289,33 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-green" href="https://youtu.be/WPwTPhFMm3k?si=zCLrx1zCaoZCaA9P&t=118">Naina tere kajra re hain</a>
 	<a class="a-class-yellow" href="https://youtu.be/hWJxJhsVWio?si=AlLWJiun1uPZDuoj&t=13">Naina ashq na ho naina</a>
 	<a class="a-class-blue" href="https://youtu.be/4dsFQFCvVGU?si=CRCA--SweXibRL6l&t=108">Kajra re kajra re tere kale kale naina</a>
+</div>
+
+#### Zaalima
+<a class="" href="https://youtu.be/ARTK33xBOUI?si=mTC2OWW-Fl6fGgxi&t=35">Aada kaafirana, chalan zaalimana</a>
+
+#### Songs about someone being khafa
+<div style="line-height: 2;">
+	<a class="a-class-yellow" href="https://youtu.be/NRYlZqvTSSs?si=xzOVA5WAUymyWb5K&t=120">Kahe khafa mose chulbul se bulbul</a>
+	<a class="a-class-blue" href="https://youtu.be/SAcpESN_Fk4?si=s0TEAuWbpp-Y4nPs&t=40">Ye naarazgi kaagzi saari teri</a>
+	<a class="a-class-red" href="https://youtu.be/1LPtNHJckpw?si=bq99OQIF3l0mTqUg&t=12">Acha ji main haari chalo maan jao na</a>
+	<a class="a-class-green" href="https://youtu.be/vdbP_3o73qI?si=ZakxEXZzhPIIRYwM&t=61">Ke maaregi se zyada mujhe maut se naarazgi teri</a>
+</div>
+
+
+#### Songs to stop someone from leaving
+<div style="line-height: 2;">
+	<a class="a-class-green" href="https://youtu.be/mfEQgoVi7P4?si=40CHpIt9iqSPYVMu&t=4">Abhi na jao chhodkar ke dil abhi bhara nahi</a>
+	<a class="a-class-yellow" href="https://youtu.be/FGTv9-oQhIg?si=9vvKD88PiSxuGoPF&t=80">Tu thodi der aur theher jaa</a>
+	<a class="a-class-blue" href="https://youtu.be/SAcpESN_Fk4?si=s0TEAuWbpp-Y4nPs&t=40">Ye naarazgi kaagzi saari teri</a>
+	<a class="a-class-red" href="https://youtu.be/1LPtNHJckpw?si=bq99OQIF3l0mTqUg&t=12">Acha ji main haari chalo maan jao na</a>
+</div>
+
+#### Songs where rooh and jism occur together
+<div style="line-height: 2;">
+	<a class="a-class-green" href="https://youtu.be/f9_C8J4gqzQ?si=kwDwtgbyE-ONLOLa&t=232">Rooh se chahne wale aashiq batein jismon ki karte nahi</a>
+	<a class="a-class-yellow" href="https://youtu.be/1vrSNUtBLvU?si=PKEEgZs499I15yUL&t=192">Choo to liya hai ye jism tune, rooh bhi choom le</a>
+	<a class="a-class-blue" href="https://youtu.be/eYpfKTq0_eg?si=MYrCr0wFVWozNupw&t=11">Main ek jism hun yaa rooh ki pyaas hun</a>
 </div>
 
 <script>
