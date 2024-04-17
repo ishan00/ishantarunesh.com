@@ -290,32 +290,12 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-yellow" href="https://youtu.be/hWJxJhsVWio?si=AlLWJiun1uPZDuoj&t=13">Naina ashq na ho naina</a>
 	<a class="a-class-blue" href="https://youtu.be/4dsFQFCvVGU?si=CRCA--SweXibRL6l&t=108">Kajra re kajra re tere kale kale naina</a>
 </div>
+<hr>
 
 #### Zaalima
-<a class="" href="https://youtu.be/ARTK33xBOUI?si=mTC2OWW-Fl6fGgxi&t=35">Aada kaafirana, chalan zaalimana</a>
-
-#### Songs about someone being khafa
-<div style="line-height: 2;">
-	<a class="a-class-yellow" href="https://youtu.be/NRYlZqvTSSs?si=xzOVA5WAUymyWb5K&t=120">Kahe khafa mose chulbul se bulbul</a>
-	<a class="a-class-blue" href="https://youtu.be/SAcpESN_Fk4?si=s0TEAuWbpp-Y4nPs&t=40">Ye naarazgi kaagzi saari teri</a>
-	<a class="a-class-red" href="https://youtu.be/1LPtNHJckpw?si=bq99OQIF3l0mTqUg&t=12">Acha ji main haari chalo maan jao na</a>
-	<a class="a-class-green" href="https://youtu.be/vdbP_3o73qI?si=ZakxEXZzhPIIRYwM&t=61">Ke maaregi se zyada mujhe maut se naarazgi teri</a>
-</div>
-
-
-#### Songs to stop someone from leaving
-<div style="line-height: 2;">
-	<a class="a-class-green" href="https://youtu.be/mfEQgoVi7P4?si=40CHpIt9iqSPYVMu&t=4">Abhi na jao chhodkar ke dil abhi bhara nahi</a>
-	<a class="a-class-yellow" href="https://youtu.be/FGTv9-oQhIg?si=9vvKD88PiSxuGoPF&t=80">Tu thodi der aur theher jaa</a>
-	<a class="a-class-blue" href="https://youtu.be/SAcpESN_Fk4?si=s0TEAuWbpp-Y4nPs&t=40">Ye naarazgi kaagzi saari teri</a>
-	<a class="a-class-red" href="https://youtu.be/1LPtNHJckpw?si=bq99OQIF3l0mTqUg&t=12">Acha ji main haari chalo maan jao na</a>
-</div>
-
-#### Songs where rooh and jism occur together
-<div style="line-height: 2;">
-	<a class="a-class-green" href="https://youtu.be/f9_C8J4gqzQ?si=kwDwtgbyE-ONLOLa&t=232">Rooh se chahne wale aashiq batein jismon ki karte nahi</a>
-	<a class="a-class-yellow" href="https://youtu.be/1vrSNUtBLvU?si=PKEEgZs499I15yUL&t=192">Choo to liya hai ye jism tune, rooh bhi choom le</a>
-	<a class="a-class-blue" href="https://youtu.be/eYpfKTq0_eg?si=MYrCr0wFVWozNupw&t=11">Main ek jism hun yaa rooh ki pyaas hun</a>
+<div>
+	<a class="a-class-yellow" href="https://youtu.be/lpdRqn6xwiM?si=nRih5tV-MpC4bEwS&t=25">Zaalima</a>
+	<a class="a-class-blue" href="https://youtu.be/ARTK33xBOUI?si=mTC2OWW-Fl6fGgxi&t=35">Aada kaafirana, chalan zaalimana</a>
 </div>
 
 <script>
