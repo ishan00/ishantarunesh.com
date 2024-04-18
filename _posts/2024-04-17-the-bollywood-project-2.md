@@ -7,7 +7,7 @@ permalink: the-bollywood-project-2
 excerptLength: 39
 ---
 
-Really enjoyed collecting songs for [The Bollywood Project](/the-bollywood-project). In the seconds part, I'll collect songs on a particular emotion or a unique occurence of words. 
+Really enjoyed collecting songs for [The Bollywood Project](/the-bollywood-project). In the second part, I'll collect songs on a particular emotion or a unique occurence of words. 
 
 #### Indirect mention of tears
 <div style="line-height: 2;">
@@ -19,7 +19,7 @@ Really enjoyed collecting songs for [The Bollywood Project](/the-bollywood-proje
 #### Songs about the start and the end
 <div style="line-height: 2;">
 	<a class="a-class-yellow" href="https://youtu.be/zuvla6ABKbs?si=Zt9PHmhrr2UY15MO&t=150">Anjaam jo chahe mera ho, aagaaz yun chahiye</a>
-	<a class="a-class-blue" href="https://youtu.be/-kI769Xigik?si=AcA4Ig8Que85xzWW&t=204">Iftiha tumhi ho, intehan tumhi ho</a>
+	<a class="a-class-blue" href="https://youtu.be/-kI769Xigik?si=AcA4Ig8Que85xzWW&t=204">Ibteda tumhi ho, intehan tumhi ho</a>
 </div>
 <hr>
 
@@ -28,7 +28,7 @@ Really enjoyed collecting songs for [The Bollywood Project](/the-bollywood-proje
 	<a class="a-class-yellow" href="https://youtu.be/NRYlZqvTSSs?si=xzOVA5WAUymyWb5K&t=120">Kahe khafa mose chulbul se bulbul</a>
 	<a class="a-class-blue" href="https://youtu.be/SAcpESN_Fk4?si=s0TEAuWbpp-Y4nPs&t=40">Ye naarazgi kaagzi saari teri</a>
 	<a class="a-class-red" href="https://youtu.be/1LPtNHJckpw?si=bq99OQIF3l0mTqUg&t=12">Acha ji main haari chalo maan jao na</a>
-	<a class="a-class-green" href="https://youtu.be/vdbP_3o73qI?si=ZakxEXZzhPIIRYwM&t=61">Ke maaregi se zyada mujhe maut se naarazgi teri</a>
+	<a class="a-class-green" href="https://youtu.be/vdbP_3o73qI?si=ZakxEXZzhPIIRYwM&t=61">Ke maaregi zyada mujhe maut se naarazgi teri</a>
 </div>
 <hr>
 
