@@ -54,6 +54,7 @@ Certain words occur very frequently in Hindi (Bollywood) songs -- such as khuda,
 	<a class="a-class-yellow" href="https://youtu.be/hgi2MYAFgE8?si=pHilpjKF4QkHbuh3&t=27">Gulabi ankhein jo teri dekhi</a>
 	<a class="a-class-red" href="https://youtu.be/_Q3kxtFyhBU?si=Tfgjb3NkADxxkZUZ&t=24">Sambhalo zara apna aanchal gulabi</a>
 	<a class="a-class-blue" href="https://youtu.be/yHWPO9DDnsk?si=sYvjnimy1NUnq3Wf&t=41">Gulabi si subah</a>
+	<a class="a-class-green" href="https://youtu.be/B_6d3RBiEN0?si=0EM-EsvJ-cajIsm-&t=39">Gulabi Sadi</a>
 </div>
 <hr>
 
