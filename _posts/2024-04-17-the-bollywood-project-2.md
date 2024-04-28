@@ -13,6 +13,7 @@ Really enjoyed collecting songs for [The Bollywood Project](/the-bollywood-proje
 <div style="line-height: 2;">
 	<a class="a-class-yellow" href="https://youtu.be/jh66Pjtqr4k?si=I2YvB0FCxtUzTvuX&t=208">Khwabon ko jagah na mili aankhon mein wahan pehle se hi sailab tha</a>
 	<a class="a-class-blue" href="https://youtu.be/6QqtOJaq5Oo?si=bO_aLFATmjxRU9tV&t=46">Ishq mein nigahon ko milti hai baarishen</a>
+	<a class="a-class-red" href="https://youtu.be/gJLVTKhTnog?si=cqu71TaIU0DJWJDk&t=92">Fir aate kyun yahan karne aankhon me ho baarish</a>
 </div>
 <hr>
 
