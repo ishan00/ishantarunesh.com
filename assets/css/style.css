@@ -71,7 +71,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 
 .span-class-startup {
   background-color: #EAEDED;
-  color: #E74C3C;
+  color: #566573;
 }
 
 .span-class-technical {
@@ -89,9 +89,9 @@ Released for free under a Creative Commons Attribution 2.5 License
   color: #2E86C1;
 }
 
-.span-class-recommendation {
+.span-class-song {
   background-color: #EAEDED; 
-  color: #566573;
+  color: #E74C3C;
 }
 
 .a-class-red {

@@ -13,8 +13,10 @@ layout: default
 				<!-- <div>(by Ishan Tarunesh)</div> -->
 			</center>
 
+			<hr>
+
 			{% include filter_by_tags.html %}
-			
+
 			<ul>
 			{% for post in site.posts %}
 				{% if post.tags contains page.tags[0] or page.tags[0] == "all" %}
