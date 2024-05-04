@@ -11,3 +11,8 @@ collections:
   hidden:
     output: true
     permalink: /:collection/:title
+
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/

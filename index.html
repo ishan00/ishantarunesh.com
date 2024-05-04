@@ -1,17 +1,13 @@
 ---
 title: Poorly Thoughtout Life
-layout: page
+layout: home
 permalink: 
 ---
 
 <div class="image-container" style="text-align: center;">
-<img src="images/blog.png" style="max-width:100%; display: inline-block;">
+    <img src="/images/blog.png" style="max-width:100%; display: inline-block;">
 </div>
 <hr>
-
-<!-- <div style="float:right"> -->
-	<!-- <button class="button-2" id="toggleButton">Sort by Category</button> -->
-<!-- </div> -->
 
 <!-- {%- assign total_words = 0 -%}
 {%- for post in site.posts -%}
@@ -20,78 +16,3 @@ permalink:
 {%- endfor -%}
 
 Total words written: {{ total_words }} -->
-
-Tags: <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #000000;" data-tag="all">all</span>, <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #2ECC71;" data-tag="personal">personal</span>, <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #E74C3C;" data-tag="startup">startup</span>, <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #F39C12;" data-tag="technical">technical</span>, <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #2E86C1;" data-tag="fiction">fiction</span>, <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #7D3C98;" data-tag="book">book</span>, <span class="span-class-tag filter-btn" style="background-color: #EAEDED; color: #566573;" data-tag="recommendation">recommendation</span>
-
-<ul>
-{% for post in site.posts %}
-		{% assign currentdate = post.date | date: "%B %Y" %}
-		{% if currentdate != date %}
-		</ul>
-			<h4>{{ currentdate }}</h4>
-		<ul>
-			{% assign date = currentdate %} 
-		{% endif %}
-		
-		<li data-tags="{{ post.tags }}"><a href="{{ post.url }}">{{ post.title }}</a> 
-			<span class="span-class-tag span-class-{{ post.tags }}">{{ post.tags }}</span>
-		</li>
-{% endfor %}
-</ul>
-<script>
-    // Get all filter buttons
-    const filterspans = document.querySelectorAll('.filter-btn');
-
-    // Get all posts
-    const posts = document.querySelectorAll('li');
-    const headings = document.querySelectorAll('h4')
-
-    // Attach click event listener to each filter button
-    filterspans.forEach(span => {
-        span.addEventListener('click', () => {
-            const tag = span.getAttribute('data-tag');
-            // const backgroundColor = span.style.backgroundColor;
-        	// const color = span.style.color;
-            // span.style.backgroundColor = color;
-        	// span.style.color = backgroundColor;
-            filterPosts(tag);
-        });
-    });
-
-    // Function to filter posts
-    function filterPosts(tag) {
-        // If tag is 'all', show all posts
-        if (tag === 'all') {
-            posts.forEach(post => {
-                post.classList.remove('hidden');
-            });
-            checkVisibility();
-            return;
-        }
-
-        // Loop through each post
-        posts.forEach(post => {
-            // Check if post has the specified tag
-            if (post.getAttribute('data-tags').includes(tag)) {
-                post.classList.remove('hidden'); // Show the post
-            } else {
-                post.classList.add('hidden'); // Hide the post
-            }
-        });
-        checkVisibility();
-
-    }
-
-    function checkVisibility() {
-        headings.forEach(heading => {
-            const nextUl = heading.nextElementSibling;
-            const visibleLi = nextUl.querySelector('li:not(.hidden)');
-            if (!visibleLi) {
-                heading.setAttribute('hidden', true);
-            } else {
-                heading.removeAttribute('hidden');
-            }
-        });
-    }
-
-</script>

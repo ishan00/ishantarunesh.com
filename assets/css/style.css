@@ -44,6 +44,14 @@ Released for free under a Creative Commons Attribution 2.5 License
   display: none;
 }
 
+.btn-tag {
+  border-radius: 20px;
+  padding-left: 6px;
+  padding-right: 6px;
+  font-size: 16px;
+  border: 0px;
+}
+
 .span-class-tag {
   border-radius: 20px;
   padding-left: 6px;
