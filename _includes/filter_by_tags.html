@@ -15,13 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
     button.addEventListener("click", function() {
       var tag = this.getAttribute("data-tag");
       console.log(tag);
-      var url;
-      if (tag === "all"){
-        url = "/";
-      }
-      else{
-        url = "/tags/" + tag + "/"; // Adjust the URL format as needed
-      }
+      var url = "/tag/" + tag + "/"; // Adjust the URL format as needed
       window.location.href = url;
     });
   });

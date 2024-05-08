@@ -15,4 +15,4 @@ collections:
 collections:
   tags:
     output: true
-    permalink: /tags/:name/
+    permalink: /tag/:name/
