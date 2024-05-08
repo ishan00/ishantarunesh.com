@@ -19,7 +19,7 @@ Two personal essays: [<u>turning 25</u>](/turning-25), [<u>the joy of writing</u
 
 Analogy of life with {[<u>amusement park</u>](/life-and-amusement-park), [<u>driving</u>](/life-and-driving), [<u>rival restaurants</u>](/life-and-rival-restaurants)}
 
-Plently of good [<u>advice on staring up</u>](/advice-on-starting-up) and [<u>frameworks for generating ideas</u>](/framework-on-generating-ideas). Want to work for startups? [<u>questions to ask before joining a startup</u>](/questions-to-ask-before-joining-a-startup), [<u>startup search experience</u>](/startup-search-experience). 
+Plenty of good [<u>advice on staring up</u>](/advice-on-starting-up) and [<u>frameworks for generating ideas</u>](/framework-on-generating-ideas). Want to work for startups? [<u>questions to ask before joining a startup</u>](/questions-to-ask-before-joining-a-startup), [<u>startup search experience</u>](/startup-search-experience). 
 
 Notes on the HR Tech space: [<u>intro</u>](/introduction-to-recruitment), [<u>current landscape</u>](/current-recruitment-landscape)
 
