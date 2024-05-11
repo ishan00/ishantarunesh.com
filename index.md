@@ -28,6 +28,8 @@ Arjun and Vaishnavi talk a lot and think even more. Find them in the stories - [
 I have a hobby of collecting songs with certain [<u>words</u>](/the-bollywood-project) or [<u>emotions</u>](/the-bollywood-project-2). Also songs are a great way to [<u>pick up Urdu words</u>](/learning-urdu-words-through-bollywood-songs)
 
 
+[<u>Notes</u>](https://docs.google.com/document/d/111iXu16XfAF6Stgs1YBpwIKUaMApjhA8_lPJMFjGaQA/edit?usp=sharing) on books I've read
+
 <hr>
 <div style="margin-top:40px">
 <center>
