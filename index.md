@@ -21,11 +21,11 @@ Analogy of life with {[<u>amusement park</u>](/life-and-amusement-park), [<u>dri
 
 Plenty of good [<u>advice on staring up</u>](/advice-on-starting-up) and [<u>frameworks for generating ideas</u>](/framework-on-generating-ideas). Want to work for startups? [<u>questions to ask before joining a startup</u>](/questions-to-ask-before-joining-a-startup), [<u>startup search experience</u>](/startup-search-experience). 
 
-Notes on the HR Tech space: [<u>intro</u>](/introduction-to-recruitment), [<u>current landscape</u>](/current-recruitment-landscape)
+Notes on the HR Tech space: [<u>introduction</u>](https://docs.google.com/document/d/1gm0BlAiZXnnY_S5_FKnM8HlcYCe4LuXwRjz_I_Fzv3g/edit?usp=sharing), [<u>current landscape</u>](https://docs.google.com/spreadsheets/d/1xVZdDWA2pQ7n5oebGfFWLs9EL8qR6OQNt2KpB4IuD7Y/edit?usp=sharing)
 
 Arjun and Vaishnavi talk a lot and think even more. Find them in the stories - [<u>twelfth kind of loneliness</u>](/twelfth-kind-of-loneliness), [<u>packing day again</u>](/packing-day-again), [<u>waiting at airport</u>](/waiting-at-airport) and [<u>makes me happy</u>](/makes-me-happy)
 
-I have a hobby of collecting songs with certain [<u>words</u>](/the-bollywood-project) or [<u>emotions</u>](/the-bollywood-project-2). Also songs are a great way to [<u>pick up Urdu words</u>](/learning-urdu-words-through-bollywood-songs)
+I have a hobby of collecting songs with certain words or emotions. Checkout [<u>The Bollywood Project</u>](https://docs.google.com/document/d/1eav8r3TtyNYhVo3iKr1caejL8k00uJiHrb7f8bs15bU/edit?usp=sharing). A great way to [<u>pick up Urdu words</u>](/learning-urdu-words-through-bollywood-songs) is to listen to songs.
 
 
 [<u>Notes</u>](https://docs.google.com/document/d/111iXu16XfAF6Stgs1YBpwIKUaMApjhA8_lPJMFjGaQA/edit?usp=sharing) on books I've read
