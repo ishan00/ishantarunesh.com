@@ -42,11 +42,11 @@ permalink:
 * Prev - Engineering at babblebots.ai and Samsung Electronics (Korea). Graduated from Department of CSE, IITB
 
 #### Writing / Misc
-* [<u>Poorly Thoughtout Life</u>](https://docs.google.com/document/d/1mXcSRaUGzQivzBddNo_bsS7PzKaNvvEKvcy0ubbrZTE/edit?usp=sharing); essays on career, self-improvement and life
+* [<u>Poorly Thoughtout Life</u>](/blog); essays on career, self-improvement and life
 * Thinking of starting up? [<u>advice on staring up</u>](/advice-on-starting-up) and [<u>frameworks for generating ideas</u>](/framework-on-generating-ideas).
 * Want to work for startups? [<u>questions to ask before joining a startup</u>](/questions-to-ask-before-joining-a-startup), [<u>startup search experience</u>](/startup-search-experience). List of AI startups in India ([<u>original</u>](https://docs.google.com/spreadsheets/d/1R3jmmDR6W9Ljm_vOiZAnND4tiSwrYzrooVPboVMCDlo/edit?usp=sharing) + [<u>extended</u>](https://docs.google.com/spreadsheets/d/1Y0EUYZXjdZJyoum2aU4z5Ec0WlTGXFnbZ8wRrAer_4g/edit?usp=sharing))
 * [<u>Flawed Characters</u>](https://flawedcharacters.substack.com/) (fiction); stories of Arjun and Vaishnavi.
-* [<u>The Bollywood Project</u>](https://docs.google.com/document/d/1eav8r3TtyNYhVo3iKr1caejL8k00uJiHrb7f8bs15bU/edit?usp=sharing); collecting songs with certain words or emotions
+* [<u>The Bollywood Project</u>](/songs); collecting songs with certain words or emotions
 * [<u>Articles</u>](https://docs.google.com/document/d/1Wb9xX2PlcCkEdFkHBlns0GtmWy8mvvLOc7hWLb7aqq4/edit?usp=sharing) on Gen AI or LLM I've written.
 * [<u>Notes</u>](https://docs.google.com/document/d/111iXu16XfAF6Stgs1YBpwIKUaMApjhA8_lPJMFjGaQA/edit?usp=sharing) on books I've read.
 * Notes on HR Tech space [<u>introduction</u>](https://docs.google.com/document/d/1gm0BlAiZXnnY_S5_FKnM8HlcYCe4LuXwRjz_I_Fzv3g/edit?usp=sharing), [<u>current landscape</u>](https://docs.google.com/spreadsheets/d/1xVZdDWA2pQ7n5oebGfFWLs9EL8qR6OQNt2KpB4IuD7Y/edit?usp=sharing)

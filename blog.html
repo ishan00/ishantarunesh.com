@@ -1,0 +1,29 @@
+---
+title: Poorly Thoughtout Life
+layout: page
+permalink: blog
+---
+
+<div class="image-container" style="text-align: center;">
+    <img src="/images/blog.png" style="max-width:100%; display: inline-block;">
+</div>
+<hr>
+
+<h3 style='text-align: center;'>Table Of Contents</h3>
+<ul>
+{% for post in site.posts %}
+        {% if post.tags contains 'personal' %}
+                <!-- {% assign currentdate = post.date | date: "%B %Y" %} -->
+                <!-- {% if currentdate != date %} -->
+                <!-- </ul> -->
+                        <!-- <h4>{{ currentdate }}</h4> -->
+                <!-- <ul> -->
+                        <!-- {% assign date = currentdate %}  -->
+                <!-- {% endif %} -->
+                
+                <li data-tags="{{ post.tags }}"><a href="{{ post.url }}">{{ post.title }}</a> 
+                        <!-- <span class="span-class-tag span-class-{{ post.tags }}">{{ post.tags }}</span> -->
+                </li>
+        {% endif %}
+{% endfor %}
+</ul>
