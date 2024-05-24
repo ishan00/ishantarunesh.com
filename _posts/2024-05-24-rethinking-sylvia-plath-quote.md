@@ -1,0 +1,14 @@
+---
+title: Rethinking Sylvia Plath's Quote
+layout: post
+date: 2024-05-24 8:00 +0530
+tags: personal
+permalink: rethinking-sylvia-plath-quote
+---
+
+> “I saw my life branching out before me like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, and another fig was Ee Gee, the amazing editor, and another fig was Europe and Africa and South America, and another fig was Constantin and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and another fig was an Olympic lady crew champion, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.”
+-- Sylvia Plath
+
+These words by Sylvia, give you a feeling of dread about growing up. Fork on the road. The pain of closing a path for the other. The pain of accepting the versions you would never become. I’ve felt this very strongly too when I was overwhelmed (or rather paralysed) with career choices. Making choices is perhaps the hardest thing due to their trade-offs and sacrifices. 
+
+Recently, I’ve found a different way of looking at choices. And reinterpret this quote to make it less bleak. I don’t have all the choices that I have to make at the current time. The quote implies that all choices start from now and are exclusive to each other -- lead to lives that forever remain divergent from each other. I don’t think that is the case. I only have a handful of choices to make at the current moment. And there are choices that get unlocked in the future that are even better than the ones I am thinking about right now. You can be an entrepreneur and then later be a visiting professor at a university ([example](https://www.linkedin.com/in/vwadhwa/)). You can also be a professor and run a company ([example](https://www.linkedin.com/in/alighodsi/), [example](https://www.linkedin.com/in/shrivastava-anshumali-58098b6/), [example](https://www.linkedin.com/in/arjunjain/)). There are career choices that would unlock only after I am financially free. There are family choices that would unlock after I get married. Doing one thing well will open up chances to do other things well.
