@@ -23,10 +23,6 @@ So what's your story? What's your challenge? Is it a story-worthy challenge?
 
 Side Note - RCB doesn’t have a bad team. Instead they have bad luck. And that’s why their story is going to be the greatest! They are not competing with MI or CSK. They are competing with their bad luck. It's one of the biggest challenges to have — that the World is not in your favour. (wait for them to win).
 
-I think the people who do great learn how to start from scratch every time something doesn’t work. They shed their identity of what they have been till now and get on with their new identity — forever amateurs. It’s an extremely difficult thing to do. If you come from a good family, study at a good school, or work at a good company, you are already someone, so the thought of becoming no one is frightening. The games you play are intended to prevent yourself from becoming “no one”. In that sense people who aren’t attached to any identity, have an advantage that they are free to become anyone. They flow quickly between things, and have an easy time making decisions because they don’t have to process the grief of losing their identity. 
-
-So keeping your identity small would be a good way to make it less stressful to change the course of life. You’re not an engineer, or a lawyer or a consultant. You’re a 25 year old who has spent 7 years studying or working in engineering, law or consulting. You can have many more 7 years careers. 
-
 Update - RCB qualified for playoffs. From losing 7 out of first 8 games to winning the next 6.
 
 Further Unrelated Reading -
