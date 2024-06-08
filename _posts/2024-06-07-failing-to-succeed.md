@@ -3,7 +3,7 @@ title: Failing To Succeed
 layout: post
 date: 2024-06-07
 tags: book
-permalink: Failing To Succeed
+permalink: failing-to-succeed
 ---
 
 “Most people think that Kharagpur is a town which has nothing except an IIT (Indian Institute of Technology). Kharagpur is actually quite a cosmopolitan railway town, and you can hear most Indian languages being spoken there. Locals are more proud of the world’s longest railway platform than the IIT, and many feel that walking up and down this over a mile long platform kept railway ticket inspector M.S. Dhoni fit as he started his cricketing journey.”
