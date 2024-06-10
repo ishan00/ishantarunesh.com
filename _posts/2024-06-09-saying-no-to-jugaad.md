@@ -1,0 +1,34 @@
+---
+title: Saying No To Jugaad
+layout: post
+date: 2024-06-09
+tags: book
+permalink: saying-no-to-jugaad
+---
+
+Solutions to local problems needed change in consumer behaviours and low price points. Invariably, they involved long gestation periods and cash burn. This called for investors with deep pockets, nerve and audacity. And for several reasons such investors had stayed away from India in the past.
+
+“India was a youthful nation and pretty much everyone in the media (and most other industries) had not witnessed the hype-disappointment cycles of the past. So, it wasn’t surprising that the top news and stories that the media covered was usually about funding, growth and people like themselves. Very few knew what some of the wise folks in Silicon Valley had discovered a strong and somewhat weird correlation between a start-up appearing on the cover of Newsweek magazine and it’s almost certain near-term demise.”
+
+If you see yourself as a retail company, you would appreciate the importance of controlling inventory, the criticality of the supply chain, logistics, farmer tie-ups, buying and merchandising, and the part each of them plays. And each in itself is a highly evolved domain where the playbook has already been written. If you have not been part of writing this book or playing by this book, and your origins were in tech, you had to learn these domains through a combination of experimentation and imitation, neither of which is conducive for rapid scaling. If your origins were retail, you had to learn tech.
+
+We are generally of the belief that it is important to have one of the founders be head and shoulders above the rest and lead the way, for the most part, for a start-up to scale quickly. Even Narayana Murthy of Infosys had once made this point in an interview. Bigbasket has proved to be an exception to this conventional wisdom. A team of high-calibre individuals with complementary skills (but completely aligned on values and execution focus) can work together. And, if it works, you can achieve the kind of amplification and resonance that no single leader can hope to create.
+
+Ivy League education often comes at a disproportionate premium. Even when Bigbasket picked people from top colleges and universities, it was only after they cleared an attitude fit. The two components of attitude fit were an ability to work with others who didn’t have access to a privileged education and not creating internal cliques.
+
+When Lee and Tiger Global invested in a start-up, it was a big moral—and often real—setback for every other competitor in the space. Tiger Global’s bold betting strategy, deep pockets and their ability to persuade other deep-pocketed investors to participate in the subsequent rounds of funding had become legendary. Businesses that needed sustained cash for scaling could not afford to have Tiger Global in the rival camp. Tiger Global was now scouting for a grocery e-commerce start-up to invest in.
+
+And finally, no culture is good or bad. It is what it is. Culture is who you are. Just as individuals can learn along the way but cannot easily change who they truly are, companies, too, can learn and adapt but will find it difficult to be very different from what they deeply are.
+
+Some years later, in one of my conversations with Kabeer Biswas, the founder of the much-adored start-up Dunzo, he articulated a concern, ‘How do you preserve empathy for customers and partners (Dunzo’s core value was ‘empathy’) as Dunzo scales?’ For Dunzo, it may have been empathy they wanted to preserve and for some other start-up, it could be something different. At least 20 other start-ups that had crossed the product-market fit and gone into scaling mode have asked me (Hari) the same question. Even founders with a hardcore tech background who may have never cared about this, suddenly seem to figure out that as their start-ups scaled, preserving the cool culture they had created would be their biggest challenge.
+
+“When Uber and Ola started operations, both customers and drivers had a whale of a time. India was new to online commerce of any kind. Most people didn’t understand how these companies could offer such low fares and still make money. Very few understood that they did not want to make money in the short term. Their game plan was for the long term. It was about changing customer behaviour, getting them hooked to a great experience and gradually increasing the fares.”
+
+“Right now, the good days are behind us. Consumer behaviour has undergone the change that these companies were hoping for. The taxi aggregation companies have now upped fares sharply, introduced charges for waiting time in traffic and created surge pricing during peak hours. The pricing is not transparent. Some customers have logged out and gone back to traditional means of public commute, but a good number of them have been hooked and continue to use their services despite the opacity in pricing.
+So, cashbacks and discounts were a channel-switching strategy. It was backed by investors with deep pockets who were not willing to wait it out. They wanted to accelerate this switch and believed that any money spent in making this happen would only increase the overall returns.”
+
+“Now let us move from taxi aggregation to retail e-commerce. Taxi aggregation was a green-field territory. There was no taxi service that existed prior to Uber or Ola in most Indian cities, including large metros like Bengaluru, Chennai, Hyderabad and Delhi. Kolkata and Mumbai had hail-a-taxi services, but the density of cabs on the road was so low that it was very difficult to get one. So taxi aggregators were not providing an alternative to an existing service. By eliminating the challenge of getting a cab reliably at a short notice at your doorstep, or wherever you wanted it, the new model was creating an on-demand taxi service. If taxi aggregators were a mere alternative to an existing service, consumers could go back to the other service if and when Ola chose to raise prices. But, there was no alternative to go back to.”
+
+“In retail, the reality was different. There was a very strong network of modern retail and ‘kirana’ stores, which were doing a good job of fulfilling the customer’s needs. So, online retail would have to fight much harder. Attracting customers through discounts did not mean that customers would stick to online even after discounts were withdrawn; unlike in the case of Uber or Ola, they could easily go back to their earlier channels. The online value proposition was not strong enough without discounts. The trade-off was obvious—‘convenience’ of online versus the ‘touch and feel’ of offline. The balance was fine. It was discounts that were tilting the scales.”
+
+“The cost of customer acquisition is high. Unless it could be amortised over multiple purchases, it was not sustainable. And if there is no differentiation, there is no loyalty or repeat purchases.”
