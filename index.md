@@ -42,7 +42,7 @@ permalink:
 * Prev - Engineering at babblebots.ai and Samsung Electronics (Korea). Graduated from Department of CSE, IITB
 
 #### Writing / Misc
-* [<u>Poorly Thoughtout Life</u>](/blog); essays on career, self-improvement and life
+* [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.substack.com/); essays on career, self-improvement and life
 * Notes on [<u>startups</u>](/tag/startup), [<u>LLMs</u>](/tag/technical) and [<u>books</u>](/tag/book) I've read
 * [<u>The Bollywood Project</u>](/songs); collecting songs with certain words or emotions
 <!-- * List of AI startups in India ([<u>original</u>](https://docs.google.com/spreadsheets/d/1R3jmmDR6W9Ljm_vOiZAnND4tiSwrYzrooVPboVMCDlo/edit?usp=sharing) + [<u>extended</u>](https://docs.google.com/spreadsheets/d/1Y0EUYZXjdZJyoum2aU4z5Ec0WlTGXFnbZ8wRrAer_4g/edit?usp=sharing)) -->
