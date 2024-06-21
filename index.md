@@ -43,7 +43,7 @@ permalink:
 
 #### Writing / Misc
 * [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.substack.com/); essays on career, self-improvement and life
-* Notes on [<u>startups</u>](/tag/startup), [<u>LLMs</u>](/tag/technical) and [<u>books</u>](/tag/book) I've read
+* Notes on [<u>AI and Startups</u>](https://ishantarunesh.substack.com/)
 * [<u>The Bollywood Project</u>](/songs); collecting songs with certain words or emotions
 <!-- * List of AI startups in India ([<u>original</u>](https://docs.google.com/spreadsheets/d/1R3jmmDR6W9Ljm_vOiZAnND4tiSwrYzrooVPboVMCDlo/edit?usp=sharing) + [<u>extended</u>](https://docs.google.com/spreadsheets/d/1Y0EUYZXjdZJyoum2aU4z5Ec0WlTGXFnbZ8wRrAer_4g/edit?usp=sharing)) -->
 
