@@ -38,7 +38,7 @@ permalink:
 </section>
 
 #### Work
-* Co-founder @ [<u>Tailored AI</u>](https://tailoredai.co).
+* Co-founder @ [<u>Tailored AI</u>](https://tailoredai.co). Building an AI product and service company.
 * Prev - Engineering at babblebots.ai and Samsung Electronics (Korea). Graduated from Department of CSE, IITB
 
 #### Writing / Misc
