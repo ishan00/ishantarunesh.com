@@ -38,13 +38,9 @@ permalink:
 </section>
 
 #### Work
-* Co-founder @ [<u>Tailored AI</u>](https://tailoredai.co). Building an AI service company to empower enterprises to build visionary products.
+* Co-founder @ [<u>Tailored AI</u>](https://tailoredai.co).
 * Prev - Engineering at babblebots.ai and Samsung Electronics (Korea). Graduated from Department of CSE, IITB
 
 #### Writing / Misc
-* [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.substack.com/); essays on career, startups, self-improvement and life
-* [<u>The Bollywood Project</u>](/songs); collecting songs with certain words or emotions
-<!-- * List of AI startups in India ([<u>original</u>](https://docs.google.com/spreadsheets/d/1R3jmmDR6W9Ljm_vOiZAnND4tiSwrYzrooVPboVMCDlo/edit?usp=sharing) + [<u>extended</u>](https://docs.google.com/spreadsheets/d/1Y0EUYZXjdZJyoum2aU4z5Ec0WlTGXFnbZ8wRrAer_4g/edit?usp=sharing)) -->
-
-<!-- PS: To visit the old blog click [<u>here</u>](/tag/all/) -->
-<!-- <p>I work at Babblebots (early-stage startup)</p> -->
+* [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.substack.com/); essays on career and life
+* [<u>The Bollywood Project</u>](https://docs.google.com/document/d/1eav8r3TtyNYhVo3iKr1caejL8k00uJiHrb7f8bs15bU/edit?usp=sharing); fascination with songs
