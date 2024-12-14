@@ -43,4 +43,3 @@ permalink:
 
 #### Writing / Misc
 * [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.substack.com/); essays on career and life
-* [<u>The Bollywood Project</u>](https://docs.google.com/document/d/1eav8r3TtyNYhVo3iKr1caejL8k00uJiHrb7f8bs15bU/edit?usp=sharing); fascination with songs
