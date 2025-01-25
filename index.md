@@ -42,4 +42,4 @@ permalink:
 * Prev - Engineering at babblebots.ai and Samsung Electronics (Korea). Graduated from Department of CSE, IITB
 
 #### Writing / Misc
-* [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.substack.com/); essays on career and life
+* [<u>Poorly Thoughtout Life</u>](https://poorlythoughtoutlife.bearblog.dev/); essays on career and life
